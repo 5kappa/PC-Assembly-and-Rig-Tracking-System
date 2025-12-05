@@ -1,12 +1,14 @@
-    PARTS Roadmap
+[ PARTS Roadmap ]
 
-1. Get a console application to work with Kaggle CSV datasets
+1. Get a console application to work with Kaggle CSV datasets.
 
     WORKFLOW
 
         (1) App starts -> app loads CSV datasets into Java memory
-        (2) App shows already made builds, if any. If not, then "CREATE BUILD"
-        (3) App shows this:
+        (2) App shows already made builds, if any. Also gives user the option to update already existing builds. If not, then (2.5)
+            (2.5) Create build
+
+        (3) App shows menu:
 
             CPU: None
             RAM: None
@@ -31,9 +33,17 @@
                 * inspect a part by selecting the ID
 
             If user inspects, program shows 10 parts per page. User can sort by asc/desc for columns like ID, price and part specifications
-            should give the option to [1] go back to the page they were browsing or [2] select the part and go back to the menu.
+            After inspecting, program should give the option to [1] go back to the page they were browsing or [2] select the part and go back to the menu.
 
+            After selecting, program shows the menu at (3). Program also gives the option to remove and replace each part.
+            Every time selection is finished, (5).
 
+            Note to self: each build can have multiple:
+                * RAM
+                * SSD
+                * HDD
+
+        [ COMPATIBILITY CHECKS ]
         (5) App checks for compatibility:
 
             cpu.socket -> motherboard.socket
@@ -57,11 +67,10 @@
 
             case.supported_form_factors -> motherboard.form_factor
 
-            (5.1) If compatible: ask user to give build a name, then save build to memory/file
-            (5.2) If incompatible: prevent save, show specific error
-
         (6) App calculates total price
-        (7) User saves build, back to step 2
+        (7) User saves build.
+            (7.1) If compatible: ask for user to name the build
+            (7.2) If incompatible: prevent save, show error
 
 2. [Maybe] Implement SQL after a working console prototype is done, if time allows.
 3. [Maybe] Learn how to use APIs. Prices are volatile. Just using one set of datasets will not suffice because prices change.
