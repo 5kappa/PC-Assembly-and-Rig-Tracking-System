@@ -1,7 +1,7 @@
 package com.parts.model;
 
 public class Ram extends Component {
-    // Component-specific properties
+    // Properties for compatibility checking
     private String ramType;
     private int moduleCount;
 

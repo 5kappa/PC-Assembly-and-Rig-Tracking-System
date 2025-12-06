@@ -1,7 +1,7 @@
 package com.parts.model;
 
 public class Cpu extends Component {
-    // Component-specific properties
+    // Properties for compatibility checking
     private String socket;
 
     // CPU-specific properties

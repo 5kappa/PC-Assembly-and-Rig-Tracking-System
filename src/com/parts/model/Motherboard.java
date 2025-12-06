@@ -1,7 +1,7 @@
 package com.parts.model;
 
 public class Motherboard extends Component {
-    // Component-specific properties
+    // Properties for compatibility checking
     private String socket;
     private String ramType;
     private int ramSlotCount;
@@ -15,7 +15,7 @@ public class Motherboard extends Component {
 
     // Ports
     private int sataPortCount;
-    private int m2SlotCount;
+    private int m2SlotCount;            // ! NOT IN DATASET
     private int vgaPortCount;
     private int dviPortCount;
     private int hdmiPortCount;
