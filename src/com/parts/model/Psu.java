@@ -17,7 +17,7 @@ public class Psu extends Component {
     }
 
     public String getSize() { return size; }
-    public int outputWattage() { return outputWattage; }
+    public int getOutputWattage() { return outputWattage; }
     public String getEfficiencyRating() { return efficiencyRating; }
 
     @Override
