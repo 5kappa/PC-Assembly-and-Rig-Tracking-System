@@ -35,6 +35,7 @@ public class Psu extends Component {
         this.eps8PinCount = eps8PinCount;
         this.pcie6Plus2PinCount = pcie6Plus2PinCount;
         this.pcie12PinCount = pcie12PinCount;
+        this.pcie16Pin12VHPWRCount = pcie16Pin12VHPWRCount;
         this.sataCount = sataCount;
         this.atx4PinCount = atx4PinCount;
         this.pcie6PinCount = pcie6PinCount;
@@ -52,12 +53,13 @@ public class Psu extends Component {
     public int getEps8PinCount() { return eps8PinCount; }
     public int getPcie6Plus2PinCount() { return pcie6Plus2PinCount; }
     public int getPcie12PinCount() { return pcie12PinCount; }
+    public int getPcie16Pin12VHPWRCount() { return pcie16Pin12VHPWRCount; }
     public int getSataCount() { return sataCount; }
     public int getAtx4PinCount() { return atx4PinCount; }
     public int getPcie6PinCount() { return pcie6PinCount; }
     public int getPcie8PinCount() { return pcie8PinCount; }
     public int getAmpMolex4PinCount() { return ampMolex4PinCount; }
-    
+
     public int getOutputWattage() { return outputWattage; }
     public String getEfficiencyRating() { return efficiencyRating; }
     public String getModularity() { return modularity; }
