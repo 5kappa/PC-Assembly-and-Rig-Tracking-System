@@ -7,6 +7,10 @@ public class Motherboard extends Component {
     private int ramSlotCount;
     private int maxRamCapacityGBs;
     private String formFactor;
+    private int pcieX16SlotCount;
+    private int pcieX1SlotCount;
+    private int pcieX4SlotCount;
+    private int pcieX8SlotCount;
 
     // Motherboard-specific properties
     private String chipset;
@@ -18,9 +22,10 @@ public class Motherboard extends Component {
     private int m2SlotCount;            // ! NOT IN DATASET
     
     public Motherboard(String id, String name, String manufacturer, double price, String socket,
-                       String ramType, int ramSlotCount, String formFactor, String chipset,
-                       int maxRamCapacityGBs, String primaryColor, int sataPortCount,
-                       int m2SlotCount, boolean hasWifi) {
+                       String ramType, int ramSlotCount, int maxRamCapacityGBs, String formFactor,
+                       int pcieX16SlotCount, int pcieX1SlotCount, int pcieX4SlotCount,
+                       int pcieX8SlotCount, String chipset, boolean hasWifi, String primaryColor,
+                       int sataPortCount, int m2SlotCount) {
 
         super(id, name, manufacturer, price);
 
@@ -29,6 +34,10 @@ public class Motherboard extends Component {
         this.ramSlotCount = ramSlotCount;
         this.maxRamCapacityGBs = maxRamCapacityGBs;
         this.formFactor = formFactor;
+        this.pcieX16SlotCount = pcieX16SlotCount;
+        this.pcieX1SlotCount = pcieX1SlotCount;
+        this.pcieX4SlotCount = pcieX4SlotCount;
+        this.pcieX8SlotCount = pcieX8SlotCount;
 
         this.chipset = chipset;
         this.hasWifi = hasWifi;
@@ -43,6 +52,10 @@ public class Motherboard extends Component {
     public int getRamSlotCount() { return ramSlotCount; }
     public int getMaxRamCapacityGBs() { return maxRamCapacityGBs; }
     public String getFormFactor() { return formFactor; }
+    public int getPcieX16SlotCount() { return pcieX16SlotCount; }
+    public int getPcieX1SlotCount() { return pcieX1SlotCount; }
+    public int getPcieX4SlotCount() { return pcieX4SlotCount; }
+    public int getPcieX8SlotCount() { return pcieX8SlotCount; }
 
     public String getChipset() { return chipset; }
     public boolean hasWifi() { return hasWifi; }
