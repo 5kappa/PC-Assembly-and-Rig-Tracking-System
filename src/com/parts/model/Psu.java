@@ -23,17 +23,46 @@ public class Psu extends Component {
     private boolean isFanless;
 
 
-    public Psu(String id, String name, String manufacturer, double price,
-               String size, int outputWattage, String efficiencyRating) {
+    public Psu(String id, String name, String manufacturer, double price, String size,
+               int eps8PinCount, int pcie6Plus2PinCount, int pcie12PinCount, int pcie16Pin12VHPWRCount,
+               int sataCount, int atx4PinCount, int pcie6PinCount, int pcie8PinCount,
+               int ampMolex4PinCount, int outputWattage, String efficiencyRating,
+               String modularity, String color, boolean isFanless) {
+
         super(id, name, manufacturer, price);
+
         this.size = size;
+        this.eps8PinCount = eps8PinCount;
+        this.pcie6Plus2PinCount = pcie6Plus2PinCount;
+        this.pcie12PinCount = pcie12PinCount;
+        this.sataCount = sataCount;
+        this.atx4PinCount = atx4PinCount;
+        this.pcie6PinCount = pcie6PinCount;
+        this.pcie8PinCount = pcie8PinCount;
+        this.ampMolex4PinCount = ampMolex4PinCount;
+
         this.outputWattage = outputWattage;
         this.efficiencyRating = efficiencyRating;
+        this.modularity = modularity;
+        this.color = color;
+        this.isFanless = isFanless;
     }
 
     public String getSize() { return size; }
+    public int getEps8PinCount() { return eps8PinCount; }
+    public int getPcie6Plus2PinCount() { return pcie6Plus2PinCount; }
+    public int getPcie12PinCount() { return pcie12PinCount; }
+    public int getSataCount() { return sataCount; }
+    public int getAtx4PinCount() { return atx4PinCount; }
+    public int getPcie6PinCount() { return pcie6PinCount; }
+    public int getPcie8PinCount() { return pcie8PinCount; }
+    public int getAmpMolex4PinCount() { return ampMolex4PinCount; }
+    
     public int getOutputWattage() { return outputWattage; }
     public String getEfficiencyRating() { return efficiencyRating; }
+    public String getModularity() { return modularity; }
+    public String getColor() { return color; }
+    public boolean isFanless() { return isFanless; }
 
     @Override
     public String toString() {
