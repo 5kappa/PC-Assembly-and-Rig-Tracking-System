@@ -8,22 +8,29 @@ public class CpuCooler extends Component {
     private int heightMm;
     private List<String> supportedSockets;
 
-    private int tdpRating;
     private boolean supportsAdditionalFans;
     private String fanRPM;                  // ! NOT IN DATASET
     private String noiseLevelDb;            // ! NOT IN DATASET
+    private int noiseLevelAverageDb;
+    private String color;
+    private boolean isWaterCooled;
+    private boolean isFanless;
 
     public CpuCooler(String id, String name, String manufacturer, double price,
-                     int heightMm, String supportedSocketsCsv, int tdpRating,
-                     boolean supportsAdditionalFans, String fanRPM, String noiseLevelDb) {
+                     int heightMm, String supportedSocketsCsv, boolean supportsAdditionalFans,
+                     String fanRPM, String noiseLevelDb, int noiseLevelAverageDb,
+                     String color, boolean isWaterCooled, boolean isFanless) {
        
         super(id, name, manufacturer, price);
 
         this.heightMm = heightMm;
-        this.tdpRating = tdpRating;
         this.supportsAdditionalFans = supportsAdditionalFans;
         this.fanRPM = fanRPM;
         this.noiseLevelDb = noiseLevelDb;
+        this.noiseLevelAverageDb = noiseLevelAverageDb;
+        this.color = color;
+        this.isWaterCooled = isWaterCooled;
+        this.isFanless = isFanless;
 
         this.supportedSockets = new ArrayList<>();
         if (supportedSocketsCsv != null && !supportedSocketsCsv.isEmpty()) {
@@ -36,14 +43,18 @@ public class CpuCooler extends Component {
 
     public int getHeightMm() { return heightMm; }
     public List<String> getSupportedSockets() { return supportedSockets; }
-    public int getTdpRating() { return tdpRating; }
+
     public boolean supportsAdditionalFans() { return supportsAdditionalFans; }
     public String getFanRPM() { return fanRPM; }
     public String getNoiseLevelDb() { return noiseLevelDb; }
+    public int getNoiseLevelAverageDb() { return noiseLevelAverageDb; }
+    public String getColor() { return color; }
+    public boolean isWaterCooled() { return isWaterCooled; }
+    public boolean isFanless() { return isFanless; }
 
     @Override
     public String toString() {
-        return String.format("%s [TDP: %dW, Height: %dmm, Noise: %s]",
-                             super.toString(), tdpRating, heightMm, noiseLevelDb);
+        return String.format("%s [Height: %dmm, Noise: % Db]",
+                             super.toString(), heightMm, noiseLevelAverageDb);
     }
 }
