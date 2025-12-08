@@ -2,7 +2,7 @@ package com.parts.model;
 
 public class Ssd extends Component {
     // Properties for compatibility checks
-    private String interfaceType;               // ! NOT IN DATASET
+    private String interfaceType;
 
     // SSD-specific properties
     private String formFactor;
