@@ -8,6 +8,7 @@ public class Psu extends Component {
     private int pcie12PinCount;         // High-end GPU
     private int pcie16Pin12VHPWRCount;  // RTX 40 series GPUs
     private int sataCount;              // Drives
+    private int lengthMm;
 
     // Legacy connectors
     private int atx4PinCount;           // CPU
@@ -25,7 +26,7 @@ public class Psu extends Component {
 
     public Psu(String id, String name, String manufacturer, double price, String size,
                int eps8PinCount, int pcie6Plus2PinCount, int pcie12PinCount, int pcie16Pin12VHPWRCount,
-               int sataCount, int atx4PinCount, int pcie6PinCount, int pcie8PinCount,
+               int sataCount, int lengthMm, int atx4PinCount, int pcie6PinCount, int pcie8PinCount,
                int ampMolex4PinCount, int outputWattage, String efficiencyRating,
                String modularity, String color, boolean isFanless) {
 
@@ -37,6 +38,7 @@ public class Psu extends Component {
         this.pcie12PinCount = pcie12PinCount;
         this.pcie16Pin12VHPWRCount = pcie16Pin12VHPWRCount;
         this.sataCount = sataCount;
+        this.lengthMm = lengthMm;
         this.atx4PinCount = atx4PinCount;
         this.pcie6PinCount = pcie6PinCount;
         this.pcie8PinCount = pcie8PinCount;
@@ -55,6 +57,7 @@ public class Psu extends Component {
     public int getPcie12PinCount() { return pcie12PinCount; }
     public int getPcie16Pin12VHPWRCount() { return pcie16Pin12VHPWRCount; }
     public int getSataCount() { return sataCount; }
+    public int getLengthMm() { return lengthMm; }
     public int getAtx4PinCount() { return atx4PinCount; }
     public int getPcie6PinCount() { return pcie6PinCount; }
     public int getPcie8PinCount() { return pcie8PinCount; }
