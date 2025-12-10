@@ -6,12 +6,12 @@ public class Hdd extends Component {
     private String interfaceType;
 
     // HDD-specific properties
-    private int sizeTB;
+    private int sizeTBs;
     private int RPM;
     private int cache;
 
     public Hdd(String id, String name, String manufacturer, double price,
-               String formFactorInches, String interfaceType, int sizeTB,
+               String formFactorInches, String interfaceType, int sizeTBs,
                int RPM, int cache) {
         
         super(id, name, manufacturer, price);
@@ -19,7 +19,7 @@ public class Hdd extends Component {
         this.formFactorInches = formFactorInches;
         this.interfaceType = interfaceType;
 
-        this.sizeTB = sizeTB;
+        this.sizeTBs = sizeTBs;
         this.RPM = RPM;
         this.cache = cache;
     }
@@ -27,12 +27,12 @@ public class Hdd extends Component {
     public String getFormFactorInches() { return formFactorInches; }
     public String getInterfaceType() { return interfaceType; }
 
-    public int getSizeTB() { return sizeTB; }
+    public int getSizeTB() { return sizeTBs; }
     public int getRPM() { return RPM; }
     public int getCache() { return cache; }
 
     @Override
     public String toString() {
-        return String.format("%s %dTB", super.toString(), sizeTB);
+        return String.format("%s %dTB", super.toString(), sizeTBs);
     }
 }
