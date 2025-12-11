@@ -58,7 +58,7 @@ public class Gpu extends Component {
     }
 
     public String getInterfaceType() { return interfaceType; }
-    public List<String> getRequiredPowerConnectors() { return requiredPowerConnectors; }
+    public List<String> getRequiredPowerConnectors() { return new ArrayList<>(requiredPowerConnectors); }
     public int getLengthMm() { return lengthMm; }
     public int getCaseExpansionSlotWidth() { return caseExpansionSlotWidth; }
 
