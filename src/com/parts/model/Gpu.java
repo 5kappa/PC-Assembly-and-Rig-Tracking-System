@@ -49,12 +49,6 @@ public class Gpu extends Component {
         this.displayPortCount = displayPortCount;
 
         this.requiredPowerConnectors = new ArrayList<>();
-        if (requiredPowerConnectorsCsv != null && !requiredPowerConnectorsCsv.isEmpty()) {
-            String[] powerConnectors = requiredPowerConnectorsCsv.split(",");
-            for (String powerConnector : powerConnectors) {
-                this.requiredPowerConnectors.add(powerConnector.trim());
-            }
-        }
     }
 
     public String getInterfaceType() { return interfaceType; }
