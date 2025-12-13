@@ -1,0 +1,1359 @@
+name,price,manufacturer,supportedFormFactors,supportedPsuSizes,maxCoolerHeightMm,maxGpuLengthMm,driveBay25Count,driveBay35Count,driveBayUniversalCount,primaryColor,hasWindow,hasDustFilter,hasCableManagement,hasNoiseIsolation,width,depth,height
+Corsair 4000D Airflow Tempered Glass Midi-Tower - white Window,$87.03 USD,Corsair,E-ATX,ATX,170 mm,360 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,230,453,466
+Aerocool Aero-300 Midi-Tower - black,,Aerocool,ATX,ATX,160 mm,372 mm,3,2,0,black,FALSE,TRUE,TRUE,FALSE,198,415,460
+Antec P5 Mini - black,$75.82 USD,Antec,Micro-ATX,ATX,155 mm,360 mm,4,0,0,black,FALSE,TRUE,TRUE,TRUE,195,475,395
+Be quiet! Pure Base 500DX - black,,be quiet!,ATX,ATX,190 mm,369 mm,5,2,0,black,TRUE,TRUE,TRUE,FALSE,232,450,463
+Be quiet! Pure Base 500DX - white,,be quiet!,ATX,ATX,190 mm,369 mm,5,2,0,white,TRUE,TRUE,TRUE,FALSE,232,450,463
+BitFenix Aegis Core Micro-ATX - blue/black,,BitFenix,Micro-ATX,ATX,170 mm,350 mm,4,4,0,"blue, black",TRUE,TRUE,TRUE,FALSE,205,480,470
+BitFenix Aegis Core Micro-ATX - yellow/black,,BitFenix,Micro-ATX,ATX,170 mm,350 mm,4,4,0,yellow black,TRUE,TRUE,TRUE,FALSE,205,480,470
+BitFenix Aegis Core Micro-ATX - red/black,,BitFenix,Micro-ATX,ATX,170 mm,350 mm,4,4,0,red black,TRUE,TRUE,TRUE,FALSE,205,480,470
+BitFenix Aegis Core Micro-ATX - black,,BitFenix,Micro-ATX,ATX,170 mm,350 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,205,480,470
+BitFenix Aegis Core Micro-ATX - white/black,,BitFenix,Micro-ATX,ATX,170 mm,350 mm,4,4,0,black-and-white,TRUE,TRUE,TRUE,FALSE,205,480,470
+BitFenix Nova Mesh Midi-Tower - black,,BitFenix,E-ATX,ATX,160 mm,360 mm,3,0,0,black,FALSE,TRUE,TRUE,FALSE,210,460,437
+BitFenix Nova Mesh Midi-Tower - white,,BitFenix,E-ATX,ATX,160 mm,360 mm,3,0,0,white,FALSE,TRUE,TRUE,FALSE,210,460,437
+BitFenix Nova Mesh SE Midi-Tower - white,,BitFenix,ATX,ATX,160 mm,315 mm,2,0,0,white,FALSE,FALSE,TRUE,FALSE,211,380,450
+"BitFenix Nova Mesh SE Midi-Tower, Tempered Glass - black",,BitFenix,ATX,ATX,160 mm,315 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,211,380,450
+BitFenix Nova Midi-Tower - black,,BitFenix,ATX,ATX,160 mm,320 mm,2,4,0,black,FALSE,TRUE,TRUE,FALSE,183,465,437
+BitFenix Nova Midi-Tower - black Window,,BitFenix,ATX,ATX,160 mm,320 mm,2,4,0,black,TRUE,TRUE,TRUE,FALSE,183,465,437
+BitFenix Nova Midi-Tower - white,,BitFenix,ATX,ATX,160 mm,320 mm,2,4,0,white,FALSE,TRUE,TRUE,FALSE,183,465,437
+BitFenix Nova Midi-Tower - white Window,,BitFenix,ATX,ATX,160 mm,320 mm,2,7,0,white,TRUE,TRUE,TRUE,FALSE,183,465,437
+Corsair 4000D Airflow Tempered Glass Midi-Tower - black Window,$100.19 USD,Corsair,E-ATX,ATX,170 mm,360 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,230,453,466
+"Corsair 5000D Airflow Midi-Tower, Tempered Glass - black",$141.44 USD,Corsair,E-ATX,ATX,170 mm,420 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,245,520,520
+"Corsair 5000D Airflow Midi-Tower, Tempered Glass - white",$141.43 USD,Corsair,E-ATX,ATX,170 mm,420 mm,4,2,0,white,TRUE,TRUE,TRUE,FALSE,245,520,520
+Corsair Carbide SPEC-02 Midi-Tower - black/red,$63.86 USD,Corsair,ATX,ATX,157 mm,420 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,220,500,430
+Cougar Panzer Max Big-Tower - black Window,,Cougar,E-ATX,ATX,170 mm,390 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,266,556,612
+Fractal Design Define Nano S Mini-ITX - black,$68.9 USD,Fractal Design,Mini-ITX,ATX,160 mm,315 mm,4,2,0,black,FALSE,TRUE,TRUE,TRUE,203,400,330
+Fractal Design Focus G Midi-Tower - black Window,$52.22 USD,Fractal Design,ATX,ATX,165 mm,380 mm,1,2,0,black,TRUE,TRUE,FALSE,FALSE,205,464,444
+Fractal Design Meshify C Midi-Tower - black,$87.04 USD,Fractal Design,ATX,ATX,172 mm,315 mm,3,0,0,black,FALSE,TRUE,TRUE,FALSE,217,395,440
+"Fractal Design Meshify C Mini Dark TG Micro-ATX, Glas - black",$94.29 USD,Fractal Design,Micro-ATX,ATX,172 mm,315 mm,5,2,0,black,TRUE,TRUE,TRUE,FALSE,212,395,399
+Fractal Design Meshify C Tempered Glass Dark Midi-Tower - black,$83.41 USD,Fractal Design,ATX,ATX,172 mm,315 mm,5,2,0,black,TRUE,TRUE,TRUE,FALSE,217,395,440
+Fractal Design Meshify C Tempered Glass Midi-Tower - black,$101.55 USD,Fractal Design,ATX,ATX,172 mm,315 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,217,395,440
+Fractal Design Meshify C White Tempered Glass Midi-Tower - white,$97.92 USD,Fractal Design,ATX,ATX,172 mm,315 mm,3,0,0,white,TRUE,TRUE,TRUE,FALSE,217,395,440
+Fractal Design Node 202 Mini-ITX - black,$79.78 USD,Fractal Design,Mini-ITX,SFX,56 mm,310 mm,2,0,0,black,FALSE,TRUE,FALSE,FALSE,377,330,82
+Kolink Satellite Mini-ITX- / Micro-ATX - black,,Kolink,Micro-ATX,ATX,165 mm,280 mm,4,3,0,black,FALSE,FALSE,FALSE,FALSE,260,280,190
+Lian Li LANCOOL 205 Mesh C Midi-Tower - black,,Lian Li,ATX,ATX,160 mm,350 mm,2,0,0,black,FALSE,TRUE,FALSE,FALSE,205,415,485
+Lian Li LANCOOL 205 Mesh C Midi-Tower - white,,Lian Li,ATX,ATX,160 mm,350 mm,2,0,0,white,FALSE,TRUE,FALSE,FALSE,205,415,485
+"Lian Li LANCOOL 215 Midi-Tower - ARGB, Tempered Glass, black",,Lian Li,E-ATX,ATX,166 mm,370 mm,2,1,0,black,TRUE,TRUE,TRUE,FALSE,215,462,482
+"Lian Li LANCOOL II Mesh C Performance Midi-Tower, Tempered Glass - black",$144.33 USD,Lian Li,E-ATX,ATX,176 mm,384 mm,6,0,0,black,TRUE,TRUE,FALSE,FALSE,229,478,494
+"Lian Li LANCOOL II Mesh RGB Midi-Tower, Tempered Glass - black",,Lian Li,E-ATX,ATX,176 mm,384 mm,6,0,0,black,TRUE,TRUE,TRUE,FALSE,229,478,494
+"Lian Li LANCOOL II Midi-Tower, Tempered Glass, DRGB - black",,Lian Li,E-ATX,ATX,176 mm,384 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,229,478,494
+"Lian Li LANCOOL II Midi-Tower, Tempered Glass, DRGB - white",,Lian Li,E-ATX,ATX,176 mm,384 mm,4,0,0,white,TRUE,TRUE,TRUE,FALSE,229,478,494
+"NZXT H510 Midi-Tower, TG - black Window",$61.65 USD,NZXT,ATX,ATX,165 mm,381 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,210,428,460
+"NZXT H510 Midi-Tower, TG - black/red Window",$61.65 USD,NZXT,ATX,ATX,165 mm,381 mm,3,3,0,red black,TRUE,TRUE,TRUE,FALSE,210,428,460
+"NZXT H510 Midi-Tower, TG - white Window",$61.65 USD,NZXT,ATX,ATX,165 mm,381 mm,3,3,0,white,TRUE,TRUE,TRUE,FALSE,210,428,460
+NZXT H700i Midi-Tower - black/red Window,$174.08 USD,NZXT,ATX,ATX,185 mm,413 mm,7,3,0,black,TRUE,TRUE,TRUE,FALSE,230,494,516
+"PHANTEKS Eclipse P360A Midi-Tower, Tempered Glass, D-RGB - black",,PHANTEKS,E-ATX,ATX,160 mm,400 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,200,465,455
+"PHANTEKS Eclipse P360A Midi-Tower, Tempered Glass, D-RGB - white",,PHANTEKS,E-ATX,ATX,160 mm,400 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,200,465,455
+PHANTEKS Eclipse P400 Midi-Tower - black Window,,PHANTEKS,E-ATX,ATX,160 mm,395 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,210,470,495
+"PHANTEKS Eclipse P400A Midi-Tower, Tempered Glass - black",$94.29 USD,PHANTEKS,E-ATX,ATX,160 mm,420 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,210,470,465
+"PHANTEKS Eclipse P400A Midi-Tower, Tempered Glass, DRGB - black",$107.54 USD,PHANTEKS,E-ATX,ATX,160 mm,420 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,210,470,465
+"PHANTEKS Eclipse P400A Midi-Tower, Tempered Glass, DRGB - white",$79.78 USD,PHANTEKS,E-ATX,ATX,160 mm,420 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,210,470,465
+"PHANTEKS Eclipse P400S Midi-Tower, anthrazit - isolated",$87.04 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,2,2,0,"anthracite, gray",FALSE,TRUE,TRUE,TRUE,210,470,495
+"PHANTEKS Eclipse P400S Midi-Tower, black - isolated",$87.04 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,2,2,0,black,FALSE,TRUE,TRUE,TRUE,210,470,495
+"PHANTEKS Enthoo Evolv ATX Midi-Tower, Tempered Glass - black",$190.95 USD,PHANTEKS,E-ATX,ATX,194 mm,420 mm,4,5,0,black,TRUE,TRUE,TRUE,FALSE,235,510,495
+"PHANTEKS Enthoo Evolv ATX Midi-Tower, Tempered Glass - silver",$129.1 USD,PHANTEKS,E-ATX,ATX,194 mm,420 mm,4,5,0,silver,TRUE,TRUE,TRUE,FALSE,235,510,495
+"PHANTEKS Enthoo Primo Big-Tower, blaue LED - black",$244.44 USD,PHANTEKS,E-ATX,ATX,207 mm,515 mm,12,6,0,black,TRUE,TRUE,TRUE,FALSE,250,600,650
+Raijintek STYX Micro-ATX - white,,RAIJINTEK,Micro-ATX,ATX,180 mm,280 mm,6,3,0,white,FALSE,FALSE,FALSE,FALSE,210,360,335
+"Silverstone Fara H1M Pro Micro-ATX, Tempered Glass - white",,Silverstone,Micro-ATX,ATX,160 mm,320 mm,2,2,0,white,TRUE,FALSE,FALSE,FALSE,210,366,392
+Silverstone Fara R1 Midi-Tower - white,,Silverstone,ATX,ATX,165 mm,322 mm,4,1,0,white,FALSE,FALSE,TRUE,FALSE,207,390,446
+"Silverstone Fara R1 Midi-Tower, Tempered Glass - white",,Silverstone,ATX,ATX,165 mm,322 mm,4,1,0,white,TRUE,FALSE,TRUE,FALSE,207,390,446
+Silverstone SST-PS08W Precision Midi-Tower - white,,Silverstone,Micro-ATX,ATX,140 mm,358 mm,1,4,0,white,FALSE,TRUE,FALSE,FALSE,168,400,355
+Silverstone SST-RL06WS-PRO Redline Midi-Tower - white/silver Window,,Silverstone,ATX,ATX,158 mm,348 mm,5,3,0,white,TRUE,TRUE,TRUE,FALSE,200,455,477
+Silverstone SST-RVZ01B Raven Z Mini-ITX - black,$145.97 USD,Silverstone,Mini-ITX,SFX,83 mm,330 mm,3,1,0,black,FALSE,TRUE,FALSE,FALSE,382,350,105
+"Thermaltake Core P7, Tempered Glass - black",$302.47 USD,Thermaltake,E-ATX,ATX,180 mm,280 mm,7,7,0,black,TRUE,FALSE,TRUE,FALSE,570,333,608
+Aerocool Aero-1000 Midi-Tower - black Window,,Aerocool,ATX,ATX,170 mm,290 mm,7,5,0,black,TRUE,TRUE,TRUE,FALSE,210,497,500
+Aerocool Aero-1000 Midi-Tower - white Window,,Aerocool,ATX,ATX,170 mm,290 mm,7,5,0,black-and-white,TRUE,TRUE,TRUE,FALSE,210,497,500
+Aerocool Aero-300 FAW Midi-Tower - black Window,,Aerocool,ATX,ATX,150 mm,372 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,190,415,460
+Aerocool Aero-500 Midi-Tower - black,,Aerocool,ATX,ATX,155 mm,374 mm,5,4,0,black,FALSE,TRUE,TRUE,FALSE,203,439.5,486.5
+Aerocool Aero-500 Midi-Tower - black Window,,Aerocool,ATX,ATX,155 mm,374 mm,5,4,0,black,TRUE,TRUE,TRUE,FALSE,203,439.5,486.5
+Aerocool Aero-500 Midi-Tower - white,,Aerocool,ATX,ATX,155 mm,374 mm,3,4,0,black-and-white,FALSE,TRUE,TRUE,FALSE,203,439.5,486.5
+Aerocool Aero-500 Midi-Tower - white Window,,Aerocool,ATX,ATX,155 mm,374 mm,5,4,0,black-and-white,TRUE,TRUE,TRUE,FALSE,203,439.5,486.5
+Aerocool Aero-500G RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,155 mm,374 mm,5,4,0,black,TRUE,TRUE,TRUE,FALSE,203,439.5,483.4
+Aerocool Aero-500G RGB Midi-Tower - white Window,,Aerocool,ATX,ATX,155 mm,374 mm,4,4,0,white,TRUE,TRUE,TRUE,FALSE,203,439.5,483.4
+Aerocool Aero-800 Midi-Tower - blue,,Aerocool,ATX,ATX,155 mm,390 mm,5,2,0,"blue, black",TRUE,TRUE,TRUE,FALSE,200,475.8,501
+Aerocool Aero-800 Midi-Tower - grey,,Aerocool,ATX,ATX,155 mm,390 mm,5,2,0,gray,TRUE,TRUE,TRUE,FALSE,200,475.8,501
+Aerocool Aero-800 Midi-Tower - black,,Aerocool,ATX,ATX,155 mm,390 mm,5,2,0,black,TRUE,TRUE,TRUE,FALSE,200,475.8,501
+Aerocool Aero-800 Midi-Tower - white,,Aerocool,ATX,ATX,155 mm,390 mm,5,2,0,black-and-white,TRUE,TRUE,TRUE,FALSE,200,475.8,501
+Aerocool AeroEngine RGB-G-BK-v2 RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,155 mm,371 mm,5,0,0,black,TRUE,TRUE,TRUE,FALSE,195,447,471
+"Aerocool Atomic Lite v1 Micro-ATX, FRGB, Tempered Glass - black",,Aerocool,Micro-ATX,ATX,158 mm,297 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,206.5,353.4,385
+"Aerocool Atomic Lite v2 Micro-ATX, RGB, Tempered Glass - black",,Aerocool,Micro-ATX,ATX,158 mm,297 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,206.5,353.4,385
+"Aerocool Atomic v1 Midi-Tower, ARGB, Tempered Glass - black",,Aerocool,Micro-ATX,ATX,184104 mm,347 mm,3,1,0,black,TRUE,FALSE,TRUE,FALSE,230,403.5,390
+Aerocool BattleHawk Midi-Tower - black,,Aerocool,ATX,ATX,155 mm,390 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,218,455,491
+Aerocool BattleHawk V2 Midi-Tower - black,,Aerocool,ATX,ATX,155 mm,390 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,183,420,420
+Aerocool BattleHawk V2 Midi-Tower - white,,Aerocool,ATX,ATX,155 mm,390 mm,2,3,0,black-and-white,TRUE,TRUE,TRUE,FALSE,183,420,420
+"Aerocool Beam-G-BK-v1 Midi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,160 mm,343 mm,4,2,0,black,TRUE,TRUE,FALSE,FALSE,210,404,481.5
+"Aerocool Beam-G-BK-v2 Midi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,160 mm,343 mm,4,2,0,black,TRUE,TRUE,FALSE,FALSE,210,404,481.5
+"Aerocool Bionic v1 Midi-Tower, RGB, Tempered Glass - black",,Aerocool,ATX,ATX,158 mm,297 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,206,372,450
+"Aerocool Bionic v1 Midi-Tower, RGB, Tempered Glass - black/white",,Aerocool,ATX,ATX,158 mm,297 mm,2,0,0,black-and-white,TRUE,FALSE,TRUE,FALSE,206,372,450
+"Aerocool Bionic v2 Midi-Tower, RGB, Tempered Glass - black",,Aerocool,ATX,ATX,158 mm,297 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,206,372,450
+"Aerocool Bionic v2 Midi-Tower, RGB, Tempered Glass - black/white",,Aerocool,ATX,ATX,158 mm,297 mm,2,0,0,black-and-white,TRUE,FALSE,TRUE,FALSE,206,372,450
+"Aerocool Blade V1 Midi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,155 mm,307 mm,0,2,0,black,FALSE,FALSE,FALSE,FALSE,203,357,431
+Aerocool Bolt RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,155 mm,355 mm,2,2,0,black,TRUE,FALSE,TRUE,FALSE,194,410,444
+Aerocool Cipher-S-BK-v1 Midi-Tower - black,,Aerocool,ATX,ATX,160 mm,290 mm,4,12,0,black,FALSE,FALSE,FALSE,FALSE,205,485,485
+"Aerocool Cronus Midi-Tower, ARGB, Tempered Glass - black",,Aerocool,E-ATX,ATX,180 mm,387 mm,4,2,0,black,TRUE,FALSE,TRUE,FALSE,230,468,502
+Aerocool Cruisestar Advance Midi-Tower - black Window,,Aerocool,ATX,ATX,153 mm,350 mm,2,3,0,black,TRUE,FALSE,TRUE,FALSE,200,441,483
+Aerocool CS-100 Advance Micro-ATX - black,,Aerocool,Micro-ATX,ATX,145 mm,325 mm,1,2,0,black,FALSE,FALSE,TRUE,FALSE,191,373,356
+Aerocool CS-100 Micro-ATX - black,,Aerocool,Micro-ATX,ATX,145 mm,325 mm,1,2,0,black,FALSE,FALSE,TRUE,FALSE,191,373,356
+Aerocool CS-102 Micro-ATX - black,,Aerocool,Micro-ATX,ATX,150 mm,240 mm,2,3,0,black,FALSE,FALSE,TRUE,FALSE,190,372,345
+Aerocool CS-103 Micro-ATX - black,,Aerocool,Mini-ITX,ATX,156 mm,322 mm,2,2,0,black,FALSE,FALSE,TRUE,FALSE,199,371,357.6
+Aerocool CS-104 Micro-ATX - black,,Aerocool,Micro-ATX,ATX,167 mm,286 mm,1,0,0,black,FALSE,FALSE,TRUE,FALSE,199,353,340.6
+Aerocool CS-106 Micro-ATX - black,,Aerocool,Micro-ATX,ATX,167 mm,286 mm,1,0,0,black,FALSE,FALSE,TRUE,FALSE,199,353,340.6
+Aerocool CS-107 v1 Micro-ATX - black,,Aerocool,Micro-ATX,ATX,157 mm,286 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,206.5,353.4,385
+Aerocool CS-107 v2 Micro-ATX - black,,Aerocool,Micro-ATX,ATX,157 mm,286 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,206.5,353.4,385
+Aerocool CS-1101 Midi-Tower - black,,Aerocool,ATX,ATX,150 mm,375 mm,1,3,0,black,FALSE,FALSE,FALSE,FALSE,195,411,410
+Aerocool CS-1102 Midi-Tower - black,,Aerocool,ATX,ATX,150 mm,375 mm,1,3,0,black,FALSE,FALSE,FALSE,FALSE,195,423,410
+Aerocool CS-1103 Midi-Tower - black,,Aerocool,ATX,ATX,151 mm,335 mm,2,1,0,black,FALSE,FALSE,TRUE,FALSE,190.1,381.6,412.8
+"Aerocool CS-1103 Midi-Tower, inkl. VX PLUS 500W Netzteil - black",,Aerocool,ATX,ATX,151 mm,335 mm,4,3,0,black,FALSE,FALSE,FALSE,FALSE,190.1,381.6,412.8
+Aerocool CyberX Advance Midi-Tower - black Window,,Aerocool,ATX,ATX,165 mm,335 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,205,434.6,424
+Aerocool CyberX Midi-Tower - black,,Aerocool,ATX,ATX,165 mm,335 mm,2,2,0,red black,FALSE,TRUE,TRUE,FALSE,205,434.6,424
+Aerocool Cyclops Advance V2 Midi-Tower - red Window,,Aerocool,ATX,ATX,155 mm,397 mm,2,3,0,red black,TRUE,TRUE,TRUE,FALSE,183,400,420
+Aerocool Cyclops Advance V2 Midi-Tower - black Window,,Aerocool,ATX,ATX,155 mm,397 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,183,400,420
+Aerocool Cylon Pro-G-BK-v2 RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,167 mm,359 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,219,434,491
+Aerocool Cylon RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,155 mm,346 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,198,413,459
+Aerocool Cylon RGB Midi-Tower - white Window,,Aerocool,ATX,ATX,155 mm,346 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,198,413,459
+"Aerocool Delta-A-BK-v1 Midi-Tower, Acrylglas - black",,Aerocool,ATX,ATX,155 mm,307 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,197,357,431
+"Aerocool Delta-G-BK-v1 Midi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,155 mm,307 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,188,310,420
+Aerocool DS 230 Midi-Tower - black,,Aerocool,ATX,ATX,170 mm,388 mm,3,5,0,black,FALSE,TRUE,TRUE,FALSE,230,477.8,475
+"Aerocool Falcon V1 Mdi-Tower, Acrylglas - black",,Aerocool,ATX,ATX,157 mm,290 mm,1,2,0,black,TRUE,FALSE,TRUE,FALSE,206,357,457
+"Aerocool Falcon V1 Mdi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,157 mm,290 mm,1,2,0,black,TRUE,FALSE,TRUE,FALSE,206,357,457
+"Aerocool Falcon V2 Mdi-Tower, Acrylglas - black",,Aerocool,ATX,ATX,157 mm,290 mm,1,2,0,black,TRUE,TRUE,TRUE,FALSE,206,357,457
+"Aerocool Falcon V2 Mdi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,157 mm,290 mm,0,2,0,black,TRUE,FALSE,TRUE,FALSE,206,357,457
+"Aerocool Genesis ARGB V1 Midi-Tower, Acryglas - black",,Aerocool,ATX,,1548 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,180,385,440
+Aerocool Genesis ARGB V2 Midi-Tower - black,,Aerocool,ATX,ATX,1548 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,180,385,440
+Aerocool Gladiator Duo Midi-Tower - black Window,,Aerocool,ATX,ATX,161 mm,326 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,210,404,519
+Aerocool GT Black Advance Edition Midi Tower - black,,Aerocool,ATX,ATX,158 mm,400 mm,1,3,0,black,FALSE,TRUE,TRUE,FALSE,200,440,430
+Aerocool GT Black Edition Midi Tower - black,,Aerocool,ATX,ATX,158 mm,400 mm,1,3,0,black,FALSE,TRUE,TRUE,FALSE,200,440,430
+Aerocool GT White Edition Midi-Tower - white,,Aerocool,ATX,ATX,158 mm,400 mm,1,3,0,black-and-white,FALSE,TRUE,TRUE,FALSE,200,440,430
+Aerocool GT-A Midi-Tower - black Window,,Aerocool,ATX,ATX,165 mm,310 mm,6,3,0,red black,TRUE,TRUE,TRUE,FALSE,185,475,485
+"Aerocool Hexform-G-BK-v1 Midi-Tower, Tempered Glass - black",,Aerocool,Micro-ATX,ATX,159 mm,296 mm,0,0,0,black,TRUE,FALSE,TRUE,FALSE,207.5,358,377
+"Aerocool Hexform-G-BK-v2 Midi-Tower, Tempered Glass - black",,Aerocool,Micro-ATX,ATX,159 mm,296 mm,0,0,0,black,TRUE,FALSE,TRUE,FALSE,207.5,358,377
+"Aerocool LS-5200 Midi-Tower - white, Window",,Aerocool,ATX,ATX,170 mm,346 mm,6,5,0,white,TRUE,FALSE,FALSE,FALSE,220,376.5,460
+"Aerocool Mecha v1 Midi-Tower, RGB, Tempered Glass - black",,Aerocool,ATX,ATX,159 mm,302 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,205,370,442
+Aerocool Mechatron Midi-Tower - black,,Aerocool,ATX,ATX,175 mm,330 mm,7,4,0,black,FALSE,TRUE,TRUE,FALSE,226,534,502
+Aerocool Mechatron Midi-Tower - black Window,,Aerocool,ATX,ATX,175 mm,330 mm,7,4,0,black,TRUE,TRUE,TRUE,FALSE,226,534,502
+Aerocool P7-C0 Midi-Tower - black,,Aerocool,ATX,ATX,175 mm,390 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,214,451,468
+Aerocool P7-C0 Pro Midi-Tower - black,,Aerocool,ATX,ATX,175 mm,390 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,214,451,468
+Aerocool P7-C1 Midi-Tower - black,,Aerocool,ATX,ATX,165 mm,375 mm,4,2,0,black,TRUE,TRUE,FALSE,FALSE,244.6,446.6,550
+Aerocool P7-C1 Midi-Tower - white,,Aerocool,ATX,ATX,165 mm,375 mm,4,2,0,white,TRUE,TRUE,TRUE,FALSE,244.6,446.6,550
+"Aerocool P7-C1 Midi-Tower, Tempered Glass Edition - black",,Aerocool,ATX,ATX,165 mm,375 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,244.6,446.6,550
+"Aerocool P7-C1 Midi-Tower, Tempered Glass Edition - white",,Aerocool,ATX,ATX,165 mm,375 mm,4,2,0,white,TRUE,TRUE,TRUE,FALSE,244.6,446.6,550
+Aerocool Playa RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,159 mm,376 mm,2,2,0,black,TRUE,FALSE,TRUE,FALSE,211,432,480
+Aerocool Playa Slim Micro-ATX - black Window,,Aerocool,Micro-ATX,SFX,80 mm,240 mm,0,0,0,black,FALSE,FALSE,FALSE,FALSE,112,420,300
+"Aerocool Prime v1 Midi-Tower, RGB, Tempered Glass - black",,Aerocool,ATX,ATX,159 mm,302 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,205,376.5,442
+"Aerocool Prism ARGB Midi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,164 mm,346 mm,1,1,0,black,TRUE,FALSE,TRUE,FALSE,217,403,477
+"Aerocool Prism FRGB Midi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,164 mm,346 mm,1,1,0,black,TRUE,FALSE,TRUE,FALSE,216,403,477
+"Aerocool Prism Midi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,164 mm,346 mm,1,1,0,black,TRUE,FALSE,TRUE,FALSE,216,403,477
+Aerocool PYTHON RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,164 mm,325 mm,2,1,0,black,TRUE,TRUE,TRUE,FALSE,212.7,387,445.5
+Aerocool Qs-180 Micro-ATX - black,,Aerocool,Micro-ATX,ATX,145 mm,320 mm,3,1,0,black,FALSE,TRUE,TRUE,FALSE,170,355,355
+Aerocool Qs-182 Micro-ATX - black,,Aerocool,Micro-ATX,ATX,145 mm,320 mm,3,1,0,black,FALSE,TRUE,TRUE,FALSE,170,355,355
+Aerocool Qs-183 Advance Micro-ATX - red,,Aerocool,Micro-ATX,ATX,150 mm,320 mm,3,2,0,black,FALSE,TRUE,FALSE,FALSE,170,335,335
+Aerocool Qs-183 Advance Micro-ATX - black,,Aerocool,Micro-ATX,ATX,150 mm,320 mm,3,2,0,black,FALSE,TRUE,FALSE,FALSE,170,335,335
+Aerocool Qs-240 Micro-ATX - black Window,,Aerocool,Micro-ATX,ATX,160 mm,300 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,209,372.2,419
+"Aerocool Quantum Mesh v1 Midi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,158 mm,297 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,206,360,450
+"Aerocool Quantum Mesh v2 Midi-Tower, FRGB, Tempered Glass - black",,Aerocool,ATX,ATX,158 mm,297 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,206,360,450
+"Aerocool Quantum Mesh v3 Midi-Tower, RGB, Tempered Glass - black",,Aerocool,ATX,ATX,158 mm,297 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,206,360,450
+"Aerocool Quantum v1 Midi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,158 mm,297 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,206,360,450
+"Aerocool Quantum v2 Midi-Tower, FRGB, Tempered Glass - black",,Aerocool,ATX,ATX,158 mm,297 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,206,360,450
+"Aerocool Quantum v3 Midi-Tower, RGB, Tempered Glass - black",,Aerocool,ATX,ATX,158 mm,297 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,206,360,450
+Aerocool Quartz Blue Midi-Tower - black Window,,Aerocool,ATX,ATX,152 mm,360 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,206.1,408,455
+Aerocool Quartz Red Midi-Tower - black Window,,Aerocool,ATX,ATX,152 mm,360 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,206.1,408,455
+Aerocool Quartz RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,152 mm,360 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,206.1,408,455
+Aerocool Rift RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,155 mm,346 mm,5,0,0,black,TRUE,TRUE,TRUE,FALSE,210,497,500
+"Aerocool Scape-G-BK-v1 Midi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,157 mm,317 mm,2,1,0,black,TRUE,FALSE,FALSE,FALSE,206,413,457
+"Aerocool Scape-G-BK-v2 Midi-Tower, Tempered Glass, FRGB - black",,Aerocool,ATX,ATX,157 mm,317 mm,2,1,0,black,TRUE,FALSE,FALSE,FALSE,206,413,457
+"Aerocool Scape-G-BK-v3 Midi-Tower, Tempered Glass, ARGB - black",,Aerocool,ATX,ATX,157 mm,317 mm,2,1,0,black,TRUE,FALSE,FALSE,FALSE,206,413,457
+Aerocool SENTINEL RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,164 mm,325 mm,2,1,0,black,TRUE,TRUE,TRUE,FALSE,218,387,445
+Aerocool Shard RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,155 mm,355 mm,2,2,0,black,TRUE,FALSE,TRUE,FALSE,194,423.5,444
+Aerocool SI-5100 Midi-Tower - black,,Aerocool,ATX,ATX,160 mm,347 mm,3,2,0,black,FALSE,FALSE,TRUE,FALSE,198,425,430
+Aerocool SI-5100 Midi-Tower - black Window,,Aerocool,ATX,ATX,160 mm,347 mm,3,2,0,black,TRUE,FALSE,TRUE,FALSE,190,415,460
+Aerocool SI-5200 Midi-Tower - black,,Aerocool,ATX,ATX,164 mm,372 mm,1,0,0,black,FALSE,TRUE,TRUE,FALSE,198,414,430
+Aerocool SI-5200 Midi-Tower - black Window,,Aerocool,ATX,ATX,164 mm,372 mm,1,0,0,black,TRUE,TRUE,TRUE,FALSE,198,414,430
+"Aerocool SI-5200 RGB Midi-Tower - black, Window",,Aerocool,ATX,ATX,154 mm,342 mm,2,3,0,black,TRUE,FALSE,TRUE,FALSE,198,414,430
+"Aerocool Skribble-G-BK-v1 Midi-Tower, Tempered Glass - black",,Aerocool,ATX,ATX,167 mm,362 mm,4,1,0,black,FALSE,TRUE,FALSE,FALSE,210,441,453
+"Aerocool Skyline ARGB V1 Midi-Tower, Acryglas - black",,Aerocool,ATX,,1548 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,180,385,440
+Aerocool Skyline ARGB V2 Midi-Tower - black,,Aerocool,ATX,ATX,1548 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,180,385,440
+Aerocool Splinter Duo Midi-Tower - black Window,,Aerocool,ATX,ATX,161 mm,326 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,210,404,519
+Aerocool SPLIT RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,155 mm,326 mm,2,2,0,black,TRUE,FALSE,TRUE,FALSE,192.5,392,412.5
+Aerocool STREAK RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,151 mm,335 mm,2,1,0,black,TRUE,FALSE,TRUE,FALSE,190.1,382.6,412.8
+Aerocool Tomahawk FAW Midi-Tower - black,,Aerocool,ATX,ATX,157 mm,324 mm,4,1,0,black,TRUE,FALSE,TRUE,FALSE,202,0,0
+Aerocool Tomahawk Midi-Tower - black,,Aerocool,ATX,ATX,167 mm,324 mm,4,1,0,black,FALSE,TRUE,TRUE,FALSE,202,399,0
+"Aerocool Trinity Mini v1 Micro-ATX, Tempered Glass - black",,Aerocool,Micro-ATX,ATX,158 mm,297 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,206.5,353.4,385
+"Aerocool Trinity Mini v2 Micro-ATX, FRGB, Tempered Glass - black",,Aerocool,Micro-ATX,ATX,158 mm,297 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,206.5,353.4,385
+"Aerocool Trinity Mini v3 Micro-ATX, RGB, Tempered Glass - black",,Aerocool,Micro-ATX,ATX,158 mm,297 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,206.5,353.4,385
+Aerocool V2X Black Edition Midi-Tower - black,,Aerocool,ATX,ATX,150 mm,320 mm,1,2,0,black,FALSE,FALSE,FALSE,FALSE,175,405,410
+Aerocool V2X Blue Edition Midi-Tower - black/blue,,Aerocool,ATX,ATX,150 mm,320 mm,1,2,0,"blue, black",FALSE,FALSE,FALSE,FALSE,175,405,410
+Aerocool V2X Green Edition Midi-Tower - black/grün,,Aerocool,ATX,ATX,150 mm,320 mm,1,2,0,"green, black",FALSE,FALSE,FALSE,FALSE,175,405,410
+Aerocool V2X Orange Edition Midi-Tower - black/orange,,Aerocool,ATX,ATX,150 mm,320 mm,1,2,0,"orange, black",FALSE,FALSE,FALSE,FALSE,175,405,410
+Aerocool V2X Red Edition Midi-Tower - black/red,,Aerocool,ATX,ATX,150 mm,320 mm,1,2,0,red black,FALSE,FALSE,FALSE,FALSE,175,405,410
+Aerocool V3X Advance Black Edition Midi-Tower - black,,Aerocool,ATX,ATX,150 mm,350 mm,2,4,0,black,FALSE,FALSE,FALSE,FALSE,176,412,412
+Aerocool V3X Advance Devil Red Edition Midi-Tower - black/red,,Aerocool,ATX,ATX,150 mm,350 mm,2,4,0,red black,FALSE,FALSE,FALSE,FALSE,176,412,412
+Aerocool V3X Advance Evil Blue Edition Midi-Tower - black/blue,,Aerocool,ATX,ATX,150 mm,350 mm,2,4,0,"blue, black",FALSE,FALSE,FALSE,FALSE,176,412,412
+Aerocool V3X Black Edition Midi-Tower - black,,Aerocool,ATX,ATX,150 mm,350 mm,2,4,0,black,FALSE,FALSE,FALSE,FALSE,176,412,412
+Aerocool V3X Devil Red Edition Midi-Tower - black/red,,Aerocool,ATX,ATX,170 mm,350 mm,2,4,0,red black,FALSE,FALSE,FALSE,FALSE,176,412,412
+Aerocool V3X Evil Black Edition Midi-Tower - black/orange,,Aerocool,ATX,ATX,170 mm,350 mm,2,4,0,"orange, black",FALSE,FALSE,FALSE,FALSE,176,412,412
+Aerocool V3X Evil Blue Edition Midi-Tower - black/blue,,Aerocool,ATX,ATX,150 mm,350 mm,2,4,0,"blue, black",FALSE,FALSE,FALSE,FALSE,176,412,412
+Aerocool V3X Evil Green Edition Midi-Tower - black/grün,,Aerocool,ATX,ATX,170 mm,350 mm,2,4,0,"green, black",FALSE,FALSE,FALSE,FALSE,176,412,412
+Aerocool V3X RGB Midi-Tower - black,,Aerocool,ATX,ATX,150 mm,350 mm,1,3,0,black,FALSE,FALSE,TRUE,FALSE,194,412,414.5
+Aerocool V3X RGB Midi-Tower - black Window,,Aerocool,ATX,ATX,150 mm,350 mm,1,3,0,black,TRUE,FALSE,TRUE,FALSE,194,412,414.5
+Aerocool VS-1 Midi-Tower - black,,Aerocool,ATX,ATX,155 mm,375 mm,3,2,0,black,FALSE,FALSE,TRUE,FALSE,201,451.6,440
+Aerocool VS-1 Midi-Tower - black Window,,Aerocool,ATX,ATX,155 mm,390 mm,3,2,0,black,TRUE,FALSE,TRUE,FALSE,201,451.6,440
+Aerocool Wave v1 Midi-Tower - black Window,,Aerocool,ATX,ATX,158 mm,297 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,206,372,440
+Aerocool Wave v3 Midi-Tower - black Window,,Aerocool,ATX,ATX,158 mm,297 mm,3,0,0,black,TRUE,FALSE,TRUE,FALSE,206,372,440
+Aerocool Xpredator X3 GB Midi-Tower - grün/black,,Aerocool,ATX,ATX,186 mm,310 mm,8,8,0,"green, black",FALSE,TRUE,TRUE,FALSE,223,533,527
+anidees AI-05S-BW Midi-Tower - black,,anidees,ATX,ATX,175 mm,365 mm,9,5,0,black,TRUE,TRUE,TRUE,FALSE,220,430,470
+anidees AI-6B-V2 Midi-Tower - black,,anidees,ATX,ATX,177 mm,280 mm,9,8,0,black,FALSE,TRUE,TRUE,FALSE,207,527,509
+"anidees AI-6BS-V2 Midi-Tower, black - isolated",,anidees,ATX,ATX,177 mm,280 mm,1,8,0,black,FALSE,TRUE,TRUE,TRUE,207,527,509
+anidees AI-6BW-V2 Midi-Tower - black Window,,anidees,ATX,ATX,177 mm,280 mm,1,8,0,black,TRUE,TRUE,TRUE,FALSE,207,527,509
+anidees AI-7B ATX-Cube - black,,anidees,ATX,ATX,165 mm,348 mm,5,4,0,black,FALSE,TRUE,TRUE,FALSE,288,380,380
+anidees AI-7BW ATX-Cube - black Window,,anidees,ATX,ATX,165 mm,348 mm,5,4,0,black,TRUE,TRUE,TRUE,FALSE,288,380,380
+"anidees AI-Crystal Cube Lite 2 ATX-Cube, Tempered Glass - black",,anidees,E-ATX,ATX,168 mm,335 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,311,402,404
+"anidees AI-Crystal Cube Lite ATX-Cube, Tempered Glass - black",,anidees,E-ATX,ATX,168 mm,335 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,311,402,404
+"anidees AI-Crystal Lite Midi-Tower, Tempered Glass - black",,anidees,E-ATX,ATX,175 mm,410 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,216,475,497
+"anidees AI-Crystal Midi-Tower, Tempered Glass - black",,anidees,E-ATX,ATX,175 mm,410 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,216,475,497
+"anidees AI-Crystal Midi-Tower, Tempered Glass - white",,anidees,E-ATX,ATX,175 mm,410 mm,3,3,0,black-and-white,TRUE,TRUE,TRUE,FALSE,216,475,497
+Antec Cube EKWB-Edition Mini-ITX - black,,Antec,Mini-ITX,ATX,160 mm,350 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,250,460,365
+Antec Cube Special-Edition Mini-ITX - black,,Antec,Mini-ITX,ATX,190 mm,350 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,250,460,365
+Antec DA601 Midi-Tower - black,$95.74 USD,Antec,E-ATX,ATX,160 mm,400 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,220,480,500
+Antec Dark Fleet DF500 Midi-Tower - black Window,$68.72 USD,Antec,ATX,ATX,165 mm,380 mm,6,2,0,red black,TRUE,TRUE,TRUE,FALSE,200,470,480
+Antec Dark Fleet DF500 RGB Midi-Tower - black Tempered Glass,$77.88 USD,Antec,ATX,ATX,165 mm,380 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,200,470,480
+Antec GX1200 Midi-Tower - black Window,,Antec,ATX,ATX,160 mm,410 mm,5,2,0,black,TRUE,TRUE,TRUE,FALSE,200,500,510
+"Antec GX200 Blue Midi-Tower, Window - black",$17.39 USD,Antec,ATX,ATX,158 mm,380 mm,1,4,0,black,TRUE,TRUE,FALSE,FALSE,185,450,412
+Antec GX500 Midi-Tower - black,,Antec,ATX,ATX,158 mm,380 mm,1,4,0,black,FALSE,TRUE,TRUE,FALSE,205,458,476
+Antec GX505 Window Blue Edition Midi-Tower - black,,Antec,ATX,ATX,158 mm,380 mm,1,4,0,black,FALSE,TRUE,TRUE,FALSE,200,465,485
+Antec GX505 Window Midi-Tower - black,,Antec,ATX,ATX,158 mm,380 mm,1,4,0,black,FALSE,TRUE,TRUE,FALSE,200,465,485
+"Antec New Gaming NX1000 Midi-Tower, RGB, Tempered Glass - black",,Antec,ATX,ATX,180 mm,370 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,245,480,490
+"Antec New Gaming NX210 Midi-Tower, RGB, Tempered Glass - black",$67.08 USD,Antec,ATX,ATX,155 mm,310 mm,3,1,0,black,TRUE,FALSE,TRUE,FALSE,220,395,455
+Antec New Gaming NX300 Midi-Tower - black,,Antec,ATX,ATX,165 mm,360 mm,4,0,0,black,TRUE,FALSE,TRUE,FALSE,220,450,450
+Antec New Gaming NX300 Midi-Tower - white,,Antec,ATX,ATX,165 mm,360 mm,4,0,0,white,TRUE,FALSE,TRUE,FALSE,220,450,450
+"Antec New Gaming NX400 Midi-Tower, RGB, Tempered Glass - black",$83.77 USD,Antec,ATX,ATX,180 mm,330 mm,4,1,0,black,TRUE,FALSE,TRUE,FALSE,230,425,465
+"Antec New Gaming NX500 Midi-Tower, RGB, Tempered Glass - black",,Antec,ATX,ATX,165 mm,350 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,220,440,490
+"Antec New Gaming NX600 Midi-Tower, RGB, Tempered Glass - black",,Antec,ATX,ATX,165 mm,350 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,220,430,495
+Antec NX100 Midi-Tower - black/grey,,Antec,ATX,ATX,165 mm,345 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,190,430,462
+Antec P101 Silent Midi-Tower - black,$116.81 USD,Antec,E-ATX,ATX,180 mm,290 mm,2,0,0,black,FALSE,TRUE,TRUE,TRUE,232,506,527
+Antec P110 Luce Midi-Tower - black,$31.18 USD,Antec,ATX,ATX,165 mm,390 mm,6,8,0,black,TRUE,TRUE,TRUE,FALSE,230,518,489
+Antec P110 Silent Midi-Tower - black,$123.51 USD,Antec,ATX,ATX,165 mm,390 mm,6,8,0,black,FALSE,TRUE,TRUE,TRUE,230,518,489
+"Antec P120 Crystal Midi-Tower - Tempered Glass, black",$130.56 USD,Antec,E-ATX,ATX,185 mm,450 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,234,476,485
+Antec P380 Big-Tower - black Window,,Antec,E-ATX,ATX,180 mm,465 mm,8,8,0,black,TRUE,TRUE,TRUE,FALSE,223.6,557,555
+Antec P50 Micro-ATX-Cube - black Window,,Antec,Micro-ATX,ATX,130 mm,300 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,260,355,355
+"Antec P6 Midi-Tower, Tempered Glass - black",$68.46 USD,Antec,Micro-ATX,ATX,160 mm,390 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,470,405,200
+Antec P7 - Window Grün,,Antec,ATX,ATX,165 mm,390 mm,4,2,0,"green, black",TRUE,TRUE,TRUE,FALSE,210,445,470
+Antec P7 - Window red,,Antec,ATX,ATX,165 mm,390 mm,4,2,0,red black,TRUE,TRUE,TRUE,FALSE,210,445,470
+Antec P7 Silent Midi-Tower - black,$73.27 USD,Antec,ATX,ATX,165 mm,390 mm,2,0,0,black,FALSE,TRUE,TRUE,TRUE,210,445,470
+Antec Performance Series P100 Midi-Tower - black,,Antec,ATX,ATX,170 mm,317 mm,7,7,0,black,FALSE,TRUE,TRUE,FALSE,220,523,484
+"Antec Performance Series P8 Midi-Tower, Tempered Glass - black",$58.07 USD,Antec,ATX,ATX,165 mm,390 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,210,470,443
+Antec Three Hundred Two Midi-Tower - black,$72.53 USD,Antec,ATX,ATX,170 mm,318 mm,2,6,0,black,FALSE,FALSE,TRUE,FALSE,229,471,513
+Antec TORQUE Midi-Tower - black/red,$413.45 USD,Antec,ATX,ATX,215 mm,450 mm,1,1,0,red black,TRUE,FALSE,FALSE,FALSE,285,621,644
+Antec TORQUE Midi-Tower - white,$275.64 USD,Antec,ATX,ATX,215 mm,450 mm,1,1,0,white,TRUE,FALSE,TRUE,FALSE,285,621,644
+"ASUS ROG Strix Helios Midi-Tower, Tempered Glass - black",,ASUS,E-ATX,ATX,190 mm,450 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,250,565,591
+"ASUS ROG Strix Helios White Edition Midi-Tower, Tempered Glass, RGB - white",,ASUS,E-ATX,ATX,190 mm,450 mm,4,0,0,white,TRUE,TRUE,TRUE,FALSE,250,565,591
+ASUS TUF GT301 Midi-Tower - black,,ASUS,ATX,ATX,160 mm,320 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,214,426,482
+ASUS TUF GT501 Midi-Tower - black,,ASUS,E-ATX,ATX,180 mm,420 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,251,545,552
+"ASUS TUF GT501 Midi-Tower, Tempered Glass, RGB - white",,ASUS,E-ATX,ATX,180 mm,420 mm,3,0,0,white,TRUE,TRUE,TRUE,FALSE,251,545,552
+be quiet! Dark Base 700 RGB Midi-Tower - black Window,$255.78 USD,be quiet!,E-ATX,ATX,180 mm,430 mm,17,7,0,black,TRUE,TRUE,TRUE,TRUE,241,544,519
+be quiet! Dark Base 700 White Edition Midi-Tower - white Window,$212.92 USD,be quiet!,E-ATX,ATX,180 mm,430 mm,17,7,0,white,TRUE,TRUE,TRUE,TRUE,241,544,519
+be quiet! Dark Base 900 Big-Tower - black,$259.5 USD,be quiet!,E-ATX,ATX,185 mm,470 mm,15,7,0,black,FALSE,TRUE,TRUE,TRUE,243,577,585
+be quiet! Dark Base 900 Big-Tower - silver,$244.03 USD,be quiet!,E-ATX,ATX,185 mm,470 mm,15,7,0,black,FALSE,TRUE,TRUE,TRUE,243,577,585
+be quiet! Dark Base Pro 900 Big-Tower - orange Window,,be quiet!,E-ATX,ATX,185 mm,470 mm,15,7,0,black,TRUE,TRUE,TRUE,TRUE,243,577,585
+be quiet! Dark Base Pro 900 Big-Tower - black Window,$215.07 USD,be quiet!,E-ATX,ATX,185 mm,470 mm,15,7,0,black,TRUE,TRUE,TRUE,TRUE,243,577,585
+be quiet! Dark Base Pro 900 Big-Tower - silver Window,,be quiet!,E-ATX,ATX,185 mm,470 mm,15,7,0,black,TRUE,TRUE,TRUE,TRUE,243,577,585
+"be quiet! Dark Base Pro 900 Big-Tower, Rev. 2 - orange",$312.26 USD,be quiet!,E-ATX,ATX,185 mm,470 mm,16,7,0,black,TRUE,TRUE,TRUE,FALSE,243,577,586
+"be quiet! Dark Base Pro 900 Big-Tower, Rev. 2 - black",$310.03 USD,be quiet!,E-ATX,ATX,185 mm,470 mm,16,7,0,black,TRUE,TRUE,TRUE,TRUE,243,577,586
+"be quiet! Dark Base Pro 900 Big-Tower, Rev. 2 - silver",$313.6 USD,be quiet!,E-ATX,,185 mm,470 mm,0,0,0,black,FALSE,FALSE,FALSE,FALSE,243,577,586
+be quiet! Pure Base 500 FX Midi-Tower - black,,be quiet!,ATX,ATX,190 mm,369 mm,4,2,0,black,FALSE,FALSE,FALSE,FALSE,232,450,463
+be quiet! Pure Base 500 Midi-Tower - anthrazit,,be quiet!,ATX,ATX,190 mm,369 mm,5,2,0,anthracite,FALSE,TRUE,TRUE,TRUE,231,450,436
+be quiet! Pure Base 500 Midi-Tower - black,,be quiet!,ATX,ATX,190 mm,369 mm,5,2,0,black,FALSE,TRUE,TRUE,TRUE,231,450,463
+be quiet! Pure Base 500 Midi-Tower - white,$86.31 USD,be quiet!,ATX,ATX,190 mm,369 mm,5,2,0,white,FALSE,TRUE,TRUE,TRUE,231,450,463
+be quiet! Pure Base 500 Midi-Tower - Window anthrazit,,be quiet!,ATX,ATX,190 mm,369 mm,5,2,0,anthracite,TRUE,TRUE,TRUE,TRUE,231,450,463
+be quiet! Pure Base 500 Midi-Tower - Window black,,be quiet!,ATX,ATX,190 mm,369 mm,5,2,0,black,TRUE,TRUE,TRUE,TRUE,231,450,463
+be quiet! Pure Base 500 Midi-Tower - Window white,,be quiet!,ATX,ATX,190 mm,369 mm,5,2,0,white,TRUE,TRUE,TRUE,TRUE,231,450,463
+be quiet! Pure Base 600 Midi-Tower - orange Window,$24.95 USD,be quiet!,ATX,ATX,165 mm,425 mm,8,3,0,black,TRUE,TRUE,TRUE,TRUE,492,470,220
+be quiet! Pure Base 600 Midi-Tower - black,$138.55 USD,be quiet!,ATX,ATX,165 mm,425 mm,8,3,0,black,FALSE,TRUE,TRUE,TRUE,220,492,470
+be quiet! Pure Base 600 Midi-Tower - black Window,$97.19 USD,be quiet!,ATX,ATX,165 mm,425 mm,8,3,0,black,TRUE,TRUE,TRUE,TRUE,492,470,220
+be quiet! Pure Base 600 Midi-Tower - silver,$127.81 USD,be quiet!,ATX,ATX,165 mm,425 mm,8,3,0,black,FALSE,TRUE,TRUE,TRUE,220,492,470
+be quiet! Silent Base 600 Midi-Tower - orange,,be quiet!,ATX,ATX,167 mm,400 mm,3,3,0,black,FALSE,TRUE,TRUE,TRUE,230,495,493
+be quiet! Silent Base 600 Midi-Tower - orange Window,,be quiet!,ATX,ATX,167 mm,400 mm,3,3,0,black,TRUE,TRUE,TRUE,TRUE,230,495,493
+be quiet! Silent Base 600 Midi-Tower - black,,be quiet!,ATX,ATX,167 mm,400 mm,3,3,0,black,FALSE,TRUE,TRUE,TRUE,230,495,493
+be quiet! Silent Base 600 Midi-Tower - black Window,$112.22 USD,be quiet!,ATX,ATX,167 mm,400 mm,3,3,0,black,TRUE,TRUE,TRUE,TRUE,230,495,493
+be quiet! Silent Base 600 Midi-Tower - silver,$125.49 USD,be quiet!,ATX,ATX,167 mm,400 mm,3,3,0,black silver,FALSE,TRUE,TRUE,TRUE,230,495,493
+be quiet! Silent Base 600 Midi-Tower - silver Window,,be quiet!,ATX,ATX,167 mm,400 mm,3,3,0,black silver,TRUE,TRUE,TRUE,TRUE,230,495,493
+be quiet! Silent Base 601 Midi-Tower - orange,$140.05 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,6,3,0,"orange, black",FALSE,TRUE,TRUE,TRUE,240,532,514
+be quiet! Silent Base 601 Midi-Tower - red,,be quiet!,E-ATX,ATX,185 mm,449 mm,6,3,0,black,FALSE,TRUE,TRUE,TRUE,240,532,514
+be quiet! Silent Base 601 Midi-Tower - black,$138.64 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,6,3,0,black,FALSE,TRUE,TRUE,TRUE,240,532,514
+be quiet! Silent Base 601 Midi-Tower - silver,$141.04 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,6,3,0,black silver,FALSE,TRUE,TRUE,TRUE,240,532,514
+"be quiet! Silent Base 601 Midi-Tower, Tempered Glass - orange",$196.12 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,6,3,0,"orange, black",TRUE,TRUE,TRUE,TRUE,240,532,514
+"be quiet! Silent Base 601 Midi-Tower, Tempered Glass - red",,be quiet!,E-ATX,ATX,185 mm,449 mm,6,3,0,black,TRUE,TRUE,TRUE,TRUE,240,532,514
+"be quiet! Silent Base 601 Midi-Tower, Tempered Glass - black",$199.44 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,6,3,0,black,TRUE,TRUE,TRUE,TRUE,240,532,514
+"be quiet! Silent Base 601 Midi-Tower, Tempered Glass - silver",$137.28 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,6,3,0,black silver,TRUE,TRUE,TRUE,TRUE,240,532,514
+be quiet! Silent Base 800 Midi-Tower - orange,,be quiet!,ATX,ATX,170 mm,400 mm,4,7,0,black,FALSE,TRUE,TRUE,TRUE,266,495,559
+be quiet! Silent Base 800 Midi-Tower - orange Window,$174.04 USD,be quiet!,ATX,ATX,170 mm,400 mm,4,7,0,black,TRUE,TRUE,TRUE,TRUE,266,495,559
+be quiet! Silent Base 800 Midi-Tower - black Window,$25.55 USD,be quiet!,ATX,ATX,170 mm,400 mm,4,7,0,black,TRUE,TRUE,TRUE,TRUE,266,495,559
+be quiet! Silent Base 800 Midi-Tower - silver,,be quiet!,ATX,ATX,170 mm,400 mm,4,7,0,black,FALSE,TRUE,TRUE,TRUE,266,495,559
+be quiet! Silent Base 800 Midi-Tower - silver Window,$222.34 USD,be quiet!,ATX,ATX,170 mm,400 mm,4,7,0,black,TRUE,TRUE,TRUE,TRUE,266,495,559
+be quiet! Silent Base 801 Midi-Tower - orange,$161.0 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,11,5,0,"orange, black",FALSE,TRUE,TRUE,TRUE,282,539,507.3
+be quiet! Silent Base 801 Midi-Tower - orange Window,$172.2 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,11,5,0,"orange, black",TRUE,TRUE,TRUE,TRUE,282,539,507.3
+be quiet! Silent Base 801 Midi-Tower - red,,be quiet!,E-ATX,ATX,185 mm,449 mm,11,5,0,black,FALSE,TRUE,TRUE,TRUE,282,539,507.3
+be quiet! Silent Base 801 Midi-Tower - red Window,,be quiet!,E-ATX,ATX,185 mm,449 mm,11,5,0,black,TRUE,TRUE,TRUE,TRUE,282,539,507.3
+be quiet! Silent Base 801 Midi-Tower - black,$160.31 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,11,5,0,black,FALSE,TRUE,TRUE,TRUE,282,539,507.3
+be quiet! Silent Base 801 Midi-Tower - black Window,$181.84 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,11,5,0,black,TRUE,TRUE,TRUE,TRUE,282,539,507.3
+be quiet! Silent Base 801 Midi-Tower - silver,$156.47 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,11,5,0,black silver,FALSE,TRUE,TRUE,TRUE,282,539,507.3
+be quiet! Silent Base 801 Midi-Tower - silver Window,$174.78 USD,be quiet!,E-ATX,ATX,185 mm,449 mm,11,5,0,black silver,TRUE,TRUE,TRUE,TRUE,282,539,507.3
+BitFenix Aegis Micro-ATX - blue/black,,BitFenix,Micro-ATX,ATX,170 mm,350 mm,4,4,0,"blue, black",TRUE,TRUE,TRUE,FALSE,205,480,470
+BitFenix Aegis Micro-ATX - yellow/black,,BitFenix,Micro-ATX,ATX,170 mm,350 mm,4,4,0,yellow black,TRUE,TRUE,TRUE,FALSE,205,480,470
+BitFenix Aegis Micro-ATX - red/black,,BitFenix,Micro-ATX,ATX,170 mm,350 mm,4,4,0,red black,TRUE,TRUE,TRUE,FALSE,205,480,470
+BitFenix Aegis Micro-ATX - black,,BitFenix,Micro-ATX,ATX,170 mm,350 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,205,480,470
+BitFenix Aegis Micro-ATX - white/black,,BitFenix,Micro-ATX,ATX,170 mm,350 mm,4,4,0,black-and-white,TRUE,TRUE,TRUE,FALSE,205,480,470
+BitFenix Aurora Midi-Tower - black Tempered Glass Window,,BitFenix,E-ATX,ATX,160 mm,400 mm,3,4,0,black,TRUE,TRUE,TRUE,FALSE,215,520,490
+BitFenix Aurora Midi-Tower - white Tempered Glass Window,,BitFenix,E-ATX,ATX,160 mm,400 mm,3,4,0,black-and-white,TRUE,TRUE,TRUE,FALSE,215,520,490
+BitFenix Colossus M Mini-ITX RED/BLUE/GREEN LED - black,,BitFenix,Mini-ITX,ATX,175 mm,330 mm,8,5,0,black,FALSE,TRUE,TRUE,FALSE,250,374,330
+BitFenix Comrade Midi-Tower - black,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,black,FALSE,TRUE,TRUE,FALSE,185,470.5,428.5
+BitFenix Comrade Midi-Tower - black Window,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,185,470.5,428.5
+BitFenix Comrade Midi-Tower - white,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,white,FALSE,TRUE,TRUE,FALSE,185,470.5,428.5
+BitFenix Comrade Midi-Tower - white Window,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,white,TRUE,TRUE,TRUE,FALSE,185,470.5,428.5
+"BitFenix Dawn TG A-RGB Midi-Tower, Tempered Glass - black",,BitFenix,E-ATX,ATX,165 mm,380 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,220,448,486.5
+"BitFenix Enso Mesh RGB Midi-Tower, Tempered Glass - black",$111.94 USD,BitFenix,E-ATX,ATX,160 mm,340 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,210,454,489
+"BitFenix Enso Mesh RGB Midi-Tower, Tempered Glass - white",$105.9 USD,BitFenix,E-ATX,ATX,160 mm,340 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,210,454,489
+"BitFenix Enso Mesh TG 4ARGB Midi-Tower, Tempered Glass - black",,BitFenix,E-ATX,ATX,160 mm,340 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,210,452,489
+"BitFenix Enso Mesh TG 4ARGB Midi-Tower, Tempered Glass - white",,BitFenix,E-ATX,ATX,160 mm,340 mm,3,0,0,white,TRUE,TRUE,TRUE,FALSE,210,452,489
+"BitFenix Enso RGB Midi-Tower, Tempered Glass - black",,BitFenix,E-ATX,ATX,160 mm,340 mm,5,2,0,black,TRUE,TRUE,TRUE,FALSE,210,454,489
+"BitFenix Enso RGB Midi-Tower, Tempered Glass - white",,BitFenix,E-ATX,ATX,160 mm,340 mm,5,2,0,white,TRUE,TRUE,TRUE,FALSE,210,454,489
+BitFenix Neos Midi-Tower - black/blue,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,"blue, black",FALSE,TRUE,TRUE,FALSE,185,470,429
+BitFenix Neos Midi-Tower - black/gold Window,,BitFenix,ATX,ATX,155 mm,300 mm,3,3,0,"gold, black",TRUE,TRUE,TRUE,FALSE,185,470,429
+BitFenix Neos Midi-Tower - black/red,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,red black,FALSE,TRUE,TRUE,FALSE,185,470,429
+BitFenix Neos Midi-Tower - black/black,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,black,FALSE,TRUE,TRUE,FALSE,185,470,429
+BitFenix Neos Midi-Tower - black/silver,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,black silver,FALSE,TRUE,TRUE,FALSE,185,470,429
+BitFenix Neos Midi-Tower - white/blue,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,blue white,FALSE,TRUE,TRUE,FALSE,185,470,429
+BitFenix Neos Midi-Tower - white/red,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,red white,FALSE,TRUE,TRUE,FALSE,185,470,429
+BitFenix Neos Midi-Tower - white/silver,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,"silver, white",FALSE,TRUE,TRUE,FALSE,185,470,429
+BitFenix Neos Midi-Tower - white/violett Window,$48.02 USD,BitFenix,ATX,ATX,155 mm,300 mm,3,3,0,"purple, white",TRUE,TRUE,TRUE,FALSE,185,470,429
+BitFenix Neos Midi-Tower - white/white,,BitFenix,ATX,ATX,160 mm,300 mm,3,3,0,white,FALSE,TRUE,TRUE,FALSE,185,470,429
+BitFenix Nova Mesh SE Midi-Tower - black,,BitFenix,ATX,ATX,160 mm,315 mm,2,0,0,black,FALSE,FALSE,TRUE,FALSE,211,380,450
+"BitFenix Nova Mesh SE Midi-Tower, Tempered Glass - white",,BitFenix,ATX,ATX,160 mm,315 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,211,380,450
+"BitFenix Nova Mesh SE TG ARGB Midi-Tower, Tempered Glass - white/lila",,BitFenix,ATX,ATX,160 mm,315 mm,2,0,0,white,TRUE,FALSE,TRUE,FALSE,211,380,450
+"BitFenix Nova Mesh TG A-RGB Midi-Tower, Tempered Glass - black",,BitFenix,E-ATX,ATX,160 mm,340 mm,3,0,0,black,TRUE,FALSE,TRUE,FALSE,210,437,460
+"BitFenix Nova Mesh TG A-RGB Midi-Tower, Tempered Glass - white",,BitFenix,E-ATX,ATX,160 mm,340 mm,3,0,0,white,TRUE,FALSE,TRUE,FALSE,210,437,460
+"BitFenix Nova Mesh TG Midi-Tower, Tempered Glass - black",$81.44 USD,BitFenix,E-ATX,ATX,160 mm,340 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,201,465,437
+"BitFenix Nova Mesh TG Midi-Tower, Tempered Glass - white",,BitFenix,E-ATX,ATX,160 mm,340 mm,3,0,0,white,TRUE,TRUE,TRUE,FALSE,201,465,437
+"BitFenix Nova TG Midi-Tower, Tempered Glass - black",$70.45 USD,BitFenix,ATX,ATX,160 mm,280 mm,6,3,0,black,TRUE,TRUE,TRUE,FALSE,201,465,437
+"BitFenix Nova TG Midi-Tower, Tempered Glass - white",$66.73 USD,BitFenix,ATX,ATX,160 mm,280 mm,6,3,0,black-and-white,TRUE,TRUE,TRUE,FALSE,201,465,437
+BitFenix Pandora ATX Core Midi-Tower - black Window,,BitFenix,ATX,ATX,155 mm,440 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,203,510,558
+BitFenix Pandora ATX Midi-Tower - black Window,,BitFenix,ATX,ATX,155 mm,440 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,203,510,558
+BitFenix Pandora Core Micro-ATX - black Window,,BitFenix,Micro-ATX,ATX,134 mm,350 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,160,465,420
+BitFenix Portal Mini-ITX - black,$114.5 USD,BitFenix,Mini-ITX,SFX,125 mm,300 mm,3,2,0,black,FALSE,FALSE,FALSE,FALSE,185,411,382
+BitFenix Portal Mini-ITX - black Window,$70.99 USD,BitFenix,Mini-ITX,SFX,125 mm,300 mm,3,2,0,black,TRUE,FALSE,FALSE,FALSE,185,411,382
+BitFenix Portal Mini-ITX - white,$138.77 USD,BitFenix,Mini-ITX,SFX,125 mm,300 mm,3,2,0,white,FALSE,FALSE,FALSE,FALSE,185,411,382
+BitFenix Portal Mini-ITX - white Window,,BitFenix,Mini-ITX,SFX,125 mm,300 mm,3,2,0,white,TRUE,FALSE,FALSE,FALSE,185,411,382
+"BitFenix Prodigy M Micro-ATX, Window - white",,BitFenix,Micro-ATX,ATX,160 mm,320 mm,5,4,0,white,TRUE,TRUE,TRUE,FALSE,250,359,404
+"BitFenix Saber TG Midi-Tower, Tempered Glass - black",,BitFenix,E-ATX,ATX,178 mm,400 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,220,465,454
+BitFenix Shadow Midi-Tower - black,,BitFenix,ATX,ATX,165 mm,320 mm,1,7,0,black,FALSE,TRUE,TRUE,FALSE,190,506,440
+BitFenix Shinobi Core Midi-Tower USB 3.0 - black,,BitFenix,ATX,ATX,160 mm,320 mm,1,8,0,black,FALSE,TRUE,TRUE,FALSE,205,490,460
+BitFenix Shinobi Core Midi-Tower USB 3.0 - black Window,,BitFenix,ATX,ATX,160 mm,320 mm,1,8,0,black,TRUE,TRUE,TRUE,FALSE,205,490,460
+BitFenix Shinobi Core Midi-Tower USB 3.0 - white,,BitFenix,ATX,ATX,160 mm,320 mm,1,8,0,white,FALSE,TRUE,TRUE,FALSE,205,490,460
+BitFenix Shinobi Core Midi-Tower USB 3.0 - white Window,,BitFenix,ATX,ATX,160 mm,320 mm,1,8,0,white,TRUE,TRUE,TRUE,FALSE,205,490,460
+BitFenix Shinobi Midi-Tower GER Edition - black/red/gold,,BitFenix,ATX,ATX,160 mm,320 mm,1,8,0,red black,FALSE,TRUE,TRUE,FALSE,205,490,460
+BitFenix Shinobi Midi-Tower GER Edition - black/red/gold Window,,BitFenix,ATX,ATX,160 mm,320 mm,1,8,0,red black,TRUE,TRUE,TRUE,FALSE,205,490,460
+BitFenix Shinobi Midi-Tower USB 3.0 - black,,BitFenix,ATX,ATX,160 mm,320 mm,1,8,0,black,FALSE,TRUE,TRUE,FALSE,205,490,460
+BitFenix Shinobi Midi-Tower USB 3.0 - black Window,,BitFenix,ATX,ATX,160 mm,320 mm,1,8,0,black,TRUE,TRUE,TRUE,FALSE,205,490,460
+BitFenix Shinobi Midi-Tower USB 3.0 - black/grün/grün Window,,BitFenix,ATX,ATX,160 mm,320 mm,1,8,0,"green, black",TRUE,TRUE,TRUE,FALSE,205,490,460
+BitFenix Shinobi Midi-Tower USB 3.0 - white/blue/dunkelblue,,BitFenix,ATX,ATX,160 mm,320 mm,1,8,0,blue white,FALSE,TRUE,TRUE,FALSE,205,490,460
+BitFenix Shinobi Midi-Tower USB 3.0 - white/black/black,,BitFenix,ATX,ATX,160 mm,320 mm,1,8,0,black-and-white,FALSE,TRUE,TRUE,FALSE,205,490,460
+"BitFenix Shogun Midi-Tower, Tempered Glass - black Window",,BitFenix,E-ATX,ATX,175 mm,410 mm,4,6,0,black,TRUE,TRUE,TRUE,FALSE,250,525,565
+Carbide Series 100R Mid-Tower,$49.32 USD,Corsair,ATX,ATX,150 mm,Top Slots: 414 Lower Slots: 275 mm,0,0,4,,FALSE,FALSE,FALSE,FALSE,200,430,471
+Carbide Series 100R Silent Edition Mid-Tower,$58.02 USD,Corsair,ATX,ATX,150 mm,Top Slots: 414 Lower Slots: 275 mm,0,0,4,,FALSE,FALSE,FALSE,TRUE,200,430,471
+Carbide Series 270R ATX Mid-Tower,$50.77 USD,Corsair,ATX,ATX,170 mm,370 mm,2,2,0,,FALSE,FALSE,FALSE,FALSE,210,460,509
+Carbide Series 270R Windowed ATX Mid-Tower,$58.02 USD,Corsair,ATX,ATX,170 mm,370 mm,2,2,0,,FALSE,FALSE,FALSE,FALSE,210,460,509
+Carbide Series 330R Quiet Mid-Tower,$109.95 USD,Corsair,ATX,ATX,160 mm,450 mm,0,0,4,,FALSE,FALSE,FALSE,TRUE,210,484,495
+Carbide Series 330R Titanium Edition Silent Mid-Tower,$101.07 USD,Corsair,ATX,ATX,160 mm,450 mm,0,0,4,,FALSE,FALSE,FALSE,TRUE,210,484,495
+Carbide Series Air 240 Arctic White High Airflow MicroATX and Mini-ITX,$79.78 USD,Corsair,Micro-ATX,ATX,120 mm,290 mm,3,3,0,arctic white,FALSE,FALSE,FALSE,FALSE,260,320,397
+Carbide Series Air 240 High Airflow MicroATX and Mini-ITX,$79.78 USD,Corsair,Micro-ATX,ATX,120 mm,290 mm,3,3,0,black,FALSE,FALSE,FALSE,FALSE,260,320,397
+Carbide Series Air 540 Arctic White High Airflow ATX Cube,$147.37 USD,Corsair,E-ATX,ATX,170 mm,320 mm,4,0,2,,FALSE,FALSE,FALSE,FALSE,332,458,415
+Carbide Series Air 540 High Airflow ATX Cube,$145.07 USD,Corsair,E-ATX,ATX,170 mm,320 mm,4,0,2,,FALSE,FALSE,FALSE,FALSE,332,458,415
+Carbide Series Clear 400C Compact Mid-Tower,$101.91 USD,Corsair,E-ATX,ATX,170 mm,370 mm,3,2,0,black,FALSE,FALSE,FALSE,FALSE,215,464,425
+Carbide Series Clear 400C Compact Mid-Tower — White,$124.31 USD,Corsair,E-ATX,ATX,170 mm,370 mm,3,2,0,white,FALSE,FALSE,FALSE,FALSE,215,464,425
+Carbide Series Clear 600C Inverse ATX Full-Tower,$140.72 USD,Corsair,ATX,ATX,200 mm,370 mm,3,2,0,,FALSE,FALSE,FALSE,FALSE,260,535,454
+Carbide Series Quiet 400Q Compact Mid-Tower,$78.16 USD,Corsair,E-ATX,ATX,170 mm,370 mm,3,2,0,,FALSE,FALSE,FALSE,TRUE,215,464,425
+Carbide Series Quiet 600Q Inverse ATX Full-Tower,$140.72 USD,Corsair,ATX,ATX,200 mm,370 mm,3,2,0,,FALSE,FALSE,FALSE,TRUE,260,535,454
+Carbide Series SPEC-01 Red LED Mid-Tower Gaming,$64.63 USD,Corsair,ATX,ATX,150 mm,414 mm,0,0,4,black,FALSE,FALSE,FALSE,FALSE,200,428,447
+Carbide Series SPEC-03 Red LED Mid-Tower Gaming,,Corsair,ATX,ATX,157 mm,420 mm,2,3,0,black,FALSE,FALSE,FALSE,FALSE,215,426,493
+Carbide Series SPEC-ALPHA Mid-Tower Gaming — Black/Red,$98.08 USD,Corsair,ATX,ATX,156 mm,380 mm,4,3,0,black/red,FALSE,FALSE,FALSE,FALSE,220,474,518
+Carbide Series SPEC-ALPHA Mid-Tower Gaming — Black/Silver,$110.69 USD,Corsair,ATX,ATX,156 mm,380 mm,4,3,0,black/silver,FALSE,FALSE,FALSE,FALSE,220,474,518
+Carbide Series SPEC-ALPHA Mid-Tower Gaming — Black/Yellow,$61.65 USD,Corsair,ATX,ATX,156 mm,380 mm,4,3,0,black/yellow,FALSE,FALSE,FALSE,FALSE,220,474,518
+Carbide Series SPEC-ALPHA Mid-Tower Gaming — White/Red,$169.09 USD,Corsair,ATX,ATX,156 mm,380 mm,4,3,0,white/red,FALSE,FALSE,FALSE,FALSE,220,474,518
+Carbide Series SPEC-OMEGA Tempered Glass Mid-Tower ATX Gaming - Black,$94.29 USD,Corsair,ATX,ATX,170 mm,370 mm,2,3,0,black,FALSE,FALSE,FALSE,FALSE,232,516,495
+Carbide Series SPEC-OMEGA Tempered Glass Mid-Tower ATX Gaming - Black/Red,$79.78 USD,Corsair,ATX,ATX,170 mm,370 mm,2,3,0,black/red,FALSE,FALSE,FALSE,FALSE,232,516,495
+Carbide Series SPEC-OMEGA Tempered Glass Mid-Tower ATX Gaming - Black/White,$76.16 USD,Corsair,ATX,ATX,170 mm,370 mm,2,3,0,black/white,FALSE,FALSE,FALSE,FALSE,232,516,495
+Chieftec AL-01B Falcon Midi-Tower - black,,Chieftec,ATX,ATX,150 mm,350 mm,2,2,0,black,FALSE,TRUE,TRUE,FALSE,202.5,435,436
+Chieftec Bravo Serie BH-01B-U3 Midi-Tower - black,,Chieftec,E-ATX,ATX,160 mm,320 mm,0,6,0,black,FALSE,FALSE,FALSE,FALSE,205,540,440
+Chieftec Bravo Serie BM-01B-U3 Midi-Tower - black,,Chieftec,ATX,ATX,155 mm,280 mm,1,3,0,black,FALSE,FALSE,FALSE,FALSE,190,456,420
+Chieftec Elox Serie HT-01B Micro-ATX inkl. 350 Watt Netzteil,,Chieftec,Micro-ATX,sonstige,140 mm,340 mm,1,2,0,black,FALSE,FALSE,FALSE,FALSE,180,408,355
+Chieftec Giga Serie DF-02B-U3 Midi-Tower - black,,Chieftec,ATX,ATX,155 mm,270 mm,0,5,0,black,FALSE,FALSE,TRUE,FALSE,200,487,430
+Chieftec HQ-01B Midi-Tower - black,,Chieftec,ATX,ATX,120 mm,250 mm,0,4,0,black,FALSE,TRUE,FALSE,FALSE,160,428,410
+Chieftec Libra Serie LF-01B Midi-Tower - black,,Chieftec,ATX,ATX,165 mm,320 mm,1,4,0,black,FALSE,TRUE,TRUE,FALSE,200,485,490
+Chieftec Mesh Serie CQ-1B-U3 Midi-Tower - black,,Chieftec,ATX,ATX,120 mm,250 mm,0,3,0,black,FALSE,FALSE,FALSE,FALSE,160,428,425
+Chieftec Mesh Serie CT-01B Micro-ATX inkl. Netzteil 350 Watt,,Chieftec,Micro-ATX,ATX,140 mm,340 mm,1,2,0,black,FALSE,FALSE,FALSE,FALSE,180,408,355
+Chieftec Scorpion GL-01B Tempered Glass Midi-Tower - black,,Chieftec,ATX,ATX,160 mm,350 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,202.5,436,505
+Chieftec Smart Serie CH-09B-U3 Midi-Tower - black,,Chieftec,E-ATX,ATX,160 mm,320 mm,0,5,0,black,FALSE,FALSE,TRUE,FALSE,205,540,440
+Chieftec Smart SH-03B Midi-Tower - black,,Chieftec,E-ATX,ATX,160 mm,320 mm,0,6,0,black,FALSE,TRUE,FALSE,FALSE,205,540,440
+Chieftec Stallion GP-01B Midi-Tower - black,,Chieftec,ATX,ATX,160 mm,430 mm,2,4,0,black,TRUE,TRUE,TRUE,FALSE,210,516,450
+Chieftec Uni Serie BM-02B-U3 Midi-Tower - black,,Chieftec,ATX,ATX,155 mm,280 mm,1,3,0,black,FALSE,FALSE,FALSE,FALSE,190,456,420
+Cooler Master 690 III Advanced Midi-Tower - pure black,,Cooler Master,ATX,ATX,171 mm,423 mm,10,7,0,black,FALSE,TRUE,TRUE,FALSE,230,502,507
+Cooler Master 690 III Advanced Midi-Tower - Window pure black,,Cooler Master,ATX,ATX,171 mm,423 mm,10,7,0,black,TRUE,TRUE,TRUE,FALSE,230,502,507
+"Cooler Master Cosmos C700M Big Tower - Tempered Glass, black",$580.29 USD,Cooler Master,E-ATX,ATX,198 mm,490 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,306,650,651
+Cooler Master Cosmos SE COS-5000-KWN1 Big-Tower - black,,Cooler Master,ATX,ATX,175 mm,395 mm,18,8,0,black,TRUE,TRUE,TRUE,FALSE,263.8,524.4,569.4
+Cooler Master Elite 130 RC-130-KKN1 Mini-ITX - black,$79.07 USD,Cooler Master,Mini-ITX,ATX,65 mm,343 mm,5,3,0,black,FALSE,FALSE,FALSE,FALSE,240,377.5,205
+"Cooler Master HAF 500, Midi-Tower, ARGB, Tempered Glass - black",,Cooler Master,E-ATX,ATX,167 mm,410 mm,2,0,0,grey black,TRUE,TRUE,TRUE,FALSE,224,516,510
+"Cooler Master HAF 500, Midi-Tower, ARGB, Tempered Glass - white",,Cooler Master,E-ATX,ATX,167 mm,410 mm,2,0,0,black-and-white,TRUE,TRUE,TRUE,FALSE,224,516,510
+Cooler Master HAF700 EVO ATX,,Cooler Master,E-ATX,ATX,166 mm,490 mm,12,0,0,grey black,TRUE,TRUE,TRUE,FALSE,291,666,626
+"Cooler Master MasterBox 540 Midi-Tower, ARGB, Tempered Glass - black",$138.1 USD,Cooler Master,E-ATX,ATX,165 mm,410 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,209,499,498
+Cooler Master MasterBox E500L Midi-Tower - blue,,Cooler Master,ATX,ATX,172 mm,399 mm,4,2,0,black,FALSE,TRUE,TRUE,FALSE,215,426,490
+Cooler Master MasterBox E500L Midi-Tower - silver Window,,Cooler Master,ATX,ATX,157 mm,399 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,203,426,490
+"Cooler Master MasterBox E500L Midi-Tower, blue Window",,Cooler Master,ATX,ATX,157 mm,399 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,203,426,490
+"Cooler Master MasterBox E500L Midi-Tower, red",,Cooler Master,ATX,ATX,172 mm,399 mm,4,2,0,black,FALSE,TRUE,TRUE,FALSE,215,426,490
+"Cooler Master MasterBox E500L Midi-Tower, red Window",,Cooler Master,ATX,ATX,157 mm,399 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,203,426,490
+"Cooler Master MasterBox E500L Midi-Tower, silver",,Cooler Master,ATX,ATX,172 mm,399 mm,4,2,0,black,FALSE,TRUE,TRUE,FALSE,215,426,490
+"Cooler Master MasterBox K500 Midi-Tower, Tempered Glass - black",$84.51 USD,Cooler Master,ATX,ATX,160 mm,400 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,210,491,455
+Cooler Master MasterBox Lite 3.1 TG Midi-Tower - black Window,$58.02 USD,Cooler Master,Micro-ATX,ATX,158 mm,380 mm,1,2,0,black,TRUE,TRUE,TRUE,FALSE,209,381,456
+"Cooler Master MasterBox MB500, TG, black",$93.3 USD,Cooler Master,ATX,ATX,160 mm,400 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,211,475,494
+Cooler Master MasterBox MB530P Midi-Tower - black,$122.57 USD,Cooler Master,ATX,ATX,165 mm,410 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,229,469,489
+Cooler Master MasterBox Midi-Tower MB600L w/ODD - blue,,Cooler Master,ATX,ATX,160 mm,400 mm,1,2,0,black,TRUE,TRUE,TRUE,FALSE,212,464,454
+Cooler Master MasterBox Midi-Tower MB600L w/ODD - Gunmetal,,Cooler Master,ATX,ATX,160 mm,400 mm,1,2,0,black,TRUE,TRUE,TRUE,FALSE,212,464,454
+Cooler Master MasterBox Midi-Tower MB600L w/ODD - red,$78.2 USD,Cooler Master,ATX,ATX,160 mm,400 mm,1,2,0,black,TRUE,TRUE,TRUE,FALSE,212,464,454
+Cooler Master MasterBox Pro 5 RGB Midi-Tower - black Window,$72.53 USD,Cooler Master,E-ATX,ATX,167 mm,410 mm,5,2,0,black,TRUE,TRUE,TRUE,FALSE,223,500,475
+"Cooler Master MasterBox Q300L Mini, black",$50.77 USD,Cooler Master,Micro-ATX,ATX,157 mm,360 mm,2,1,0,black,TRUE,TRUE,TRUE,FALSE,230,378,387
+Cooler Master MasterBox Q300P Midi-Tower - black Window,$72.53 USD,Cooler Master,Micro-ATX,ATX,157 mm,360 mm,3,1,0,black,TRUE,FALSE,TRUE,FALSE,230,450,450
+"Cooler Master MasterCase H500M Midi-Tower, Tempered Glass - black",$239.37 USD,Cooler Master,E-ATX,ATX,190 mm,412 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,248,546,544
+Cooler Master MasterCase H500P Mesh Midi-Tower - white,$123.31 USD,Cooler Master,E-ATX,ATX,190 mm,412 mm,4,2,0,white,TRUE,FALSE,TRUE,FALSE,242,544,542
+"Cooler Master MasterCase H500P Midi-Tower, Tempered Glass - black",,Cooler Master,E-ATX,ATX,190 mm,412 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,242,544,542
+Cooler Master MasterCase Maker 5 Midi-Tower - black Window,,Cooler Master,ATX,ATX,190 mm,412 mm,7,5,0,black,TRUE,TRUE,TRUE,FALSE,235,528.6,548
+"Cooler Master MasterCase Maker 5t Midi-Tower, Tempered Glass - black",,Cooler Master,ATX,ATX,190 mm,412 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,242,544,574
+Cooler Master MasterCase MC500 TG Midi-Tower - black,$108.8 USD,Cooler Master,E-ATX,ATX,190 mm,412 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,235,512,548
+Cooler Master MasterCase MC500M TG Midi-Tower - black,$170.93 USD,Cooler Master,E-ATX,ATX,190 mm,412 mm,1,4,0,black,TRUE,TRUE,TRUE,FALSE,235,528.6,548
+Cooler Master MasterCase MC500MT TG Midi-Tower - black,$217.07 USD,Cooler Master,E-ATX,ATX,190 mm,412 mm,1,4,0,black,TRUE,TRUE,TRUE,FALSE,235,528.6,548
+Cooler Master MasterCase MC500P TG Midi-Tower - black,$137.07 USD,Cooler Master,E-ATX,ATX,190 mm,412 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,235,512,548
+Cooler Master MasterCase MC600P TG Midi-Tower - black,$139.97 USD,Cooler Master,E-ATX,ATX,190 mm,412 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,235,548,544
+Cooler Master MasterCase Pro 3 Micro-ATX - black Window,,Cooler Master,Micro-ATX,ATX,190 mm,370 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,235,467,505
+Cooler Master MasterCase Pro 5 Midi-Tower - black Window,$87.04 USD,Cooler Master,ATX,ATX,190 mm,412 mm,7,5,0,black,TRUE,TRUE,TRUE,FALSE,235,512,548
+"Cooler Master MasterCase Pro 5 Midi-Tower, NVIDIA Edition - black Window",,Cooler Master,ATX,ATX,190 mm,412 mm,7,5,0,"green, black",TRUE,TRUE,TRUE,FALSE,235,512,548
+"Cooler Master MasterCase SL600M Midi-Tower, Tempered Glass - silver",$199.25 USD,Cooler Master,E-ATX,ATX,191 mm,318 mm,4,0,0,black silver,TRUE,FALSE,TRUE,FALSE,242,544,573
+Cooler Master N200 NSE-200-KKN1 Midi-Tower - black,$47.14 USD,Cooler Master,Micro-ATX,ATX,160 mm,355 mm,4,2,0,black,FALSE,TRUE,TRUE,FALSE,202,445,378
+Cooler Master N200 NSE-200-KWN1 Midi-Tower Window - black,,Cooler Master,Micro-ATX,ATX,160 mm,355 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,202,445,378
+Cooler Master N300 NSE-300-KKN1 Midi-Tower - black,,Cooler Master,ATX,ATX,164 mm,320 mm,1,7,0,black,FALSE,TRUE,TRUE,FALSE,190,492,426
+Cooler Master RC-K280-KKN1 Midi-Tower - black,,Cooler Master,ATX,ATX,162 mm,315 mm,1,6,0,black,FALSE,TRUE,TRUE,FALSE,219,480,429
+Cooler Master RC-K380-KWN1 Midi-Tower- black Window,,Cooler Master,ATX,ATX,155 mm,316 mm,3,5,0,black,TRUE,TRUE,TRUE,FALSE,209,479,456
+Cooler Master Silencio RC-550-KKN1 Midi-Tower - black,,Cooler Master,ATX,ATX,154 mm,281 mm,0,7,0,black,FALSE,TRUE,TRUE,TRUE,210,505.2,415.5
+Cooler Master Silencio RC-550M-KKN1 Midi-Tower - mattschwarz,,Cooler Master,ATX,ATX,154 mm,154 mm,0,7,0,black,FALSE,TRUE,TRUE,TRUE,210,505.2,451.5
+Cooler Master Silencio S400 Steel Silent Mini-Tower - black,$93.56 USD,Cooler Master,Micro-ATX,ATX,167 mm,319 mm,4,4,0,black,FALSE,TRUE,TRUE,TRUE,210,418,408
+Cooler Master Silencio S400 TG Silent Mini-Tower - black,,Cooler Master,Micro-ATX,ATX,166 mm,319 mm,4,4,0,black,TRUE,TRUE,TRUE,TRUE,210,418,408
+Cooler Master Silencio S600 Steel Silent Midi-Tower - black,$115.32 USD,Cooler Master,ATX,ATX,167 mm,398 mm,5,4,0,black,FALSE,TRUE,TRUE,TRUE,209,478,470.5
+Cooler Master Silencio SIL-352M-KKN1 Micro-ATX - black,$74.98 USD,Cooler Master,Micro-ATX,ATX,155 mm,355 mm,4,2,0,black,FALSE,TRUE,TRUE,TRUE,200,453,378
+Corsair 4000D Tempered Glass Midi-Tower - black Window,$87.04 USD,Corsair,E-ATX,ATX,170 mm,360 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,230,453,466
+Corsair 4000D Tempered Glass Midi-Tower - white Window,$87.04 USD,Corsair,E-ATX,ATX,170 mm,360 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,230,453,466
+"Corsair 5000D Midi-Tower, Tempered Glass - black",$152.32 USD,Corsair,E-ATX,ATX,170 mm,420 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,245,520,520
+"Corsair 5000D Midi-Tower, Tempered Glass - white",$152.32 USD,Corsair,E-ATX,ATX,170 mm,420 mm,4,2,0,white,TRUE,TRUE,TRUE,FALSE,245,520,520
+Corsair Carbide 110Q Midi-Tower - black,$76.16 USD,Corsair,ATX,ATX,160 mm,330 mm,2,0,0,black,FALSE,TRUE,TRUE,TRUE,210,418,480
+Corsair Carbide 200R Midi-Tower - black Window,,Corsair,ATX,ATX,160 mm,430 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,210,497,430
+Corsair Carbide 275R Airflow Midi-Tower - black Window,$72.53 USD,Corsair,ATX,ATX,170 mm,370 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,216,455,457
+Corsair Carbide 275R Airflow Midi-Tower - white Window,,Corsair,ATX,ATX,170 mm,370 mm,4,0,0,white,TRUE,TRUE,TRUE,FALSE,216,455,457
+Corsair Carbide 88R Micro-ATX - black,$54.4 USD,Corsair,Micro-ATX,ATX,150 mm,383 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,198,448,378
+Corsair Carbide Air 740 ATX Cube - black,$137.81 USD,Corsair,E-ATX,ATX,170 mm,330 mm,4,3,0,black,TRUE,TRUE,TRUE,FALSE,340,426,510
+Corsair Carbide SPEC-03 Midi-Tower - black/orange,,Corsair,ATX,ATX,157 mm,420 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,220,500,430
+Corsair Carbide SPEC-03 Midi-Tower - black/white,,Corsair,ATX,ATX,157 mm,420 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,220,500,430
+Corsair Carbide SPEC-04 Midi-Tower - black/yellow,$50.77 USD,Corsair,ATX,ATX,150 mm,370 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,201,492,433
+Corsair Carbide SPEC-04 Midi-Tower - black/grey,$47.14 USD,Corsair,ATX,ATX,150 mm,370 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,201,492,433
+Corsair Carbide SPEC-04 Midi-Tower - black/red,$36.26 USD,Corsair,ATX,ATX,150 mm,370 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,201,492,433
+"Corsair Carbide SPEC-04 Midi-Tower, Tempered Glass - black/red",$55.05 USD,Corsair,ATX,ATX,150 mm,370 mm,2,3,0,red black,TRUE,TRUE,TRUE,FALSE,201,492,433
+Corsair Carbide SPEC-05 Midi-Tower - black/red,$50.77 USD,Corsair,ATX,ATX,150 mm,370 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,199,483,433
+"Corsair Carbide SPEC-06 RGB, Tempered Glass Midi-Tower - black",$94.29 USD,Corsair,ATX,ATX,170 mm,370 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,215,455,474
+"Corsair Carbide SPEC-06 RGB, Tempered Glass Midi-Tower - white",$94.29 USD,Corsair,ATX,ATX,170 mm,370 mm,4,2,0,white,TRUE,TRUE,TRUE,FALSE,215,455,474
+"Corsair Carbide SPEC-06, Tempered Glass Midi-Tower - black",$87.04 USD,Corsair,ATX,ATX,170 mm,370 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,215,455,474
+"Corsair Carbide SPEC-06, Tempered Glass Midi-Tower - white",$87.04 USD,Corsair,ATX,ATX,170 mm,370 mm,4,2,0,white,TRUE,TRUE,TRUE,FALSE,215,455,474
+Corsair Crystal 280X Midi-Tower - black,$105.7 USD,Corsair,Micro-ATX,ATX,150 mm,300 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,398,351,276
+Corsair Crystal 280X Midi-Tower - white,$106.72 USD,Corsair,Micro-ATX,ATX,150 mm,300 mm,3,0,0,white,TRUE,TRUE,TRUE,FALSE,398,351,276
+Corsair Crystal 280X RGB Midi-Tower - black,$130.56 USD,Corsair,Micro-ATX,ATX,150 mm,300 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,398,351,276
+Corsair Crystal 280X RGB Midi-Tower - white,$177.71 USD,Corsair,Micro-ATX,ATX,150 mm,300 mm,3,0,0,white,TRUE,TRUE,TRUE,FALSE,398,351,276
+Corsair Crystal 465X RGB Midi-Tower - black Window,$142.63 USD,Corsair,ATX,ATX,170 mm,370 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,216,467,455
+Corsair Crystal 465X RGB Midi-Tower - white Window,$162.47 USD,Corsair,ATX,ATX,170 mm,370 mm,4,2,0,grey black,TRUE,TRUE,TRUE,FALSE,216,467,455
+Corsair Graphite 230T Midi-Tower - black/red,,Corsair,ATX,ATX,165 mm,360 mm,4,4,0,black,FALSE,TRUE,TRUE,FALSE,210,505,440
+Corsair Graphite 230T Midi-Tower - black/red Window,,Corsair,ATX,ATX,165 mm,360 mm,4,4,0,black,TRUE,FALSE,TRUE,FALSE,210,505,440
+Corsair Graphite 760T V2 Big-Tower - black Window,$169.27 USD,Corsair,E-ATX,ATX,170 mm,450 mm,10,6,0,black,TRUE,TRUE,TRUE,FALSE,246,564,568
+Corsair Graphite 760T V2 Big-Tower - black/white Window,$179.02 USD,Corsair,E-ATX,ATX,170 mm,450 mm,10,6,0,black-and-white,TRUE,TRUE,TRUE,FALSE,246,564,568
+Corsair Graphite 780T Big-Tower - black,$169.11 USD,Corsair,E-ATX,ATX,200 mm,355 mm,9,6,0,black,TRUE,FALSE,TRUE,FALSE,288,637,602
+Corsair iCUE 220T RGB Tempered Glass Midi-Tower - black,,Corsair,ATX,ATX,160 mm,300 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,210,395,450
+Corsair iCUE 220T RGB Tempered Glass Midi-Tower - white,,Corsair,ATX,ATX,160 mm,300 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,210,395,450
+Corsair iCUE 4000X RGB Tempered Glass Midi-Tower - black Window,$116.05 USD,Corsair,E-ATX,ATX,170 mm,360 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,230,453,466
+Corsair iCUE 4000X RGB Tempered Glass Midi-Tower - white Window,$134.19 USD,Corsair,E-ATX,ATX,170 mm,360 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,230,453,466
+"Corsair iCUE 5000T Midi-Tower, RGB, Tempered Glass - black",$311.9 USD,Corsair,E-ATX,ATX,170 mm,400 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,251,530,560
+"Corsair iCUE 5000T Midi-Tower, RGB, Tempered Glass - white",$311.9 USD,Corsair,E-ATX,ATX,170 mm,400 mm,4,2,0,"grey, black, white",TRUE,TRUE,TRUE,FALSE,251,530,560
+"Corsair iCUE 5000X RGB Midi-Tower, Tempered Glass - black",$170.46 USD,Corsair,E-ATX,ATX,170 mm,420 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,245,520,520
+"Corsair iCUE 5000X RGB Midi-Tower, Tempered Glass - white",$221.23 USD,Corsair,E-ATX,ATX,170 mm,420 mm,4,2,0,white,TRUE,TRUE,TRUE,FALSE,245,520,520
+"Corsair Obsidian 1000D Big-Tower, Tempered Glass - black",$597.93 USD,Corsair,E-ATX,ATX,180 mm,400 mm,6,5,0,black,TRUE,TRUE,TRUE,FALSE,307,693,697
+Corsair Obsidian 450D Midi-Tower - black Window,,Corsair,E-ATX,ATX,165 mm,430 mm,5,3,0,black,TRUE,TRUE,TRUE,FALSE,210,494,497
+"Corsair Obsidian 500D Premium Midi-Tower, Tempered Glass - black Window",$137.81 USD,Corsair,ATX,ATX,170 mm,370 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,233,502,508
+Corsair Obsidian 500D RGB Special Ed Midi-Tower - black Window,$228.49 USD,Corsair,ATX,ATX,170 mm,370 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,237,500,507
+Corsair Obsidian 750D Airflow Ed Big-Tower - black Window,$152.32 USD,Corsair,E-ATX,ATX,170 mm,450 mm,10,6,0,black,TRUE,TRUE,TRUE,FALSE,235,546,560
+Corsair Obsidian 750D Big-Tower - black Window,$145.07 USD,Corsair,E-ATX,ATX,170 mm,450 mm,10,6,0,black,TRUE,TRUE,TRUE,FALSE,235,546,560
+Cougar Archon Midi-Tower - black Window,,Cougar,ATX,ATX,165 mm,310 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,195,480,430
+Cougar Archon V Midi-Tower - black Window,,Cougar,ATX,ATX,165 mm,310 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,195,480,430
+Cougar Conquer Design - black Window,,Cougar,ATX,ATX,190 mm,350 mm,4,3,0,"orange, black, transparent",TRUE,FALSE,FALSE,FALSE,255,685,580
+Cougar Evolution Big-Tower - black Window,,Cougar,ATX,ATX,180 mm,305 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,223,523,514
+Cougar MG110 Midi-Tower - black,,Cougar,Micro-ATX,ATX,150 mm,350 mm,3,3,0,black,FALSE,TRUE,TRUE,FALSE,198,411,378
+Cougar MG110-W Midi-Tower - black Window,,Cougar,Micro-ATX,ATX,150 mm,350 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,198,411,378
+"Cougar MX340 Midi-Tower, Tempered Glass black",,Cougar,ATX,ATX,160 mm,330 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,208,405,450
+"Cougar Panzer Evo Big-Tower, Tempered Glass - black",,Cougar,E-ATX,ATX,170 mm,390 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,266,556,612
+"Cougar Panzer Evo RGB Big-Tower, Tempered Glass - black",,Cougar,E-ATX,ATX,170 mm,390 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,266,556,612
+Cougar Panzer G Tempered Glass Midi-Tower - black,,Cougar,ATX,ATX,160 mm,400 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,208,520,565
+Cougar Panzer Midi-Tower - black Window,,Cougar,ATX,ATX,160 mm,425 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,208,520,565
+Cougar Panzer S Midi-Tower - black/red Window,,Cougar,ATX,ATX,160 mm,425 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,208,520,565
+Cougar Puritas Tempered Glass Midi-Tower - black,,Cougar,ATX,ATX,160 mm,425 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,218,490,520
+Cougar QBX Mini-ITX - black Mesh Window,$54.4 USD,Cougar,Mini-ITX,ATX,105 mm,350 mm,3,1,0,black,FALSE,TRUE,FALSE,FALSE,178,368,260
+Cougar Solution 2 Midi-Tower - black Window,,Cougar,ATX,ATX,165 mm,310 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,195,480,430
+"Cougar Turret Midi-Tower, Tempered Glass - black",,Cougar,ATX,ATX,160 mm,350 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,206,420,460
+Cougar Volant 2 Midi-Tower - red,,Cougar,ATX,ATX,165 mm,320 mm,1,6,0,red black,FALSE,TRUE,TRUE,FALSE,198,484,425
+Cougar Volant 2 Midi-Tower - black,,Cougar,ATX,ATX,165 mm,320 mm,1,6,0,black,FALSE,TRUE,TRUE,FALSE,198,484,425
+Cryorig Taku Mini-ITX/Monitorstand,,Cryorig,Mini-ITX,"SFX, SFX-L",48 mm,280 mm,2,1,0,silver,FALSE,FALSE,FALSE,FALSE,570,310,142
+Crystal Series 460X RGB Compact ATX Mid-Tower,$130.56 USD,Corsair,ATX,ATX,170 mm,370 mm,3,2,0,black,FALSE,FALSE,FALSE,FALSE,220,464,440
+Crystal Series 460X RGB Compact ATX Mid-Tower — White,$116.05 USD,Corsair,ATX,ATX,170 mm,370 mm,3,2,0,white,FALSE,FALSE,FALSE,FALSE,220,464,440
+Crystal Series 570X RGB ATX Mid-Tower,$130.56 USD,Corsair,ATX,ATX,170 mm,370 mm,2,2,0,black,FALSE,FALSE,FALSE,FALSE,234,512,480
+Crystal Series 570X RGB ATX Mid-Tower — Red,$165.75 USD,Corsair,ATX,ATX,170 mm,370 mm,2,2,0,red,FALSE,FALSE,FALSE,FALSE,234,512,480
+Crystal Series 570X RGB ATX Mid-Tower — White,$201.76 USD,Corsair,ATX,ATX,170 mm,370 mm,2,2,0,white,FALSE,FALSE,FALSE,FALSE,234,512,480
+DAN Cases A4-SFX V3 Mini-ITX Gaming - silver,,DAN Cases,Mini-ITX,"SFX, SFX-L, sonstige",48 mm,295 mm,3,0,0,silver,FALSE,FALSE,FALSE,FALSE,115,327,205
+DAN Cases A4-SFX V4.1 Mini-ITX Gaming - black,,DAN Cases,Mini-ITX,"SFX, SFX-L",48 mm,295 mm,3,0,0,black,FALSE,FALSE,FALSE,FALSE,115,327,205
+DAN Cases A4-SFX V4.1 Mini-ITX Gaming - silver,,DAN Cases,Mini-ITX,"SFX, SFX-L",48 mm,295 mm,3,0,0,silver,FALSE,FALSE,FALSE,FALSE,115,327,205
+EK Water Blocks Classic InWin 303EK Midi-Tower - black,,EK Water Blocks,E-ATX,ATX,160 mm,350 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,215,480,500
+EK Water Blocks Quantum InWin 909EK - Silver Limited Edition,,EK Water Blocks,E-ATX,ATX,175 mm,365 mm,0,0,0,silver,TRUE,TRUE,TRUE,FALSE,231,575,540
+Fractal Design ARC R2 Midi-Tower - black Window,,Fractal Design,ATX,ATX,180 mm,430 mm,10,8,0,black,TRUE,TRUE,TRUE,FALSE,230,515,460
+Fractal Design Core 1000 USB3.0 Micro-ATX - black,,Fractal Design,Micro-ATX,ATX,148 mm,350 mm,3,3,0,black,FALSE,TRUE,FALSE,FALSE,225,475,415
+Fractal Design Core 1100 Micro-ATX - black,$36.26 USD,Fractal Design,Micro-ATX,ATX,148 mm,350 mm,4,3,0,black,FALSE,TRUE,FALSE,FALSE,175,410,358
+Fractal Design Core 2300 Midi-Tower - black,,Fractal Design,ATX,ATX,163 mm,380 mm,5,3,0,black,FALSE,TRUE,TRUE,FALSE,233,517,451
+Fractal Design Core 2500 Midi-Tower - black,,Fractal Design,ATX,ATX,162 mm,380 mm,5,4,0,black,FALSE,TRUE,TRUE,FALSE,195,450,431
+Fractal Design Core 3300 Midi-Tower - black,,Fractal Design,ATX,ATX,185 mm,430 mm,5,3,0,black,FALSE,TRUE,TRUE,FALSE,223,517,451
+Fractal Design Core 500 Mini-ITX - black,$95.87 USD,Fractal Design,Mini-ITX,ATX,170 mm,310 mm,3,3,0,black,FALSE,TRUE,FALSE,FALSE,250,367,203
+"Fractal Design Define 7 Black & White Midi-Tower - isolated, black/white",$189.98 USD,Fractal Design,E-ATX,ATX,185 mm,491 mm,2,0,0,black-and-white,FALSE,TRUE,TRUE,FALSE,240,547,475
+"Fractal Design Define 7 Black & White TG Midi-Tower - Tempered Glass, isolated, black/white",$174.08 USD,Fractal Design,E-ATX,ATX,185 mm,467 mm,2,0,0,black-and-white,TRUE,TRUE,TRUE,TRUE,240,547,475
+"Fractal Design Define 7 Black Dark TG Midi-Tower - getöntes Tempered Glass, isolated, black",$145.79 USD,Fractal Design,E-ATX,ATX,185 mm,491 mm,2,0,0,black,TRUE,TRUE,TRUE,TRUE,240,547,475
+"Fractal Design Define 7 Black Midi-Tower - isolated, black",$184.82 USD,Fractal Design,E-ATX,ATX,185 mm,491 mm,2,0,0,black,FALSE,TRUE,TRUE,TRUE,240,547,475
+"Fractal Design Define 7 Black TG Midi-Tower - Tempered Glass, isolated, black",,Fractal Design,E-ATX,ATX,185 mm,491 mm,2,0,0,black,TRUE,TRUE,TRUE,TRUE,240,567,475
+"Fractal Design Define 7 Compact Black Midi-Tower - isolated, black",,Fractal Design,ATX,ATX,169 mm,360 mm,2,0,0,black,FALSE,TRUE,TRUE,TRUE,210,427,474
+"Fractal Design Define 7 Compact Black TG Dark - getöntes Tempered Glass, isolated, black",,Fractal Design,ATX,ATX,169 mm,360 mm,2,0,0,black,TRUE,TRUE,TRUE,TRUE,210,427,474
+"Fractal Design Define 7 Compact Black TG Midi-Tower - Tempered Glass, isolated, black",,Fractal Design,ATX,ATX,169 mm,360 mm,2,0,0,black,TRUE,TRUE,TRUE,TRUE,210,427,474
+"Fractal Design Define 7 Gray Midi-Tower - isolated, grey",$187.3 USD,Fractal Design,E-ATX,ATX,185 mm,491 mm,2,0,0,gray,FALSE,TRUE,TRUE,TRUE,240,547,475
+"Fractal Design Define 7 Gray TG Midi-Tower - Tempered Glass, isolated, grey",$198.7 USD,Fractal Design,E-ATX,ATX,185 mm,491 mm,2,0,0,gray,TRUE,TRUE,TRUE,TRUE,240,547,475
+"Fractal Design Define 7 White Midi-Tower - isolated, white",$181.34 USD,Fractal Design,E-ATX,ATX,185 mm,491 mm,2,0,0,white,FALSE,TRUE,TRUE,TRUE,240,547,475
+"Fractal Design Define 7 White TG Midi-Tower - Tempered Glass, isolated, white",$198.7 USD,Fractal Design,E-ATX,ATX,185 mm,491 mm,2,0,0,white,TRUE,TRUE,TRUE,TRUE,240,547,475
+Fractal Design Define C Midi-Tower - black,$93.56 USD,Fractal Design,ATX,ATX,170 mm,315 mm,5,2,0,black,FALSE,TRUE,TRUE,TRUE,210,399,440
+Fractal Design Define C Midi-Tower - black Window,,Fractal Design,ATX,ATX,170 mm,315 mm,5,2,0,black,TRUE,TRUE,TRUE,TRUE,210,399,440
+"Fractal Design Define C TG Midi-Tower, black, Tempered Glass",$94.29 USD,Fractal Design,ATX,ATX,172 mm,315 mm,5,2,0,black,TRUE,TRUE,TRUE,FALSE,217,413,453
+Fractal Design Define Mini C Micro-ATX - black,$117.76 USD,Fractal Design,Micro-ATX,ATX,172 mm,315 mm,3,2,0,black,FALSE,TRUE,TRUE,TRUE,212,399,399
+Fractal Design Define Mini C Micro-ATX - black Window,,Fractal Design,Micro-ATX,ATX,168 mm,315 mm,3,2,0,black,TRUE,TRUE,TRUE,TRUE,210,399,399
+Fractal Design Define Mini C Tempered Glass Micro-ATX - black,$83.41 USD,Fractal Design,Micro-ATX,ATX,172 mm,315 mm,3,2,0,black,TRUE,TRUE,TRUE,TRUE,212,399,399
+Fractal Design Define Nano S Mini-ITX - black Window,$76.16 USD,Fractal Design,Mini-ITX,ATX,160 mm,315 mm,4,2,0,black,TRUE,TRUE,TRUE,TRUE,203,400,330
+Fractal Design Define R5 Black Pearl Midi-Tower - black,$101.55 USD,Fractal Design,ATX,ATX,180 mm,310 mm,10,8,0,black,FALSE,TRUE,TRUE,TRUE,232,531,462
+Fractal Design Define R5 Black Pearl Midi-Tower - black Window,,Fractal Design,ATX,ATX,180 mm,310 mm,10,8,0,black,TRUE,TRUE,TRUE,TRUE,232,531,462
+Fractal Design Define R5 Blackout Edition Midi-Tower - black,,Fractal Design,ATX,ATX,180 mm,310 mm,10,8,0,black,FALSE,TRUE,TRUE,TRUE,232,531,462
+Fractal Design Define R5 Blackout Edition Midi-Tower - black Window,$140.41 USD,Fractal Design,ATX,ATX,180 mm,310 mm,10,8,0,black,TRUE,TRUE,TRUE,TRUE,232,531,462
+Fractal Design Define R5 Midi-Tower - titanium grey,,Fractal Design,ATX,ATX,180 mm,310 mm,8,8,0,"grey, titanium",FALSE,TRUE,TRUE,TRUE,232,531,462
+Fractal Design Define R5 Midi-Tower - titanium grey Window,,Fractal Design,ATX,ATX,180 mm,310 mm,10,8,0,"grey, titanium",TRUE,TRUE,TRUE,TRUE,232,531,462
+Fractal Design Define R5 Midi-Tower - white,,Fractal Design,ATX,ATX,180 mm,310 mm,10,8,0,white,FALSE,TRUE,TRUE,TRUE,232,531,462
+Fractal Design Define R5 Midi-Tower - white Window,,Fractal Design,ATX,ATX,180 mm,310 mm,10,8,0,white,TRUE,TRUE,TRUE,TRUE,232,531,462
+Fractal Design Define R6 Black Midi-Tower - black,$159.17 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,6,0,black,TRUE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 Blackout Midi-Tower - black,$136.36 USD,Fractal Design,E-ATX,ATX,185 mm,300 mm,10,8,0,black,FALSE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 Blackout Tempered Glass Midi-Tower - black Window,,Fractal Design,E-ATX,ATX,185 mm,300 mm,10,8,0,black,TRUE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 Grey Midi-Tower - grey,,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,6,0,gray,FALSE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 Grey Tempered Glass Midi-Tower - grey,,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,6,0,gray,TRUE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 Tempered Glass Midi-Tower - black,,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,6,0,titanium,TRUE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 USB-C Midi-Tower - grey,$168.05 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,10,8,0,"grey, gunmetal",FALSE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 USB-C Midi-Tower - black,$169.09 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,black,FALSE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 USB-C Midi-Tower - black/white,$145.07 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,black,FALSE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 USB-C Midi-Tower - Tempered Glass - black/white,$163.2 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,black,TRUE,TRUE,TRUE,TRUE,233,543,465
+"Fractal Design Define R6 USB-C Midi-Tower - Tempered Glass, grey",,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,"grey, gunmetal",TRUE,FALSE,TRUE,TRUE,233,543,465
+"Fractal Design Define R6 USB-C Midi-Tower - Tempered Glass, black",$163.2 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,black,TRUE,TRUE,TRUE,TRUE,233,543,465
+"Fractal Design Define R6 USB-C Midi-Tower - Tempered Glass, white",$197.13 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,white,TRUE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 USB-C Midi-Tower - white,$144.3 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,10,8,0,white,FALSE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 White Midi-Tower - white,,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,6,0,white,FALSE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define R6 White Tempered Glass Midi-Tower - white,$179.88 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,6,0,white,TRUE,TRUE,TRUE,TRUE,233,543,465
+Fractal Design Define S Midi-Tower - black,,Fractal Design,ATX,ATX,180 mm,425 mm,4,2,0,black,FALSE,TRUE,TRUE,TRUE,233,520,451
+Fractal Design Define S Midi-Tower - black Window,,Fractal Design,ATX,ATX,180 mm,425 mm,4,2,0,black,TRUE,TRUE,TRUE,TRUE,233,520,451
+"Fractal Design Define S2 Blackout Midi-Tower, Tempered Glass, isolated - black",$141.44 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,black,FALSE,TRUE,TRUE,TRUE,233,543,465
+"Fractal Design Define S2 Midi-Tower, Tempered Glass - white",$159.58 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,white,TRUE,TRUE,TRUE,TRUE,233,543,465
+"Fractal Design Define S2 Midi-Tower, Tempered Glass, isolated - grey",$134.19 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,"gunmetal, black",TRUE,TRUE,TRUE,TRUE,233,543,465
+"Fractal Design Define S2 Midi-Tower, Tempered Glass, isolated - black/white",$159.58 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,black,TRUE,TRUE,TRUE,TRUE,233,543,465
+"Fractal Design Define S2 Vision Blackout Midi-Tower, Tempered Glass - black",$202.37 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,"black, transparent",TRUE,TRUE,TRUE,FALSE,233,543,465
+"Fractal Design Define S2 Vision RGB Midi-Tower, Tempered Glass - black",$217.61 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,"black, transparent",TRUE,TRUE,TRUE,FALSE,233,543,465
+Fractal Design Define XL R2 Big-Tower - black,,Fractal Design,E-ATX,ATX,170 mm,480 mm,0,0,0,black,FALSE,TRUE,TRUE,TRUE,232,560,559
+Fractal Design Era Mini-ITX - carbon,,Fractal Design,Mini-ITX,"ATX, SFX, SFX-L",1209170 mm,295 mm,4,2,0,gray,FALSE,TRUE,TRUE,FALSE,166,325,310
+Fractal Design Era Mini-ITX - cobalt,,Fractal Design,Mini-ITX,"ATX, SFX, SFX-L",1209170 mm,295 mm,4,2,0,blue,FALSE,TRUE,TRUE,FALSE,166,325,310
+Fractal Design Era Mini-ITX - gold,,Fractal Design,Mini-ITX,"ATX, SFX, SFX-L",1209170 mm,295 mm,4,2,0,gold,FALSE,FALSE,TRUE,FALSE,166,325,310
+Fractal Design Era Mini-ITX - grey,,Fractal Design,Mini-ITX,"ATX, SFX, SFX-L",1209170 mm,295 mm,4,2,0,gray,FALSE,TRUE,TRUE,FALSE,166,325,310
+Fractal Design Era Mini-ITX - silver,,Fractal Design,Mini-ITX,"ATX, SFX, SFX-L",1209170 mm,295 mm,4,2,0,silver,FALSE,TRUE,TRUE,FALSE,166,325,310
+Fractal Design Focus G Midi-Tower - blue Window,$47.87 USD,Fractal Design,ATX,ATX,165 mm,380 mm,1,2,0,blue,TRUE,TRUE,TRUE,FALSE,205,464,444
+Fractal Design Focus G Midi-Tower - grey Window,$54.4 USD,Fractal Design,ATX,ATX,165 mm,380 mm,1,2,0,gray,TRUE,TRUE,TRUE,FALSE,205,464,444
+Fractal Design Focus G Midi-Tower - red Window,$64.54 USD,Fractal Design,ATX,ATX,165 mm,380 mm,3,2,0,red,TRUE,TRUE,TRUE,FALSE,205,464,444
+Fractal Design Focus G Midi-Tower - white Window,$51.49 USD,Fractal Design,ATX,ATX,165 mm,380 mm,3,2,0,white,TRUE,TRUE,TRUE,FALSE,205,464,444
+Fractal Design Focus G Mini Micro-ATX - black Window,$54.4 USD,Fractal Design,Micro-ATX,ATX,165 mm,380 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,205,464,383
+Fractal Design Meshify S2 Midi-Tower - black,$170.59 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,black,FALSE,TRUE,TRUE,FALSE,233,538,465
+Fractal Design Meshify S2 TG Dark Tint Midi-Tower - black,,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,233,538,465
+Fractal Design Meshify S2 TG Midi-Tower - black,,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,233,538,465
+Fractal Design Meshify S2 TG Midi-Tower - white,$152.32 USD,Fractal Design,E-ATX,ATX,185 mm,440 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,233,538,465
+Fractal Design Node 304 Mini-ITX - black,$87.04 USD,Fractal Design,Mini-ITX,ATX,165 mm,310 mm,6,6,0,black,FALSE,TRUE,FALSE,FALSE,250,374,210
+Fractal Design Node 304 Mini-ITX - white,,Fractal Design,Mini-ITX,ATX,165 mm,310 mm,6,3,0,black-and-white,FALSE,TRUE,FALSE,FALSE,250,374,210
+Fractal Design Node 804 Micro-ATX - black Window,$125.91 USD,Fractal Design,Micro-ATX,ATX,160 mm,320 mm,4,10,0,black,TRUE,TRUE,TRUE,FALSE,344,389,307
+"Fractal Design Torrent Black TG Dark Tint, black",,Fractal Design,E-ATX,ATX,188 mm,461 mm,4,2,0,grey black,TRUE,TRUE,TRUE,FALSE,242,544,530
+"Fractal Design Torrent Black TG Light Tint Midi-Tower, Tempered Glass - black",,Fractal Design,E-ATX,ATX,188 mm,461 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,242,544,530
+Fractal Design Torrent Black TG Light Tint RGB Midi-Tower - black,,Fractal Design,E-ATX,ATX,188 mm,461 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,242,544,530
+Fractal Design Torrent Compact TG Light Tint RGB Midi Tower - black,,Fractal Design,E-ATX,ATX,174 mm,330 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,222,450,467
+"Fractal Design Torrent Gray TG Light Tint, grey",,Fractal Design,E-ATX,ATX,188 mm,461 mm,4,2,0,grey black,TRUE,TRUE,TRUE,FALSE,242,544,530
+Fractal Design Torrent Nano TG Light Tint RGB Midi Tower - black,,Fractal Design,Mini-ITX,ATX,165 mm,335 mm,2,0,0,black silver,TRUE,TRUE,TRUE,FALSE,222,417,374
+"Fractal Design Torrent Solid Midi-Tower, black",,Fractal Design,E-ATX,ATX,188 mm,461 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,242,544,530
+"Fractal Design Vector RS Dark Tempered Glass, Midi-Tower - black",,Fractal Design,E-ATX,ATX,185 mm,465 mm,4,0,0,black,TRUE,TRUE,TRUE,TRUE,233,552,468
+"Fractal Design Vector RS, Midi-Tower, Tempered Glass - black",$212.27 USD,Fractal Design,E-ATX,ATX,185 mm,465 mm,4,0,0,black,TRUE,TRUE,TRUE,TRUE,233,552,498
+Graphite Series 380T Yellow Portable Mini ITX,$56.48 USD,Corsair,Mini-ITX,ATX,150 mm,290 mm,2,0,2,yellow,FALSE,FALSE,FALSE,FALSE,292,356,393
+Graphite Series 780T White Full-Tower,$243.15 USD,Corsair,E-ATX,ATX,200 mm,355 mm,3,0,6,white,FALSE,FALSE,FALSE,FALSE,288,602,637
+HGC Osmi 3.1 Aluminium Mini-ITX - black,,HGC,Mini-ITX,"SFX, SFX-L",70 mm,170 mm,2,0,0,black,FALSE,FALSE,FALSE,FALSE,180,180,265
+HGC Osmi 3.1 Aluminium Mini-ITX - white,,HGC,Mini-ITX,"SFX, SFX-L",70 mm,170 mm,2,0,0,white,FALSE,FALSE,FALSE,FALSE,180,180,265
+"Hyte Y60 Midi Tower, Tempered Glass - black",,Hyte,E-ATX,ATX,160 mm,375 mm,4,2,0,black,TRUE,TRUE,FALSE,FALSE,285,456,462
+"Hyte Y60 Midi Tower, Tempered Glass - black/red",,Hyte,E-ATX,ATX,160 mm,375 mm,4,2,0,black red,TRUE,TRUE,FALSE,FALSE,285,456,462
+"Hyte Y60 Midi Tower, Tempered Glass - black/white",,Hyte,E-ATX,ATX,160 mm,375 mm,4,2,0,black-and-white,TRUE,TRUE,FALSE,FALSE,285,456,462
+"IN WIN 101 TUF Midi-Tower, Tempered Glass - black",,IN WIN,ATX,ATX,160 mm,421 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,220,480,445
+IN WIN 303 Aurora Edition Midi-Tower - black,,IN WIN,E-ATX,ATX,160 mm,350 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,215,480,500
+IN WIN 303 Aurora Edition Midi-Tower - white,,IN WIN,E-ATX,ATX,160 mm,350 mm,3,2,0,white,TRUE,TRUE,TRUE,FALSE,215,480,500
+IN WIN 305 Midi-Tower - white,$128.96 USD,IN WIN,ATX,ATX,160 mm,350 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,248,485,500
+IN WIN 509 Big-Tower - black/grey,,IN WIN,E-ATX,ATX,188 mm,370 mm,9,5,0,black,TRUE,TRUE,TRUE,FALSE,235,578,527
+IN WIN 509 Big-Tower - black/red,,IN WIN,E-ATX,ATX,188 mm,370 mm,9,5,0,black,TRUE,TRUE,TRUE,FALSE,235,578,527
+IN WIN 8.O.S.S. Cube - black,,IN WIN,Micro-ATX,ATX,220 mm,420 mm,6,4,0,black,TRUE,FALSE,TRUE,FALSE,358,485,385
+IN WIN 805 Design Midi-Tower - gold,,IN WIN,ATX,ATX,156 mm,320 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,205,455,476
+IN WIN 901 Design Mini-ITX Tower - black,$197.59 USD,IN WIN,Mini-ITX,ATX,130 mm,300 mm,2,2,0,black,TRUE,TRUE,FALSE,FALSE,173,400,350
+IN WIN 901 Design Mini-ITX Tower - silver,,IN WIN,Mini-ITX,ATX,130 mm,300 mm,4,2,0,black silver,TRUE,TRUE,TRUE,FALSE,173,400,350
+IN WIN 904 Plus Design Midi-Tower - silver,,IN WIN,ATX,ATX,137 mm,360 mm,5,3,0,silver,TRUE,FALSE,TRUE,FALSE,192,490,490
+IN WIN D-Frame 2.0 Design Big-Tower - black/gold,,IN WIN,E-ATX,ATX,165 mm,415 mm,4,4,0,"gold, black",TRUE,FALSE,FALSE,FALSE,264,726,548
+"IN WIN D-Frame 2.0 Design Big-Tower, NVIDIA Edition - black/grün",,IN WIN,E-ATX,ATX,165 mm,415 mm,4,4,0,"green, black",TRUE,FALSE,FALSE,FALSE,264,726,548
+IN WIN D-Frame Mini Mini-ITX - red,,IN WIN,Mini-ITX,ATX,165 mm,340 mm,5,3,0,red,TRUE,FALSE,FALSE,FALSE,230,501,405
+InWin 101 Midi-Tower - black,$57.29 USD,IN WIN,Micro-ATX,ATX,160 mm,421 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,220,480,445
+InWin 101 Midi-Tower - white,$57.29 USD,IN WIN,Micro-ATX,ATX,160 mm,421 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,220,480,445
+InWin 101C Midi-Tower - black,,IN WIN,Micro-ATX,ATX,160 mm,421 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,220,480,445
+InWin 101C Midi-Tower - white,,IN WIN,Micro-ATX,ATX,160 mm,421 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,220,480,445
+InWin 103 Midi-Tower - black,,IN WIN,ATX,ATX,160 mm,421 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,227,480,446
+InWin 103 Midi-Tower - white,,IN WIN,ATX,ATX,160 mm,421 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,227,480,446
+InWin 301 Micro-ATX - black,$72.53 USD,IN WIN,Micro-ATX,ATX,158 mm,330 mm,3,1,0,black,TRUE,TRUE,TRUE,FALSE,208,370,365
+InWin 301 Micro-ATX - white,$72.53 USD,IN WIN,Micro-ATX,ATX,158 mm,330 mm,3,1,0,white,TRUE,TRUE,TRUE,FALSE,208,370,365
+"InWin 301 Micro-ATX, 450 Watt Netzteil - black",,IN WIN,Micro-ATX,ATX,158 mm,330 mm,3,1,0,black,TRUE,TRUE,TRUE,FALSE,208,370,365
+InWin 301C Micro-ATX - black,$100.11 USD,IN WIN,Micro-ATX,ATX,158 mm,330 mm,2,1,0,black,TRUE,TRUE,TRUE,FALSE,208,370,365
+InWin 301C Micro-ATX - white,$97.06 USD,IN WIN,Micro-ATX,ATX,158 mm,330 mm,2,1,0,white,TRUE,TRUE,TRUE,FALSE,208,370,365
+InWin 303 Midi-Tower - black,,IN WIN,E-ATX,ATX,160 mm,350 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,215,480,500
+InWin 303 Midi-Tower - white,$133.45 USD,IN WIN,E-ATX,ATX,160 mm,350 mm,3,2,0,white,TRUE,TRUE,TRUE,FALSE,215,480,500
+InWin 303 Midi-Tower MSI Dragon Edition - white,,IN WIN,E-ATX,ATX,160 mm,350 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,215,480,500
+InWin 303C Midi-Tower - black,,IN WIN,E-ATX,ATX,160 mm,350 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,215,480,500
+InWin 303C Midi-Tower - white,,IN WIN,E-ATX,ATX,160 mm,350 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,215,480,500
+InWin 303i Asus Edition Midi-Tower,,IN WIN,ATX,ATX,160 mm,350 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,215,480,483
+InWin 305 Midi-Tower - black,,IN WIN,ATX,ATX,160 mm,350 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,248,485,500
+"InWin 307 Midi-Tower, RGB, Tempered Glass - white",,IN WIN,ATX,ATX,160 mm,350 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,237,501,537
+"InWin 309 Midi-Tower, RGB, Tempered Glass - black",$217.61 USD,IN WIN,ATX,ATX,160 mm,350 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,238,553,500
+InWin 503 Midi-Tower - black/red,,IN WIN,ATX,ATX,160 mm,408 mm,2,4,0,red black,TRUE,TRUE,TRUE,FALSE,210,472.5,440
+InWin 805 Design Midi-Tower - red,,IN WIN,ATX,ATX,156 mm,320 mm,4,2,0,red black,TRUE,TRUE,TRUE,FALSE,205,455,476
+InWin 805i Design Midi-Tower - black,,IN WIN,ATX,ATX,156 mm,320 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,205,472.5,476
+InWin 904 Plus Design Midi-Tower - black,,IN WIN,ATX,ATX,137 mm,360 mm,2,3,0,black,TRUE,TRUE,FALSE,FALSE,192,490,490
+"InWin 905 Midi-Tower, OLED, Tempered Glass - silver",,InWin,E-ATX,ATX,160 mm,330 mm,"2, 4",1,0,silver,TRUE,TRUE,TRUE,FALSE,215,508,502
+"InWin 905 Midi-Tower, RGB, Tempered Glass - silver",,IN WIN,E-ATX,ATX,160 mm,330 mm,2,1,0,silver,TRUE,TRUE,TRUE,FALSE,215,508,502
+InWin 909 Design Big-Tower - black,,IN WIN,E-ATX,ATX,175 mm,320 mm,10,4,0,black,TRUE,TRUE,TRUE,FALSE,231,575,540
+InWin 909 Design Big-Tower - silver,,IN WIN,E-ATX,ATX,175 mm,320 mm,10,4,0,black,TRUE,TRUE,TRUE,FALSE,231,575,540
+"InWin 915 Big Tower, Tempered Glass - black",,IN WIN,E-ATX,ATX,164 mm,410 mm,9,0,0,black,TRUE,TRUE,TRUE,FALSE,230,645,570
+"InWin 925 Big-Tower, RGB, Tempered Glass - black",,IN WIN,E-ATX,ATX,200 mm,420 mm,4,3,0,black,TRUE,FALSE,TRUE,FALSE,280,508,570
+"InWin 925 Big-Tower, RGB, Tempered Glass - black",,InWin,E-ATX,ATX,200 mm,420 mm,4,3,0,black,TRUE,FALSE,TRUE,FALSE,280,508,570
+"InWin A1 Mini-ITX, 600 Watt Netzteil - black",,IN WIN,Mini-ITX,ATX,160 mm,300 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,216,355.5,273
+"InWin A1 Mini-ITX, 600 Watt Netzteil - white",,IN WIN,Mini-ITX,ATX,160 mm,300 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,216,355.5,273
+"InWin A1 Plus Mini-ITX, inkl. 650 Watt - pink",,InWin,Mini-ITX,ATX,160 mm,320 mm,2,0,0,pink,TRUE,TRUE,TRUE,FALSE,224,357,273
+"InWin A1 Plus Mini-ITX, inkl. 650 Watt - black",$144.34 USD,IN WIN,Mini-ITX,ATX,160 mm,320 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,224,357,273
+"InWin A1 Plus Mini-ITX, inkl. 650 Watt - white",$166.83 USD,IN WIN,Mini-ITX,ATX,160 mm,320 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,224,357,273
+InWin Alice Midi-Tower - white/grey,,InWin,E-ATX,ATX,195 mm,300 mm,3,1,0,"grey, black, white",TRUE,FALSE,TRUE,FALSE,282,433,584
+"InWin D-Frame 2.0 Design Big-Tower, Intel Edition - white/blue",,IN WIN,E-ATX,ATX,165 mm,415 mm,4,4,0,blue white,TRUE,FALSE,FALSE,FALSE,264,726,548
+InWin D-Frame Mini Mini-ITX - orange,,IN WIN,Mini-ITX,ATX,165 mm,340 mm,5,3,0,orange,TRUE,FALSE,FALSE,FALSE,230,501,405
+InWin Z-Tower,,IN WIN,E-ATX,ATX,170 mm,340 mm,0,0,0,silver,FALSE,FALSE,TRUE,FALSE,400,720,740
+"Jonsbo D40 ATX, Tempered Glass - black",,Jonsbo,ATX,ATX,168 mm,355 mm,4,1,0,black,TRUE,TRUE,FALSE,FALSE,204,401,386
+"Jonsbo D40 ATX, Tempered Glass - silver",,Jonsbo,ATX,ATX,168 mm,355 mm,4,1,0,,TRUE,TRUE,FALSE,FALSE,204,401,386
+"Jonsbo D40 ATX, Tempered Glass - white",,Jonsbo,ATX,ATX,168 mm,355 mm,4,1,0,white,TRUE,TRUE,FALSE,FALSE,204,401,386
+"Jonsbo MOD3 Big-Tower Showcase, Tempered Glass - grey",,Jonsbo,E-ATX,ATX,170 mm,400 mm,2,0,0,gray,TRUE,FALSE,TRUE,FALSE,232,647,620
+"Jonsbo MOD3 Big-Tower Showcase, Tempered Glass - white",,Jonsbo,E-ATX,ATX,170 mm,400 mm,2,0,0,white,TRUE,FALSE,TRUE,FALSE,232,647,620
+Jonsbo QT01 Midi-Tower - black,,Jonsbo,ATX,ATX,157 mm,320 mm,5,4,0,black,FALSE,TRUE,TRUE,TRUE,195,500,445
+Jonsbo RM2 Midi-Tower - black,,Jonsbo,ATX,ATX,95 mm,290 mm,3,1,0,black,FALSE,TRUE,TRUE,FALSE,209,302,341
+Jonsbo RM2 Midi-Tower - silver,,Jonsbo,ATX,ATX,95 mm,290 mm,3,1,0,silver,FALSE,TRUE,TRUE,FALSE,209,302,341
+"Jonsbo RM3 Micro-ATX, Tempered Glass - black",,Jonsbo,Micro-ATX,ATX,170 mm,310 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,215,336,385
+"Jonsbo RM3 Micro-ATX, Tempered Glass - silver",,Jonsbo,Micro-ATX,ATX,170 mm,310 mm,3,0,0,silver,TRUE,TRUE,TRUE,FALSE,215,336,385
+"Jonsbo TR03-A Showcase, Tempered Glass - black",,Jonsbo,ATX,ATX,175 mm,460 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,238,673,595
+"Jonsbo TR03-A Showcase, Tempered Glass - silver",,Jonsbo,ATX,ATX,175 mm,460 mm,2,0,0,silver,TRUE,FALSE,TRUE,FALSE,238,673,595
+"Jonsbo TR03-G Showcase, Tempered Glass - black",,Jonsbo,ATX,ATX,175 mm,460 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,238,673,595
+"Jonsbo TR03-G Showcase, Tempered Glass - silver",,Jonsbo,ATX,ATX,175 mm,460 mm,2,0,0,silver,TRUE,FALSE,TRUE,FALSE,238,673,595
+Jonsbo V10 Mini-ITX - black,,Jonsbo,Mini-ITX,"ATX, SFX-L, SFX",75 mm,330 mm,2,0,0,black,FALSE,TRUE,TRUE,FALSE,174,344,304
+Jonsbo V10 Mini-ITX - silver,,Jonsbo,Mini-ITX,"ATX, SFX-L, SFX",75 mm,330 mm,2,0,0,silver,FALSE,TRUE,TRUE,FALSE,174,344,304
+"Jonsbo V10 Mini-ITX, Tempered Glass - black",,Jonsbo,Mini-ITX,"ATX, SFX-L, SFX",75 mm,330 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,174,344,304
+"Jonsbo V10 Mini-ITX, Tempered Glass - silver",,Jonsbo,Mini-ITX,"ATX, SFX-L, SFX",75 mm,330 mm,2,0,0,silver,TRUE,TRUE,TRUE,FALSE,174,344,304
+Jonsbo VR4 ATX - black,,Jonsbo,ATX,"ATX, SFX-L, SFX",167 mm,345 mm,2,2,0,black,FALSE,TRUE,FALSE,FALSE,216,398,440
+Jonsbo VR4 ATX - white,,Jonsbo,ATX,"ATX, SFX-L, SFX",167 mm,345 mm,2,2,0,white,FALSE,TRUE,FALSE,FALSE,216,398,440
+Jonsplus i100 Pro Mini-ITX - black,,Jonsplus,Mini-ITX,"ATX, SFX",77 mm,373 mm,2,0,0,black,FALSE,TRUE,TRUE,FALSE,194,435,307
+Jonsplus i100 Pro Mini-ITX - silver,,Jonsplus,Mini-ITX,"ATX, SFX",77 mm,373 mm,2,0,0,silver,FALSE,TRUE,TRUE,FALSE,194,435,307
+"Jonsplus i100 Pro Mini-ITX, Tempered Glass - black",,Jonsplus,Mini-ITX,"ATX, SFX",77 mm,373 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,194,435,307
+"Jonsplus i100 Pro Mini-ITX, Tempered Glass - silver",,Jonsplus,Mini-ITX,"ATX, SFX",77 mm,373 mm,2,0,0,silver,TRUE,TRUE,TRUE,FALSE,194,435,307
+"Jonsplus i400 ATX, Tempered Glass - black",,Jonsplus,ATX,ATX,168 mm,340 mm,1,6,0,black,TRUE,TRUE,FALSE,FALSE,231,502,480
+"Jonsplus i400 ATX, Tempered Glass - silver",,Jonsplus,ATX,ATX,168 mm,340 mm,1,6,0,,TRUE,TRUE,FALSE,FALSE,231,502,480
+Kolink Aviator M Micro-ATX - black Window,,Kolink,Micro-ATX,ATX,170 mm,320 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,200,380,435
+Kolink Aviator M RGB Micro-ATX - black Window,,Kolink,Micro-ATX,ATX,170 mm,320 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,200,380,435
+Kolink Aviator Midi-Tower - mattschwarz Window,,Kolink,ATX,ATX,170 mm,370 mm,1,3,0,black,TRUE,TRUE,TRUE,FALSE,211,400,480
+Kolink Aviator Midi-Tower - black Window,,Kolink,ATX,ATX,170 mm,370 mm,1,3,0,black,TRUE,TRUE,TRUE,FALSE,211,400,480
+Kolink Aviator Midi-Tower - black/blue Window,,Kolink,ATX,ATX,170 mm,370 mm,1,3,0,blue,TRUE,TRUE,TRUE,FALSE,211,400,480
+Kolink Aviator Midi-Tower - black/grün Window,,Kolink,ATX,ATX,170 mm,370 mm,1,3,0,black,TRUE,TRUE,TRUE,FALSE,211,400,480
+Kolink Aviator Midi-Tower - black/red Window,,Kolink,ATX,ATX,170 mm,370 mm,1,3,0,red,TRUE,TRUE,TRUE,FALSE,211,400,480
+Kolink Aviator Midi-Tower - white Window,,Kolink,ATX,ATX,170 mm,370 mm,1,3,0,white,TRUE,TRUE,TRUE,FALSE,211,400,480
+Kolink Aviator V Midi-Tower - black Window,,Kolink,ATX,ATX,170 mm,370 mm,1,3,0,black,TRUE,TRUE,FALSE,FALSE,211,400,480
+"Kolink Balance ARGB Midi-Tower, Tempered Glass - black",,Kolink,E-ATX,ATX,160 mm,370 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,425,470,210
+"Kolink Bastion RGB Midi-Tower, Tempered Glass - black",,Kolink,E-ATX,ATX,160 mm,370 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,397,482,200
+"Kolink Bastion RGB Midi-Tower, Tempered Glass - white",,Kolink,E-ATX,ATX,160 mm,370 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,200,397,482
+Kolink Big Chungus ARGB Aluminium Showcase - black/red,,Kolink,E-ATX,ATX,175 mm,335 mm,2,0,0,red black,TRUE,FALSE,TRUE,FALSE,336,651,668
+"Kolink Castle Midi-Tower, Tempered Glass - black",,Kolink,ATX,ATX,160 mm,350 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,201,435,405
+Kolink Citadel Glass SE ARGB Micro-ATX - black,,Kolink,Micro-ATX,ATX,190 mm,345 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,230,403,395
+Kolink Citadel Mesh ATX ARGB Midi-Tower - black,,Kolink,E-ATX,ATX,180 mm,385 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,231,460,485
+Kolink Citadel Mesh RGB Micro-ATX - white,,Kolink,Micro-ATX,ATX,190 mm,345 mm,2,0,0,black-and-white,TRUE,TRUE,FALSE,FALSE,230,400,375
+"Kolink Citadel Micro-ATX, Tempered Glass - black",,Kolink,Micro-ATX,ATX,160 mm,350 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,202,395,410
+"Kolink Ethereal RGB Midi-Tower, Tempered Glass - black",,Kolink,E-ATX,ATX,160 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,435,455,205
+"Kolink Horizon RGB Midi-Tower, Tempered Glass - black",,Kolink,ATX,ATX,160 mm,345 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,202,454,468
+"Kolink Inspire K1 RGB Midi-Tower, Tempered Glass - black",,Kolink,ATX,ATX,150 mm,350 mm,2,3,0,black,TRUE,FALSE,TRUE,FALSE,175,410,350
+"Kolink Inspire K10 ARGB Midi-Tower, Tempered Glass - black",,Kolink,ATX,ATX,165 mm,315 mm,2,0,0,black,TRUE,FALSE,FALSE,FALSE,190,378,447
+"Kolink Inspire K11 ARGB Midi-Tower, Tempered Glass - black",,Kolink,ATX,ATX,165 mm,315 mm,2,0,0,black,TRUE,FALSE,FALSE,FALSE,190,378,447
+"Kolink Inspire K2 A-RGB Micro-ATX, Tempered Glass - black",,Kolink,Micro-ATX,ATX,150 mm,320 mm,1,0,0,black,TRUE,FALSE,FALSE,FALSE,188,0,393
+"Kolink Inspire K2 RGB Micro-ATX, Tempered Glass - black",,Kolink,Micro-ATX,ATX,150 mm,320 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,382,393,188
+"Kolink Inspire K3 RGB Micro-ATX, Tempered Glass - black",,Kolink,Micro-ATX,ATX,150 mm,320 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,382,393,188
+"Kolink Inspire K4 RGB Midi-Tower, Tempered Glass - black",,Kolink,ATX,ATX,160 mm,350 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,205,410,440
+Kolink Inspire K5 ARGB Midi-Tower - black Window,,Kolink,ATX,ATX,160 mm,310 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,205,410,440
+"Kolink Inspire K5 RGB Midi-Tower, Tempered Glass - black",,Kolink,ATX,ATX,160 mm,310 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,205,410,440
+Kolink Inspire K6 RGB Micro-ATX - black,,Kolink,Micro-ATX,ATX,162 mm,350 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,410,395,202
+Kolink Inspire K7 ARGB Midi-Tower - black,,Kolink,ATX,ATX,160 mm,335 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,190,400,440
+Kolink Inspire K8 ARGB Midi-Tower - black,,Kolink,ATX,ATX,155 mm,300 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,200,362,426
+Kolink Inspire K9 ARGB Midi-Tower - black,,Kolink,ATX,ATX,155 mm,300 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,200,362,426
+Kolink K6T RGB Micro-ATX - black Window,,Kolink,Micro-ATX,ATX,155 mm,270 mm,1,1,0,black,TRUE,TRUE,FALSE,FALSE,190,453,400
+Kolink KLA-002 Midi-Tower - black,,Kolink,ATX,ATX,150 mm,350 mm,2,3,0,black,FALSE,FALSE,TRUE,FALSE,175,410,350
+Kolink KLA-003 Midi-Tower - black,,Kolink,ATX,ATX,160 mm,335 mm,2,0,0,black,FALSE,FALSE,TRUE,FALSE,175,365,410
+"Kolink Levante Midi-Tower, Tempered Glass - black Window",,Kolink,E-ATX,ATX,160 mm,380 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,206.5,475,440
+Kolink Levante V2 ARGB Black Midi-Tower,,Kolink,E-ATX,ATX,160 mm,380 mm,5,3,0,black,TRUE,TRUE,TRUE,FALSE,435,205,455
+Kolink Luminosity Midi-Tower - black Window,,Kolink,ATX,ATX,155 mm,390 mm,2,2,0,black,TRUE,FALSE,TRUE,FALSE,183,400,435
+Kolink Luminosity RGB Midi-Tower - black Window,,Kolink,ATX,ATX,155 mm,390 mm,2,2,0,black,TRUE,FALSE,TRUE,FALSE,183,400,435
+"Kolink Nimbus RGB Midi-Tower, Tempered Glass - black",,Kolink,ATX,ATX,160 mm,325 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,210,440,370
+Kolink Observatory Lite ARGB Midi Tower - mattweiß,,Kolink,ATX,ATX,160 mm,335 mm,2,0,0,white,FALSE,TRUE,TRUE,FALSE,190,400,440
+Kolink Observatory Lite Mesh ARGB Midi Tower - mattweiß,,Kolink,ATX,ATX,160 mm,335 mm,2,0,0,white,FALSE,TRUE,TRUE,FALSE,190,400,440
+Kolink Observatory Lite Mesh RGB Midi-Tower - black,,Kolink,ATX,ATX,160 mm,335 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,190,400,440
+Kolink Observatory Lite RGB Midi-Tower - black,,Kolink,ATX,ATX,160 mm,335 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,190,400,440
+"Kolink Observatory RGB Midi-Tower, Tempered Glass - black Window",,Kolink,E-ATX,ATX,160 mm,380 mm,2,2,0,"black, transparent",TRUE,TRUE,TRUE,FALSE,210,435,453
+"Kolink Observatory RGB Midi-Tower, Tempered Glass - white Window",,Kolink,E-ATX,ATX,160 mm,380 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,210,435,453
+"Kolink Observatory Y AMD SE, ARGB Midi-Tower - black",,Kolink,E-ATX,ATX,175 mm,380 mm,5,2,0,black,TRUE,TRUE,FALSE,FALSE,231,471,488
+Kolink Observatory Y ARGB Midi-Tower - black,,Kolink,E-ATX,ATX,175 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,231,471,488
+Kolink Observatory Y Mesh ARGB Midi-Tower - black,,Kolink,E-ATX,ATX,175 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,231,471,488
+Kolink Observatory Z ARGB Midi-Tower - black,,Kolink,E-ATX,ATX,180 mm,380 mm,5,4,0,black,TRUE,TRUE,TRUE,FALSE,245,465,495
+Kolink Observatory Z Mesh ARGB Midi-Tower - black,,Kolink,E-ATX,ATX,160 mm,380 mm,5,3,0,black,TRUE,TRUE,TRUE,FALSE,245,465,495
+"Kolink Outline RGB Midi-Tower, Tempered Glass - black",,Kolink,E-ATX,ATX,162 mm,360 mm,0,0,0,black,TRUE,TRUE,TRUE,FALSE,415,440,210
+"Kolink Phalanx RGB Midi-Tower, Tempered Glass - black",,Kolink,E-ATX,ATX,160 mm,370 mm,1,0,0,black,TRUE,TRUE,TRUE,FALSE,210,445,510
+"Kolink Phalanx V2 ARGB Midi-Tower, Tempered Glass - black",,Kolink,E-ATX,ATX,160 mm,370 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,210,445,510
+Kolink Pitch Midi-Tower - black Window,,Kolink,ATX,ATX,174 mm,360 mm,7,7,0,black,TRUE,TRUE,TRUE,FALSE,190,445,435
+Kolink Punisher Midi-Tower - black Window,,Kolink,ATX,ATX,170 mm,390 mm,2,2,0,black,TRUE,FALSE,TRUE,FALSE,263,400,539
+Kolink Punisher Midi-Tower - white Window,,Kolink,ATX,ATX,170 mm,390 mm,2,2,0,white,TRUE,FALSE,TRUE,FALSE,263,400,539
+Kolink Punisher RGB Midi-Tower - black Window,,Kolink,ATX,ATX,170 mm,390 mm,2,2,0,black,TRUE,FALSE,TRUE,FALSE,263,400,539
+"Kolink Quantum RGB Midi-Tower, Tempered Glass - black",,Kolink,E-ATX,ATX,155 mm,340 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,191,467,443
+"Kolink Refine RGB Midi-Tower, Tempered Glass - black",,Kolink,E-ATX,ATX,160 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,435,455,205
+Kolink Refractor Midi-Tower - black Window,,Kolink,ATX,ATX,174 mm,360 mm,7,7,0,black,TRUE,TRUE,TRUE,FALSE,190,445,475
+Kolink Refractor RGB Midi-Tower - black Window,,Kolink,ATX,ATX,174 mm,360 mm,7,7,0,black,TRUE,TRUE,TRUE,FALSE,190,445,475
+Kolink Rocket Mini-ITX Gaming - black,,Kolink,Mini-ITX,"SFX, SFX-L",54 mm,310 mm,2,0,0,titanium,FALSE,FALSE,FALSE,FALSE,125,328,235
+Kolink Sanctuary Micro-ATX Cube - black Window,,Kolink,Micro-ATX,ATX,195 mm,275 mm,4,2,0,black,TRUE,FALSE,FALSE,FALSE,265,330,345
+Kolink Satellite Plus Mini-ITX- / Micro-ATX - black,,Kolink,Micro-ATX,ATX,165 mm,280 mm,4,3,0,black,FALSE,FALSE,FALSE,FALSE,260,280,190
+Kolink Stronghold Barricade Midi-Tower - Gunmetal Grey,,Kolink,E-ATX,ATX,165 mm,330 mm,2,0,0,"gunmetal grey, black",TRUE,FALSE,TRUE,FALSE,216,370,470
+"Kolink Stronghold Midi-Tower, Tempered Glass - black",,Kolink,E-ATX,ATX,160 mm,380 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,201,435,435
+"Kolink Stronghold Midi-Tower, Tempered Glass - white",,Kolink,E-ATX,ATX,160 mm,380 mm,0,0,0,white,TRUE,TRUE,TRUE,FALSE,201,435,435
+Kolink Stronghold Overseer Midi-Tower - black,,Kolink,ATX,ATX,175 mm,340 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,210,360,440
+Kolink Stronghold Prime Midi-Tower - black,,Kolink,E-ATX,ATX,175 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,231,451,488
+Kolink Stronghold Prism Midi-Tower - black,,Kolink,E-ATX,ATX,165 mm,330 mm,2,0,0,"gunmetal grey, black",TRUE,FALSE,TRUE,FALSE,216,370,470
+"Kolink Tranquility Midi-Tower - black, isolated",,Kolink,ATX,ATX,160 mm,380 mm,2,0,0,black,FALSE,TRUE,FALSE,TRUE,201,400,435
+Kolink Unity Code X ARGB Midi-Tower - black Window,,Kolink,ATX,ATX,165 mm,400 mm,2,0,0,black,TRUE,TRUE,FALSE,FALSE,280,440,427
+Kolink Vault Midi-Tower - black/blue Window,,Kolink,E-ATX,ATX,165 mm,400 mm,3,2,0,black,TRUE,FALSE,TRUE,FALSE,200,490,526
+Kolink Vault Midi-Tower - black/grün Window,,Kolink,E-ATX,ATX,165 mm,400 mm,3,2,0,black,TRUE,FALSE,TRUE,FALSE,200,490,526
+Kolink Vault Midi-Tower - black/red Window,,Kolink,E-ATX,ATX,165 mm,400 mm,3,2,0,black,TRUE,FALSE,TRUE,FALSE,200,490,526
+Kolink Vault RGB Midi-Tower - black Window,,Kolink,E-ATX,ATX,165 mm,400 mm,3,2,0,black,TRUE,FALSE,TRUE,FALSE,200,490,526
+Kolink Victory A Midi-Tower - black,,Kolink,ATX,ATX,150 mm,200 mm,1,1,0,black,FALSE,FALSE,FALSE,FALSE,170,330,410
+Kolink VOID RGB Midi-Tower - black Window,,Kolink,ATX,ATX,160 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,190,400,430
+Kolink VOID RGB Midi-Tower - white Window,,Kolink,ATX,ATX,160 mm,380 mm,2,0,0,black-and-white,TRUE,TRUE,FALSE,FALSE,190,400,430
+Kolink Void Rift ARGB Midi Tower - black,,Kolink,ATX,ATX,165 mm,355 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,200,400,485
+Kolink Void X ARGB Midi-Tower - black,,Kolink,E-ATX,ATX,175 mm,365 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,210,415,453
+"Lian Li Alpha 330W Midi-Tower, Tempered Glass - white",,Lian Li,E-ATX,ATX,170 mm,400 mm,4,4,0,white,TRUE,TRUE,TRUE,FALSE,240,503,523
+"Lian Li Alpha 330X Midi-Tower, Tempered Glass - black",,Lian Li,E-ATX,ATX,170 mm,400 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,240,503,523
+"Lian Li Alpha 550W Midi-Tower, Tempered Glass - white",,Lian Li,E-ATX,ATX,170 mm,400 mm,4,4,0,white,TRUE,TRUE,TRUE,FALSE,240,500,550
+"Lian Li Alpha 550X Midi-Tower, Tempered Glass - black",,Lian Li,E-ATX,ATX,170 mm,400 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,240,500,550
+"Lian Li LANCOOL 205 Mesh, Midi-Tower - white",,Lian Li,ATX,ATX,160 mm,350 mm,2,0,0,black-and-white,TRUE,TRUE,FALSE,FALSE,205,415,485
+"Lian Li LANCOOL 205 Midi-Tower, Tempered Glass - black",,Lian Li,ATX,ATX,160 mm,350 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,205,415,485
+"Lian Li LANCOOL 205 Midi-Tower, Tempered Glass - white",,Lian Li,ATX,ATX,160 mm,350 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,205,415,485
+"Lian Li LANCOOL 215 Midi-Tower - ARGB, Tempered Glass, white",,Lian Li,E-ATX,ATX,166 mm,370 mm,2,1,0,"grey, black, white",TRUE,TRUE,FALSE,FALSE,215,462,482
+"Lian Li LANCOOL 216 RGB, E-ATX, Midi-Tower - black",$108.8 USD,Lian Li,E-ATX,ATX,1805 mm,392 mm,4,0,0,black,FALSE,TRUE,FALSE,FALSE,235,481,492
+"Lian Li LANCOOL 216 RGB, E-ATX, Midi-Tower - white",$116.05 USD,Lian Li,E-ATX,ATX,1805 mm,392 mm,4,0,0,white,FALSE,TRUE,FALSE,FALSE,235,481,492
+"Lian Li LANCOOL II Mesh C RGB Midi-Tower, Tempered Glass - black",$153.17 USD,Lian Li,E-ATX,ATX,176 mm,384 mm,6,0,0,black,TRUE,TRUE,FALSE,FALSE,229,478,494
+"Lian Li LANCOOL II Mesh C RGB Snow Edition Midi-Tower, Tempered Glass - white",$95.74 USD,Lian Li,E-ATX,ATX,176 mm,384 mm,8,0,0,black-and-white,TRUE,TRUE,FALSE,FALSE,229,478,494
+"Lian Li LANCOOL II Mesh Performance Midi-Tower, Tempered Glass - black",,Lian Li,E-ATX,ATX,176 mm,384 mm,6,0,0,black,TRUE,TRUE,TRUE,FALSE,229,478,494
+"Lian Li LANCOOL II Mesh RGB Midi-Tower, Tempered Glass - white",$116.95 USD,Lian Li,E-ATX,ATX,176 mm,384 mm,6,0,0,white,TRUE,TRUE,TRUE,FALSE,229,478,494
+"Lian Li LANCOOL III E-ATX, Midi-Tower - black",$189.71 USD,Lian Li,E-ATX,ATX,185 mm,420 mm,8,0,0,black,TRUE,FALSE,TRUE,FALSE,238,526,523
+"Lian Li LANCOOL III E-ATX, Midi-Tower - white",,Lian Li,E-ATX,ATX,185 mm,420 mm,8,0,0,white,TRUE,FALSE,TRUE,FALSE,238,526,523
+"Lian Li LANCOOL III E-ATX, Midi-Tower, RGB - black",$209.05 USD,Lian Li,E-ATX,ATX,185 mm,420 mm,8,0,0,black,TRUE,FALSE,TRUE,FALSE,238,526,523
+"Lian Li LANCOOL III E-ATX, Midi-Tower, RGB - white",,Lian Li,E-ATX,ATX,185 mm,420 mm,8,0,0,white,TRUE,FALSE,TRUE,FALSE,238,526,523
+Lian Li LANCOOL ONE Digital Champagne Limited Edition Midi-Tower - gold,,Lian Li,E-ATX,ATX,175 mm,420 mm,4,2,0,"gold, white",TRUE,TRUE,TRUE,FALSE,220,450,472
+Lian Li LANCOOL ONE Digital Midi-Tower - black,$94.29 USD,Lian Li,E-ATX,ATX,175 mm,420 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,220,450,472
+Lian Li LANCOOL ONE Digital Midi-Tower - white,,Lian Li,E-ATX,ATX,175 mm,420 mm,4,2,0,white,TRUE,TRUE,TRUE,FALSE,220,450,472
+Lian Li LANCOOL ONE Midi-Tower - black,$147.12 USD,Lian Li,E-ATX,ATX,175 mm,420 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,220,450,472
+"Lian Li O11 Air Mini, Midi-Tower, Tempered Glass - black",$101.55 USD,Lian Li,E-ATX,ATX,170 mm,362 mm,2,0,0,black,TRUE,TRUE,FALSE,FALSE,288,400,384
+"Lian Li O11 Air Mini, Midi-Tower, Tempered Glass - white",$137.08 USD,Lian Li,E-ATX,ATX,170 mm,362 mm,2,0,0,white,TRUE,TRUE,FALSE,FALSE,288,400,384
+"Lian Li O11 Dynamic EVO, Tempered Glass - grey",,Lian Li,E-ATX,ATX,167 mm,422 mm,11,4,0,grey black,TRUE,TRUE,TRUE,FALSE,285,465,459
+"Lian Li O11 Dynamic EVO, Tempered Glass - black",$159.58 USD,Lian Li,E-ATX,ATX,167 mm,422 mm,11,4,0,black,TRUE,TRUE,TRUE,FALSE,285,465,459
+"Lian Li O11 Dynamic EVO, Tempered Glass - white",$177.71 USD,Lian Li,E-ATX,ATX,167 mm,422 mm,11,4,0,"grey, black, white",TRUE,TRUE,TRUE,FALSE,285,465,459
+"Lian Li O11 Dynamic Mini, Midi-Tower mit Netzteil 750 Watt - black",,Lian Li,ATX,"SFX-L, SFX",170 mm,395 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,269.5,420,380
+"Lian Li O11 Dynamic Mini, Midi-Tower, Tempered Glass - black",$120.39 USD,Lian Li,ATX,,170 mm,395 mm,0,0,0,black,FALSE,FALSE,FALSE,FALSE,0,0,0
+"Lian Li O11 Dynamic Mini, Midi-Tower, Tempered Glass - white",$114.85 USD,Lian Li,ATX,"SFX-L, SFX",170 mm,395 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,269.5,420,380
+"Lian Li O11 Dynamic PCMR Special Edition, Tempered Glass - spacegrau",,Lian Li,E-ATX,ATX,155 mm,420 mm,4,2,0,"grey, silver",TRUE,TRUE,TRUE,FALSE,272,445,446
+Lian Li O11Dynamic XL (ROG Certified) Midi-Tower - black,$195.84 USD,Lian Li,E-ATX,ATX,167 mm,446 mm,6,0,0,black,TRUE,TRUE,TRUE,FALSE,285,471,513
+Lian Li O11Dynamic XL (ROG Certified) Midi-Tower - silver,,Lian Li,E-ATX,ATX,167 mm,446 mm,6,0,0,silver,TRUE,TRUE,TRUE,FALSE,285,471,513
+Lian Li O11Dynamic XL (ROG Certified) Midi-Tower - white,$181.34 USD,Lian Li,E-ATX,ATX,167 mm,446 mm,6,0,0,white,TRUE,TRUE,TRUE,FALSE,285,471,513
+Lian Li PC-100B Midi-Tower - black,,Lian Li,E-ATX,ATX,165 mm,400 mm,8,6,0,black,FALSE,TRUE,TRUE,FALSE,210,530,472
+Lian Li PC-18A Midi-Tower - silver,,Lian Li,ATX,ATX,160 mm,285 mm,2,5,0,silver,FALSE,FALSE,TRUE,FALSE,210,490,452
+Lian Li PC-7HWX Midi-Tower - black/black Window,,Lian Li,ATX,ATX,170 mm,400 mm,1,4,0,black,TRUE,TRUE,TRUE,FALSE,210,498,473
+Lian Li PC-7HX Midi-Tower - black/black,,Lian Li,ATX,ATX,170 mm,400 mm,1,4,0,black,FALSE,TRUE,TRUE,FALSE,210,498,473
+Lian Li PC-7NB Midi-Tower - black,,Lian Li,ATX,ATX,170 mm,370 mm,4,4,0,black,FALSE,TRUE,TRUE,FALSE,210,500,473
+Lian Li PC-8FB Midi-Tower - black,,Lian Li,ATX,ATX,170 mm,410 mm,3,2,0,black,FALSE,FALSE,TRUE,FALSE,210,500,476
+Lian Li PC-9NB Midi-Tower USB 3.0 - black,,Lian Li,ATX,ATX,170 mm,430 mm,3,3,0,black,FALSE,TRUE,FALSE,FALSE,210,490,462
+Lian Li PC-A75WX Big-Tower - black/black Window,,Lian Li,E-ATX,ATX,170 mm,360 mm,3,12,0,black,TRUE,TRUE,TRUE,FALSE,220,590,585
+Lian Li PC-A75X Big-Tower - black/black,,Lian Li,E-ATX,ATX,170 mm,360 mm,3,12,0,black,FALSE,TRUE,TRUE,FALSE,220,590,585
+Lian Li PC-A76WX Big-Tower - black/black Window,,Lian Li,E-ATX,ATX,170 mm,360 mm,3,12,0,black,TRUE,TRUE,TRUE,FALSE,220,615,585
+Lian Li PC-A79A Big-Tower - silver,,Lian Li,E-ATX,ATX,165 mm,350 mm,8,9,0,silver,FALSE,TRUE,TRUE,FALSE,230,596,618
+Lian Li PC-A79B Big-Tower - black,,Lian Li,E-ATX,ATX,165 mm,350 mm,8,9,0,black,FALSE,TRUE,TRUE,FALSE,230,596,618
+Lian Li PC-D600WA Big-Tower - silver,,Lian Li,E-ATX,ATX,180 mm,330 mm,6,6,0,silver,TRUE,TRUE,TRUE,FALSE,382,415,525
+Lian Li PC-D600WB Big-Tower - black,,Lian Li,E-ATX,ATX,180 mm,330 mm,6,6,0,black,TRUE,TRUE,TRUE,FALSE,382,415,525
+Lian Li PC-D888WX 8Pack Limited Edition Big-Tower - black,,Lian Li,E-ATX,ATX,165 mm,420 mm,6,6,0,black,TRUE,TRUE,TRUE,FALSE,380,511,597
+Lian Li PC-J60B Midi-Tower - black,,Lian Li,ATX,ATX,160 mm,410 mm,3,5,0,black,FALSE,TRUE,TRUE,FALSE,210,489,507
+Lian Li PC-J60WRX Midi-Tower - black/red Window,,Lian Li,ATX,ATX,160 mm,410 mm,3,5,0,black,TRUE,TRUE,TRUE,FALSE,210,489,507
+Lian Li PC-J60WX Midi-Tower - black Window,,Lian Li,ATX,ATX,160 mm,410 mm,3,5,0,black,TRUE,TRUE,TRUE,FALSE,210,489,507
+Lian Li PC-K5WX Midi-Tower - black Window,,Lian Li,ATX,ATX,160 mm,400 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,205,500,450
+Lian Li PC-K6SX ATX Midi-Tower - black,,Lian Li,ATX,ATX,170 mm,310 mm,7,7,0,black,FALSE,TRUE,TRUE,FALSE,220,550,490
+Lian Li PC-O10WX Midi-Tower - black Window,,Lian Li,E-ATX,SFX,130 mm,340 mm,3,4,0,black,TRUE,TRUE,TRUE,FALSE,242,376,493
+"Lian Li PC-O11 Air Midi-Tower, Tempered Glass - black",$139.75 USD,Lian Li,E-ATX,ATX,155 mm,420 mm,6,3,0,black,TRUE,TRUE,TRUE,FALSE,270,476,465
+"Lian Li PC-O11 Air RGB Midi-Tower, Tempered Glass - black",$131.29 USD,Lian Li,E-ATX,ATX,155 mm,420 mm,6,3,0,black,TRUE,TRUE,TRUE,FALSE,270,476,465
+"Lian Li PC-O11D Razer Edition Midi-Tower, Tempered Glass",$166.83 USD,Lian Li,E-ATX,ATX,155 mm,420 mm,6,3,0,black,TRUE,TRUE,TRUE,FALSE,272,445,446
+"Lian Li PC-O11DW Dynamic Midi-Tower, Tempered Glass - white",$123.31 USD,Lian Li,E-ATX,ATX,155 mm,420 mm,4,2,0,black-and-white,TRUE,TRUE,TRUE,FALSE,272,445,446
+"Lian Li PC-O11DX Dynamic Midi-Tower, Tempered Glass - black",$126.93 USD,Lian Li,E-ATX,ATX,155 mm,420 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,272,445,446
+"Lian Li PC-O11WGX ""ROG Edition"" Midi-Tower - black Window",,Lian Li,E-ATX,ATX,150 mm,430 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,277,457,516
+Lian Li PC-O11WW Midi-Tower - white Window,,Lian Li,E-ATX,ATX,150 mm,430 mm,4,4,0,white,TRUE,FALSE,TRUE,FALSE,277,457,516
+Lian Li PC-O11WXC Midi-Tower - black Window,,Lian Li,E-ATX,ATX,150 mm,430 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,277,457,516
+Lian Li PC-O12WX Midi-Tower - black Window,,Lian Li,E-ATX,ATX,75 mm,340 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,203,550,508
+Lian Li PC-O5SW Mini-ITX - white,,Lian Li,Mini-ITX,SFX,85 mm,190 mm,5,5,0,white,TRUE,FALSE,FALSE,FALSE,148,384,465
+Lian Li PC-O5SX Mini-ITX - black,,Lian Li,Mini-ITX,SFX,85 mm,190 mm,5,5,0,black,TRUE,TRUE,TRUE,FALSE,148,384,465
+Lian Li PC-O5X Mini-ITX - black,,Lian Li,Mini-ITX,SFX,70 mm,190 mm,5,4,0,black,TRUE,TRUE,TRUE,FALSE,133,384,390
+Lian Li PC-O6SX Micro-ATX - black,,Lian Li,Micro-ATX,ATX,85 mm,290 mm,6,7,0,black,TRUE,TRUE,TRUE,FALSE,148,484,515
+Lian Li PC-O7SW ATX - white,,Lian Li,ATX,ATX,85 mm,320 mm,7,8,0,white,TRUE,TRUE,TRUE,FALSE,148,514,585
+Lian Li PC-O7SX ATX - black,,Lian Li,ATX,ATX,85 mm,320 mm,7,8,0,black,TRUE,TRUE,TRUE,FALSE,148,514,585
+Lian Li PC-O8SWX ATX - black Window,,Lian Li,E-ATX,ATX,170 mm,370 mm,2,6,0,"black, transparent",TRUE,TRUE,TRUE,FALSE,341,404,428
+Lian Li PC-O8WBU ATX - blue,,Lian Li,E-ATX,ATX,170 mm,370 mm,2,6,0,blue,TRUE,TRUE,TRUE,FALSE,341,404,428
+Lian Li PC-O8WBW ATX - white,,Lian Li,E-ATX,ATX,170 mm,370 mm,2,6,0,white,TRUE,TRUE,TRUE,FALSE,341,404,428
+Lian Li PC-O8WGD ATX - gold,,Lian Li,E-ATX,ATX,170 mm,370 mm,2,6,0,gold,TRUE,TRUE,TRUE,FALSE,341,404,428
+Lian Li PC-O8WGN ATX - grün,,Lian Li,E-ATX,ATX,170 mm,370 mm,2,6,0,green,TRUE,TRUE,TRUE,FALSE,341,404,428
+Lian Li PC-O8WX ATX - black,,Lian Li,E-ATX,ATX,170 mm,370 mm,2,6,0,"black, transparent",TRUE,TRUE,TRUE,FALSE,341,404,428
+Lian Li PC-O9WX ATX - black Window,,Lian Li,E-ATX,ATX,160 mm,420 mm,2,6,0,black,TRUE,TRUE,TRUE,FALSE,354,465,482
+Lian Li PC-Q01A Mini-ITX - silver,,Lian Li,Mini-ITX,ATX,90 mm,210 mm,4,2,0,silver,FALSE,FALSE,FALSE,FALSE,200,242,275
+Lian Li PC-Q10WX Mini-ITX Cube - black,,Lian Li,Mini-ITX,ATX,140 mm,270 mm,3,2,0,black,TRUE,FALSE,FALSE,FALSE,207,335,277
+Lian Li PC-Q20B Mini-ITX Cube - black,,Lian Li,Mini-ITX,"SFX, SFX-L",60 mm,151 mm,3,1,0,black,FALSE,TRUE,FALSE,FALSE,149,205,235
+Lian Li PC-Q21A Mini-ITX Cube - silver,,Lian Li,Mini-ITX,"SFX, SFX-L",60 mm,170 mm,4,3,0,silver,FALSE,TRUE,FALSE,FALSE,149,224,257
+Lian Li PC-Q21B Mini-ITX Cube - black,,Lian Li,Mini-ITX,"SFX, SFX-L",60 mm,170 mm,4,3,0,black,FALSE,TRUE,FALSE,FALSE,149,224,257
+Lian Li PC-Q33A Mini-ITX Cube - silver,,Lian Li,Mini-ITX,ATX,180 mm,220 mm,3,2,0,silver,FALSE,FALSE,FALSE,FALSE,229,240,328
+Lian Li PC-Q33B Mini-ITX Cube - black,,Lian Li,Mini-ITX,ATX,180 mm,220 mm,3,2,0,black,FALSE,FALSE,FALSE,FALSE,229,240,328
+Lian Li PC-Q34A Mini-ITX - silver,,Lian Li,Mini-ITX,ATX,180 mm,220 mm,2,3,0,silver,FALSE,FALSE,FALSE,FALSE,228,250,330
+Lian Li PC-Q34B Mini-ITX - black,,Lian Li,Mini-ITX,ATX,180 mm,220 mm,2,3,0,black,FALSE,FALSE,FALSE,FALSE,228,250,330
+Lian Li PC-Q34GD Mini-ITX - gold,,Lian Li,Mini-ITX,ATX,180 mm,220 mm,2,3,0,gold,FALSE,FALSE,FALSE,FALSE,228,250,330
+Lian Li PC-Q34RD Mini-ITX - red,,Lian Li,Mini-ITX,ATX,180 mm,220 mm,2,3,0,red,FALSE,FALSE,FALSE,FALSE,228,250,330
+Lian Li PC-Q35A Mini-ITX Cube - silver,,Lian Li,Mini-ITX,ATX,95 mm,300 mm,3,5,0,silver,FALSE,TRUE,FALSE,FALSE,210,456,305
+"Lian Li PC-Q37WX Mini-ITX, Tempered Glass - black",,Lian Li,Mini-ITX,SFX,130 mm,320 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,237,346,345
+Lian Li PC-Q38WA Mini-ITX - silver,,Lian Li,Mini-ITX,SFX,140 mm,315 mm,2,1,0,silver,TRUE,FALSE,FALSE,FALSE,180,372,295
+Lian Li PC-Q38WX Mini-ITX - black,,Lian Li,Mini-ITX,SFX,140 mm,315 mm,2,1,0,black,TRUE,FALSE,FALSE,FALSE,180,372,295
+"Lian Li PC-Q39GWX Mini-ITX, Tempered Glas - black",,Lian Li,Mini-ITX,ATX,120 mm,300 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,252,346,348
+Lian Li PC-Q50A Mini-ITX - silver,,Lian Li,Mini-ITX,ATX,140 mm,320 mm,2,2,0,silver,FALSE,FALSE,FALSE,FALSE,170,360,285
+Lian Li PC-Q50X Mini-ITX - black,,Lian Li,Mini-ITX,ATX,140 mm,320 mm,2,2,0,black,FALSE,FALSE,FALSE,FALSE,170,360,258
+Lian Li PC-TU100A Mini-ITX Cube - silver,,Lian Li,Mini-ITX,SFX,60 mm,190 mm,3,0,0,silver,FALSE,TRUE,FALSE,FALSE,170,252,277
+Lian Li PC-TU100B Mini-ITX Cube - black,,Lian Li,Mini-ITX,SFX,60 mm,190 mm,3,0,0,black,FALSE,TRUE,FALSE,FALSE,170,252,277
+Lian Li PC-TU200A Mini-ITX Cube - silver,,Lian Li,Mini-ITX,ATX,80 mm,30 mm,2,4,0,silver,FALSE,TRUE,TRUE,FALSE,210,360,320
+Lian Li PC-TU200B Mini-ITX Cube - black,,Lian Li,Mini-ITX,ATX,80 mm,300 mm,2,4,0,black,FALSE,TRUE,TRUE,FALSE,210,360,320
+"Lian Li PC-V2130B HTPX Big-Tower, black - isolated",,Lian Li,E-ATX,ATX,180 mm,480 mm,7,11,0,black,FALSE,TRUE,TRUE,TRUE,237,625,640
+"Lian Li PC-V3000WX Big-Tower, black - Tempered Glass",,Lian Li,E-ATX,ATX,170 mm,360 mm,10,9,0,black,TRUE,TRUE,TRUE,FALSE,245,605,625
+Lian Li PC-V320A Mini-ITX - silver,,Lian Li,Micro-ATX,ATX,140 mm,400 mm,2,2,0,silver,FALSE,FALSE,FALSE,FALSE,170,467,325
+Lian Li PC-V320X Mini-ITX - black,,Lian Li,Micro-ATX,ATX,140 mm,400 mm,2,2,0,black,FALSE,FALSE,FALSE,FALSE,170,467,325
+Lian Li PC-V351A Micro-ATX Cube - silver,,Lian Li,Micro-ATX,ATX,115 mm,270 mm,0,2,0,silver,FALSE,FALSE,FALSE,FALSE,279,373,262
+Lian Li PC-V720A ATX - silver,,Lian Li,Micro-ATX,ATX,140 mm,400 mm,2,2,0,silver,FALSE,FALSE,FALSE,FALSE,170,467,385
+Lian Li PC-V720X ATX - black,,Lian Li,Micro-ATX,ATX,140 mm,400 mm,2,2,0,black,FALSE,FALSE,FALSE,FALSE,170,467,385
+Lian Li PC-X510WX Midi-Tower - black,,Lian Li,ATX,"ATX, SFX",180 mm,330 mm,6,6,0,black,TRUE,TRUE,TRUE,FALSE,240,436,620
+Lian Li PC-Y6A Odyssey Yacht Mini-ITX - silver,,Lian Li,Mini-ITX,SFX,60 mm,300 mm,2,2,0,silver,TRUE,FALSE,FALSE,FALSE,764,259,293
+Lian Li PC-Y6B Odyssey Yacht Mini-ITX - black,,Lian Li,Mini-ITX,SFX,60 mm,300 mm,2,2,0,black,TRUE,FALSE,FALSE,FALSE,764,259,293
+Lian Li PC-Y6W Odyssey Yacht Mini-ITX - white,,Lian Li,Mini-ITX,SFX,60 mm,300 mm,2,2,0,white,TRUE,FALSE,FALSE,FALSE,764,259,293
+Lian Li TU150A Mini-Tower - silver,,Lian Li,Mini-ITX,"SFX, SFX-L",165 mm,320 mm,1,0,0,silver,FALSE,TRUE,TRUE,FALSE,203,375,312
+"Lian Li TU150WX Mini-Tower, Tempered Glass - black",$118.95 USD,Lian Li,Mini-ITX,"SFX, SFX-L",165 mm,320 mm,1,0,0,black,TRUE,TRUE,TRUE,FALSE,203,375,312
+Lian Li TU150X Mini-Tower - black,,Lian Li,Mini-ITX,"SFX, SFX-L",165 mm,320 mm,1,0,0,black,FALSE,TRUE,TRUE,FALSE,203,375,312
+"Montech AIR 1000 Premium, Midi-Tower, Tempered Glass - white",$118.56 USD,Montech,ATX,ATX,170 mm,340 mm,4,0,0,white,FALSE,TRUE,FALSE,FALSE,220,416,495
+"Montech AIR 1000 Premium, Midi-Tower, Tempered Glass, - black",$130.94 USD,Montech,ATX,ATX,170 mm,340 mm,4,0,0,black,FALSE,TRUE,FALSE,FALSE,220,416,495
+"Montech AIR 1000 Silent, Midi-Tower - black",,Montech,ATX,ATX,170 mm,340 mm,4,0,0,black,FALSE,TRUE,FALSE,TRUE,220,416,495
+"Montech AIR X, Midi-Tower - black",,Montech,E-ATX,ATX,163 mm,340 mm,2,0,0,black,FALSE,TRUE,FALSE,FALSE,210,425,475
+"Montech AIR X, Midi-Tower - white",,Montech,E-ATX,ATX,163 mm,340 mm,2,0,0,white,FALSE,TRUE,FALSE,FALSE,210,425,475
+"Montech SKY ONE Lite, Midi-Tower, Tempered Glass - black",,Montech,ATX,ATX,170 mm,350 mm,4,0,0,black,FALSE,TRUE,FALSE,FALSE,220,416,490
+"Montech SKY ONE Lite, Midi-Tower, Tempered Glass - white",$97.58 USD,Montech,ATX,ATX,170 mm,350 mm,4,0,0,white,FALSE,TRUE,FALSE,FALSE,220,416,490
+"Montech SKY TWO, Midi-Tower - black",$97.92 USD,Montech,ATX,ATX,168 mm,400 mm,3,2,0,black,FALSE,TRUE,FALSE,FALSE,215,430,490
+"Montech SKY TWO, Midi-Tower - white",$146.38 USD,Montech,ATX,ATX,168 mm,400 mm,3,2,0,white,FALSE,TRUE,FALSE,FALSE,215,430,490
+NZXT H200 Mini-ITX - black Window,$90.24 USD,NZXT,Mini-ITX,ATX,165 mm,325 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,372,349
+NZXT H200 Mini-ITX - black/red Window,$97.54 USD,NZXT,Mini-ITX,ATX,165 mm,325 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,372,349
+"NZXT H200 Mini-ITX, TG - black/blue Window",$94.29 USD,NZXT,Mini-ITX,ATX,165 mm,325 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,372,349
+"NZXT H200 Mini-ITX, TG - white/black Window",$93.68 USD,NZXT,Mini-ITX,ATX,165 mm,325 mm,4,1,0,white,TRUE,TRUE,TRUE,FALSE,210,372,349
+NZXT H200i Mini-ITX - black/red,$135.95 USD,NZXT,Mini-ITX,ATX,165 mm,325 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,372,349
+NZXT H200i Mini-ITX - white/black Window,$152.25 USD,NZXT,Mini-ITX,ATX,165 mm,325 mm,4,1,0,white,TRUE,TRUE,TRUE,FALSE,210,372,349
+"NZXT H200i Mini-ITX, RGB, TG - black Window",$135.37 USD,NZXT,Mini-ITX,ATX,165 mm,325 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,372,349
+"NZXT H200i Mini-ITX, RGB, TG - black/blue Window",$185.32 USD,NZXT,Mini-ITX,ATX,165 mm,325 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,372,349
+"NZXT H210 Mini-ITX, TG - black Window",$68.9 USD,NZXT,Mini-ITX,"ATX, SFX",165 mm,325 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,210,372,349
+"NZXT H210 Mini-ITX, TG - black/red Window",$64.54 USD,NZXT,Mini-ITX,"ATX, SFX",165 mm,325 mm,3,0,0,red black,TRUE,TRUE,TRUE,FALSE,210,372,349
+"NZXT H210 Mini-ITX, TG - white Window",$68.9 USD,NZXT,Mini-ITX,"ATX, SFX",165 mm,325 mm,3,0,0,white,TRUE,TRUE,TRUE,FALSE,210,372,349
+"NZXT H210i Mini-ITX, RGB, TG - black Window",$93.56 USD,NZXT,Mini-ITX,"ATX, SFX",165 mm,325 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,210,372,349
+"NZXT H210i Mini-ITX, RGB, TG - black/red Window",$108.8 USD,NZXT,Mini-ITX,"ATX, SFX",165 mm,325 mm,3,0,0,red black,TRUE,TRUE,TRUE,FALSE,210,372,349
+"NZXT H210i Mini-ITX, RGB, TG - white Window",$94.29 USD,NZXT,Mini-ITX,"ATX, SFX",165 mm,325 mm,3,0,0,white,TRUE,TRUE,TRUE,FALSE,210,372,349
+NZXT H400 Micro-ATX - black Window,$102.7 USD,NZXT,Micro-ATX,ATX,164 mm,411 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,421,417
+NZXT H400 Micro-ATX - black/blue Window,,NZXT,Micro-ATX,ATX,164 mm,411 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,421,417
+NZXT H400 Micro-ATX - black/red Window,$87.04 USD,NZXT,Micro-ATX,ATX,164 mm,411 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,421,417
+NZXT H400 Micro-ATX - white/black Window,$101.55 USD,NZXT,Micro-ATX,ATX,164 mm,411 mm,4,1,0,white,TRUE,TRUE,TRUE,FALSE,210,421,393
+NZXT H400i Micro-ATX - black Window,$137.81 USD,NZXT,Micro-ATX,ATX,164 mm,411 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,421,417
+NZXT H400i Micro-ATX - black/blue Window,$208.65 USD,NZXT,Micro-ATX,ATX,164 mm,411 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,421,417
+NZXT H400i Micro-ATX - black/red Window,$115.2 USD,NZXT,Micro-ATX,ATX,164 mm,411 mm,4,1,0,black,TRUE,TRUE,TRUE,FALSE,210,421,417
+NZXT H400i Micro-ATX - white/black Window,$116.05 USD,NZXT,Micro-ATX,ATX,164 mm,411 mm,4,1,0,white,TRUE,TRUE,TRUE,FALSE,210,421,417
+NZXT H440 Envyus Midi-Tower - black,$166.41 USD,NZXT,ATX,ATX,180 mm,428 mm,7,6,0,black,TRUE,TRUE,TRUE,FALSE,220,480,513
+NZXT H440 Midi-Tower Special Edition - black/grün,,NZXT,ATX,ATX,180 mm,428 mm,8,11,0,black,TRUE,TRUE,TRUE,FALSE,220,480,512
+NZXT H440 V2 Midi-Tower - black,,NZXT,ATX,ATX,180 mm,428 mm,8,11,0,black,FALSE,TRUE,TRUE,TRUE,220,480,512
+NZXT H440 V2 Midi-Tower - black Window,$108.8 USD,NZXT,ATX,ATX,180 mm,428 mm,8,11,0,black,TRUE,FALSE,TRUE,FALSE,220,480,512
+NZXT H440 V2 Midi-Tower - black/orange Window,,NZXT,ATX,ATX,180 mm,428 mm,8,11,0,black,TRUE,TRUE,TRUE,FALSE,220,480,512
+NZXT H440 V2 Midi-Tower - black/red Window,$94.29 USD,NZXT,ATX,ATX,180 mm,428 mm,8,11,0,black,TRUE,TRUE,TRUE,FALSE,220,480,512
+NZXT H440 V2 Midi-Tower - white/lila Window,,NZXT,ATX,ATX,180 mm,428 mm,8,11,0,white,TRUE,FALSE,TRUE,FALSE,220,480,512
+NZXT H440 V2 Midi-Tower - white/black Window,$108.8 USD,NZXT,ATX,ATX,180 mm,428 mm,8,11,0,white,TRUE,FALSE,TRUE,FALSE,220,480,512
+NZXT H500 Midi-Tower - black Window,$92.2 USD,NZXT,ATX,ATX,165 mm,381 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,210,428,460
+NZXT H500 Midi-Tower - black/blue Window,$116.18 USD,NZXT,ATX,ATX,165 mm,381 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,210,428,460
+NZXT H500 Midi-Tower - black/red Window,$75.76 USD,NZXT,ATX,ATX,165 mm,381 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,210,428,460
+NZXT H500 Midi-Tower - white Window,$88.85 USD,NZXT,ATX,ATX,165 mm,381 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,210,428,460
+"NZXT H500 Overwatch Special Edition Midi-Tower, TG - black/orange Window",$173.42 USD,NZXT,ATX,ATX,165 mm,381 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,210,428,460
+NZXT H500i Midi-Tower - black Window,$98.23 USD,NZXT,ATX,ATX,165 mm,381 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,210,428,460
+NZXT H500i Midi-Tower - black/red Window,$107.34 USD,NZXT,ATX,ATX,165 mm,381 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,210,428,460
+NZXT H500i Midi-Tower - white Window,$98.51 USD,NZXT,ATX,ATX,165 mm,381 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,210,428,460
+"NZXT H500i Midi-Tower, RGB, TG - black/blue Window",$149.78 USD,NZXT,ATX,ATX,165 mm,381 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,210,428,460
+"NZXT H510 Elite Midi-Tower, RGB, TG - black Window",$130.56 USD,NZXT,ATX,ATX,165 mm,381 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,210,428,460
+"NZXT H510 Elite Midi-Tower, RGB, TG - white Window",$130.56 USD,NZXT,ATX,ATX,165 mm,381 mm,3,3,0,white,TRUE,TRUE,TRUE,FALSE,210,428,460
+"NZXT H510i Midi-Tower, RGB, TG - black Window",$87.04 USD,NZXT,ATX,ATX,165 mm,381 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,210,428,460
+"NZXT H510i Midi-Tower, RGB, TG - black/red Window",$86.31 USD,NZXT,ATX,ATX,165 mm,381 mm,3,3,0,red black,TRUE,TRUE,TRUE,FALSE,210,428,460
+"NZXT H510i Midi-Tower, RGB, TG - white Window",$72.53 USD,NZXT,ATX,ATX,165 mm,381 mm,3,3,0,white,TRUE,TRUE,TRUE,FALSE,210,428,460
+NZXT H7 Elite Midi-Tower - black,$165.7 USD,NZXT,E-ATX,ATX,185 mm,400 mm,2,0,0,black,FALSE,FALSE,FALSE,FALSE,230,480,505
+NZXT H7 Flow Midi-Tower - black,,NZXT,E-ATX,ATX,185 mm,400 mm,2,0,0,black,FALSE,FALSE,FALSE,FALSE,230,480,505
+NZXT H7 Flow Midi-Tower - black/white,,NZXT,E-ATX,ATX,185 mm,400 mm,2,0,0,black-and-white,FALSE,FALSE,FALSE,FALSE,230,480,505
+NZXT H7 Flow Midi-Tower - white,,NZXT,E-ATX,ATX,185 mm,400 mm,2,0,0,white,FALSE,FALSE,FALSE,FALSE,230,480,505
+NZXT H7 Midi-Tower - black,,NZXT,E-ATX,ATX,185 mm,400 mm,2,0,0,black,FALSE,FALSE,FALSE,FALSE,230,480,505
+NZXT H7 Midi-Tower - black/white,,NZXT,E-ATX,ATX,185 mm,400 mm,2,0,0,black-and-white,FALSE,FALSE,FALSE,FALSE,230,480,505
+NZXT H7 Midi-Tower - white,,NZXT,E-ATX,ATX,185 mm,400 mm,2,0,0,white,FALSE,FALSE,FALSE,FALSE,230,480,505
+NZXT H700 Midi-Tower - black/blue Window,$169.25 USD,NZXT,ATX,ATX,185 mm,413 mm,7,3,0,black,TRUE,TRUE,TRUE,FALSE,230,494,516
+NZXT H700 Midi-Tower - black/red Window,$166.83 USD,NZXT,ATX,ATX,185 mm,413 mm,7,3,0,black,TRUE,TRUE,TRUE,FALSE,230,494,516
+"NZXT H700 Midi-Tower, TG - black Window",$140.1 USD,NZXT,ATX,ATX,185 mm,413 mm,7,3,0,black,TRUE,TRUE,TRUE,FALSE,230,494,516
+"NZXT H700 Midi-Tower, TG - black/white Window",$156.78 USD,NZXT,ATX,ATX,185 mm,413 mm,7,3,0,black,TRUE,TRUE,TRUE,FALSE,230,494,516
+NZXT H700 Nuka Cola LE Midi-Tower - Tempered Glass,,NZXT,ATX,ATX,185 mm,413 mm,7,3,0,"red, black, white",TRUE,TRUE,TRUE,FALSE,230,494,516
+NZXT H700 PUBG Midi-Tower - Window,$207.04 USD,NZXT,ATX,ATX,185 mm,413 mm,7,3,0,"blue, red, black",TRUE,TRUE,TRUE,FALSE,230,494,516
+"NZXT H700i Midi-Tower, RGB, TG - black Window",$180.68 USD,NZXT,ATX,ATX,185 mm,413 mm,7,3,0,black,TRUE,TRUE,TRUE,FALSE,230,494,516
+"NZXT H700i Midi-Tower, RGB, TG - black/blue Window",,NZXT,ATX,ATX,185 mm,413 mm,7,3,0,black,TRUE,TRUE,TRUE,FALSE,230,494,516
+"NZXT H700i Midi-Tower, RGB, TG - black/white Window",$204.79 USD,NZXT,ATX,ATX,185 mm,413 mm,7,3,0,black,TRUE,TRUE,TRUE,FALSE,230,494,516
+NZXT H700i Ninja SE Midi-Tower - Tempered Glass,$243.12 USD,NZXT,ATX,ATX,185 mm,413 mm,7,3,0,blue,TRUE,TRUE,TRUE,FALSE,230,494,516
+"NZXT H710 Midi-Tower, TG - black Window",$152.32 USD,NZXT,E-ATX,ATX,185 mm,413 mm,5,4,0,black,TRUE,TRUE,TRUE,FALSE,230,494,546
+"NZXT H710 Midi-Tower, TG - black/red Window",$115.32 USD,NZXT,E-ATX,ATX,185 mm,413 mm,5,4,0,red black,TRUE,TRUE,TRUE,FALSE,230,494,516
+"NZXT H710 Midi-Tower, TG - white Window",$123.31 USD,NZXT,E-ATX,ATX,185 mm,413 mm,5,4,0,white,TRUE,TRUE,TRUE,FALSE,230,494,516
+"NZXT H710i Midi-Tower, RGB, TG - black Window",$145.07 USD,NZXT,E-ATX,ATX,185 mm,413 mm,5,4,0,black,TRUE,TRUE,TRUE,FALSE,230,494,516
+"NZXT H710i Midi-Tower, RGB, TG - white Window",$145.07 USD,NZXT,E-ATX,ATX,185 mm,413 mm,5,4,0,white,TRUE,TRUE,TRUE,FALSE,230,494,516
+"NZXT H710i Midi-Tower, TG - black/red Window",$145.07 USD,NZXT,E-ATX,ATX,185 mm,413 mm,5,4,0,red black,TRUE,TRUE,TRUE,FALSE,230,494,516
+NZXT Manta Mini-ITX - black/red Window,$116.05 USD,NZXT,Mini-ITX,ATX,160 mm,363 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,245,450,426
+NZXT Manta Mini-ITX - black/black,,NZXT,Mini-ITX,ATX,160 mm,363 mm,3,2,0,black,FALSE,TRUE,TRUE,FALSE,245,450,426
+NZXT Manta Mini-ITX - black/black Window,$170.54 USD,NZXT,Mini-ITX,ATX,160 mm,363 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,245,450,426
+NZXT Manta Mini-ITX - black/white Window,$199.43 USD,NZXT,Mini-ITX,ATX,160 mm,363 mm,3,2,0,white,TRUE,TRUE,TRUE,FALSE,245,450,426
+NZXT Noctis 450 Midi-Tower - black/red,$157.11 USD,NZXT,ATX,ATX,180 mm,406 mm,8,8,0,black,TRUE,TRUE,TRUE,FALSE,220,544,567
+NZXT Noctis 450 Midi-Tower - white/blue,$175.61 USD,NZXT,ATX,ATX,180 mm,406 mm,8,8,0,black-and-white,TRUE,TRUE,TRUE,FALSE,220,544,567
+NZXT Noctis 450 ROG Midi-Tower - black Window,,NZXT,ATX,ATX,180 mm,406 mm,8,8,0,black,TRUE,FALSE,TRUE,FALSE,220,544,567
+NZXT Phantom 240 Midi-Tower - black,,NZXT,ATX,ATX,158 mm,400 mm,6,6,0,black,TRUE,TRUE,TRUE,FALSE,195,529,530
+NZXT Phantom 240 Midi-Tower - white,,NZXT,ATX,ATX,158 mm,400 mm,6,6,0,black-and-white,TRUE,TRUE,TRUE,FALSE,195,529,530
+NZXT SOURCE 340 Midi-Tower - black/blue Window,,NZXT,ATX,ATX,161 mm,364 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,200,432,445
+NZXT SOURCE 340 Midi-Tower - black/red Window,$82.02 USD,NZXT,ATX,ATX,161 mm,364 mm,2,3,0,black,TRUE,TRUE,FALSE,FALSE,200,432,445
+NZXT SOURCE 340 Midi-Tower - white/violett Window,,NZXT,ATX,ATX,161 mm,364 mm,2,3,0,white,TRUE,FALSE,TRUE,FALSE,200,432,445
+Obsidian Series 250D Mini ITX,,Corsair,Mini-ITX,ATX,95 mm,290 mm,2,0,2,black,FALSE,FALSE,FALSE,FALSE,277,290,351
+Obsidian Series 350D Windowed Micro ATX,$118.66 USD,Corsair,Micro-ATX,ATX,160 mm,380 mm,2,2,0,black,FALSE,FALSE,FALSE,FALSE,210,440,450
+Obsidian Series 900D Super Tower,$306.28 USD,Corsair,E-ATX,ATX,170 mm,500 mm,0,0,9,black,FALSE,FALSE,FALSE,FALSE,252,650,692
+"PHANTEKS Eclipse G360A Midi-Tower, Tempered Glass, ARGB - black",,PHANTEKS,E-ATX,ATX,162 mm,400 mm,5,2,0,black,TRUE,TRUE,FALSE,FALSE,200,455,465
+"PHANTEKS Eclipse G360A Midi-Tower, Tempered Glass, ARGB - white",,PHANTEKS,E-ATX,ATX,162 mm,400 mm,5,2,0,white,TRUE,TRUE,FALSE,FALSE,200,455,465
+"PHANTEKS Eclipse G500A D-RGB Fanless Midi-Tower, Tempered Glass - black",,PHANTEKS,E-ATX,ATX,185 mm,435 mm,9,2,0,black,FALSE,FALSE,FALSE,FALSE,240,500,515
+"PHANTEKS Eclipse G500A D-RGB Midi-Tower, Tempered Glass - matt white",,PHANTEKS,E-ATX,ATX,185 mm,435 mm,9,2,0,white,FALSE,FALSE,FALSE,FALSE,240,500,515
+"PHANTEKS Eclipse G500A D-RGB Midi-Tower, Tempered Glass - black",,PHANTEKS,E-ATX,ATX,185 mm,435 mm,9,2,0,black,FALSE,FALSE,FALSE,FALSE,240,500,515
+"PHANTEKS Eclipse G500A Midi-Tower, Tempered Glass - black",,PHANTEKS,E-ATX,ATX,185 mm,435 mm,9,2,0,black,FALSE,FALSE,FALSE,FALSE,240,500,515
+"PHANTEKS Eclipse P300 Air Midi-Tower, Tempered Glass - Satin black",$86.88 USD,PHANTEKS,ATX,ATX,165 mm,355 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,200,400,455
+"PHANTEKS Eclipse P300 Midi-Tower, Tempered Glass - black",$77.02 USD,PHANTEKS,E-ATX,ATX,160 mm,330 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,200,400,450
+"PHANTEKS Eclipse P300 Midi-Tower, Tempered Glass - black/red",$68.17 USD,PHANTEKS,E-ATX,ATX,160 mm,330 mm,1,2,0,black,TRUE,TRUE,TRUE,FALSE,200,400,450
+"PHANTEKS Eclipse P300 Midi-Tower, Tempered Glass - black/white",$71.8 USD,PHANTEKS,E-ATX,ATX,160 mm,330 mm,1,2,0,black,TRUE,TRUE,TRUE,FALSE,200,400,450
+"PHANTEKS Eclipse P300 Midi-Tower, Tempered Glass - white",$56.99 USD,PHANTEKS,E-ATX,ATX,160 mm,330 mm,1,2,0,white,TRUE,TRUE,TRUE,FALSE,200,400,450
+"PHANTEKS Eclipse P350X Midi-Tower, Tempered Glass - DRGB, black",$85.98 USD,PHANTEKS,E-ATX,ATX,160 mm,400 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,200,455,450
+"PHANTEKS Eclipse P350X Midi-Tower, Tempered Glass - DRGB, black/white",$54.4 USD,PHANTEKS,E-ATX,ATX,160 mm,400 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,200,455,450
+"PHANTEKS Eclipse P360X Midi-Tower, Tempered Glass, DRGB - black",,PHANTEKS,E-ATX,ATX,160 mm,420 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,200,455,465
+"PHANTEKS Eclipse P400 Midi-Tower, Tempered Glass - anthrazit",$83.41 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,4,2,0,anthracite,TRUE,TRUE,TRUE,FALSE,210,470,465
+"PHANTEKS Eclipse P400 Midi-Tower, Tempered Glass - black",$58.02 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,4,2,0,black,TRUE,FALSE,TRUE,FALSE,210,470,465
+"PHANTEKS Eclipse P400 Midi-Tower, Tempered Glass - black/red",$114.95 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,210,470,465
+"PHANTEKS Eclipse P400 Midi-Tower, Tempered Glass - black/white",$86.05 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,210,470,465
+"PHANTEKS Eclipse P400 Midi-Tower, Tempered Glass - white",$71.8 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,4,2,0,white,TRUE,TRUE,TRUE,FALSE,210,470,465
+"PHANTEKS Eclipse P400S Midi-Tower, Tempered Glass, anthrazit - isolated",$106.31 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,4,2,0,anthracite,TRUE,TRUE,TRUE,TRUE,210,470,465
+"PHANTEKS Eclipse P400S Midi-Tower, Tempered Glass, black - isolated",$100.81 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,4,2,0,black,TRUE,TRUE,TRUE,TRUE,210,470,465
+"PHANTEKS Eclipse P400S Midi-Tower, Tempered Glass, black/red - isolated",$91.61 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,4,2,0,black,TRUE,TRUE,TRUE,TRUE,210,470,465
+"PHANTEKS Eclipse P400S Midi-Tower, Tempered Glass, black/white - isolated",$76.16 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,4,2,0,black,TRUE,TRUE,TRUE,TRUE,210,470,465
+"PHANTEKS Eclipse P400S Midi-Tower, Tempered Glass, white - isolated",$91.59 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,4,2,0,white,TRUE,TRUE,TRUE,TRUE,210,470,465
+"PHANTEKS Eclipse P400S Midi-Tower, white - isolated",$98.53 USD,PHANTEKS,E-ATX,ATX,160 mm,395 mm,2,2,0,white,FALSE,TRUE,TRUE,TRUE,210,470,495
+"PHANTEKS Eclipse P500A D-RGB Midi-Tower, Tempered Glass - matt white",,PHANTEKS,E-ATX,ATX,190 mm,410 mm,3,0,0,white,TRUE,TRUE,FALSE,FALSE,240,505,510
+"PHANTEKS Eclipse P500A D-RGB Midi-Tower, Tempered Glass - black",,PHANTEKS,E-ATX,ATX,190 mm,410 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,240,505,510
+"PHANTEKS Eclipse P500A D-RGB Midi-Tower, Tempered Glass - white",,PHANTEKS,E-ATX,ATX,190 mm,410 mm,3,0,0,white,TRUE,TRUE,TRUE,FALSE,240,505,510
+"PHANTEKS Eclipse P500A Midi-Tower, Tempered Glass - black",,PHANTEKS,E-ATX,ATX,190 mm,410 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,240,505,510
+"PHANTEKS Eclipse P600S Silent Midi-Tower, geschlossen - black",$145.07 USD,PHANTEKS,E-ATX,ATX,190 mm,435 mm,3,4,0,black,FALSE,TRUE,TRUE,TRUE,240,510,520
+"PHANTEKS Eclipse P600S Silent Midi-Tower, Tempered Glass - anthrazit",$181.34 USD,PHANTEKS,E-ATX,ATX,190 mm,435 mm,3,4,0,anthracite,TRUE,TRUE,TRUE,TRUE,250,510,520
+"PHANTEKS Eclipse P600S Silent Midi-Tower, Tempered Glass - matt white",,PHANTEKS,E-ATX,"ATX, SFX",190 mm,435 mm,3,4,0,black-and-white,TRUE,TRUE,FALSE,FALSE,240,510,520
+"PHANTEKS Eclipse P600S Silent Midi-Tower, Tempered Glass - black",$181.34 USD,PHANTEKS,E-ATX,ATX,190 mm,435 mm,3,4,0,black,TRUE,TRUE,TRUE,TRUE,240,510,520
+"PHANTEKS Eclipse P600S Silent Midi-Tower, Tempered Glass - white",$256.2 USD,PHANTEKS,E-ATX,ATX,190 mm,435 mm,3,4,0,white,TRUE,TRUE,TRUE,TRUE,250,520,550
+"PHANTEKS Enthoo 719 Big-Tower, Tempered Glass, DRGB - anthrazit",$217.61 USD,PHANTEKS,E-ATX,ATX,195 mm,503 mm,11,4,0,anthracite,TRUE,TRUE,TRUE,FALSE,240,570,595
+"PHANTEKS Enthoo 719 Big-Tower, Tempered Glass, DRGB - black",$224.85 USD,PHANTEKS,E-ATX,ATX,195 mm,503 mm,11,4,0,black,TRUE,TRUE,TRUE,FALSE,240,570,595
+"PHANTEKS Enthoo Evolv ATX Flow Edition Midi-Tower, Tempered Glass - anthrazit",,PHANTEKS,E-ATX,ATX,194 mm,420 mm,4,5,0,anthracite,TRUE,TRUE,TRUE,FALSE,235,510,495
+"PHANTEKS Enthoo Evolv ATX Flow Edition Midi-Tower, Tempered Glass - black",,PHANTEKS,E-ATX,ATX,194 mm,420 mm,4,5,0,black,TRUE,TRUE,TRUE,FALSE,235,510,495
+"PHANTEKS Enthoo Evolv ATX Midi-Tower - anthrazit, Window",,PHANTEKS,E-ATX,ATX,194 mm,420 mm,4,5,0,"anthracite, gray",TRUE,TRUE,TRUE,FALSE,235,510,495
+PHANTEKS Enthoo Evolv ATX Midi-Tower - black,$166.83 USD,PHANTEKS,E-ATX,ATX,194 mm,420 mm,4,5,0,black,TRUE,TRUE,TRUE,FALSE,235,510,495
+"PHANTEKS Enthoo Evolv ATX Midi-Tower - silver, Window",$170.59 USD,PHANTEKS,E-ATX,ATX,194 mm,420 mm,4,5,0,silver,TRUE,TRUE,TRUE,FALSE,235,510,495
+"PHANTEKS Enthoo Evolv ATX Midi-Tower, Tempered Glass - anthrazit",$145.07 USD,PHANTEKS,E-ATX,ATX,194 mm,420 mm,4,5,0,anthracite,TRUE,TRUE,TRUE,FALSE,235,510,495
+PHANTEKS Enthoo Evolv ITX Mini-ITX - black,,PHANTEKS,Mini-ITX,ATX,200 mm,330 mm,3,2,0,black,FALSE,TRUE,TRUE,FALSE,230,395,375
+PHANTEKS Enthoo Evolv ITX Mini-ITX - black Window,,PHANTEKS,Mini-ITX,ATX,200 mm,330 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,230,395,375
+PHANTEKS Enthoo Evolv ITX Mini-ITX - black/red Window,,PHANTEKS,Mini-ITX,ATX,200 mm,330 mm,3,2,0,red black,TRUE,TRUE,TRUE,FALSE,230,395,375
+PHANTEKS Enthoo Evolv ITX Mini-ITX - white/black Window,,PHANTEKS,Mini-ITX,ATX,200 mm,330 mm,3,2,0,black-and-white,TRUE,TRUE,TRUE,FALSE,230,395,375
+"PHANTEKS Enthoo Evolv ITX Mini-ITX, TG, RGB LED - black",$109.47 USD,PHANTEKS,Mini-ITX,ATX,200 mm,330 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,230,395,375
+"PHANTEKS Enthoo Evolv ITX Mini-ITX, TG, RGB LED - black/red",$93.53 USD,PHANTEKS,Mini-ITX,ATX,200 mm,330 mm,3,2,0,red black,TRUE,TRUE,TRUE,FALSE,230,395,375
+"PHANTEKS Enthoo Evolv ITX Mini-ITX, TG, RGB LED - white",$74.39 USD,PHANTEKS,Mini-ITX,ATX,200 mm,330 mm,3,2,0,black-and-white,TRUE,TRUE,TRUE,FALSE,230,395,375
+"PHANTEKS Enthoo Evolv Micro-ATX, Tempered Glass - anthrazit",$130.56 USD,PHANTEKS,Micro-ATX,ATX,192 mm,319 mm,4,2,0,anthracite,TRUE,TRUE,TRUE,FALSE,230,400,453
+"PHANTEKS Enthoo Evolv Micro-ATX, Tempered Glass - black",$189.27 USD,PHANTEKS,Micro-ATX,ATX,192 mm,319 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,230,400,453
+"PHANTEKS Enthoo Evolv Micro-ATX, Tempered Glass - silver",$130.56 USD,PHANTEKS,Micro-ATX,ATX,192 mm,319 mm,4,2,0,black silver,TRUE,TRUE,TRUE,FALSE,230,400,453
+"PHANTEKS Enthoo Evolv Shift Air Mini-ITX - anthrazit, Mesh",$109.95 USD,PHANTEKS,Mini-ITX,"SFX, SFX-L",82 mm,350 mm,3,1,0,anthracite,FALSE,TRUE,TRUE,FALSE,186,274,470
+"PHANTEKS Enthoo Evolv Shift Air Mini-ITX - black, Mesh",$109.54 USD,PHANTEKS,Mini-ITX,"SFX, SFX-L",82 mm,350 mm,3,1,0,black,FALSE,TRUE,TRUE,FALSE,186,274,470
+"PHANTEKS Enthoo Evolv Shift Mini-ITX, Glas - anthrazit",$104.7 USD,PHANTEKS,Mini-ITX,"SFX, SFX-L",82 mm,350 mm,3,1,0,anthracite,TRUE,TRUE,TRUE,FALSE,170,274,470
+"PHANTEKS Enthoo Evolv Shift Mini-ITX, Glas - black",$118.43 USD,PHANTEKS,Mini-ITX,"SFX, SFX-L",82 mm,350 mm,3,1,0,black,TRUE,TRUE,TRUE,FALSE,170,274,470
+"PHANTEKS Enthoo Evolv Shift X Mini-ITX, Glas - anthrazit",$150.42 USD,PHANTEKS,Mini-ITX,"SFX, SFX-L",82 mm,529 mm,4,2,0,anthracite,TRUE,TRUE,TRUE,FALSE,170,274,650
+"PHANTEKS Enthoo Evolv Shift X Mini-ITX, Glas - black",$153.79 USD,PHANTEKS,Mini-ITX,"SFX, SFX-L",82 mm,529 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,170,274,650
+"PHANTEKS Enthoo Evolv X Midi-Tower, RGB, Tempered Glass - anthrazit",$210.35 USD,PHANTEKS,E-ATX,ATX,190 mm,435 mm,6,4,0,anthracite,TRUE,TRUE,TRUE,FALSE,240,520,520
+"PHANTEKS Enthoo Evolv X Midi-Tower, RGB, Tempered Glass - matt white",,PHANTEKS,E-ATX,ATX,190 mm,435 mm,6,4,0,black-and-white,TRUE,TRUE,FALSE,FALSE,240,520,520
+"PHANTEKS Enthoo Evolv X Midi-Tower, RGB, Tempered Glass - black",$181.34 USD,PHANTEKS,E-ATX,ATX,190 mm,435 mm,6,4,0,black,TRUE,TRUE,TRUE,FALSE,240,520,520
+"PHANTEKS Enthoo Evolv X Midi-Tower, RGB, Tempered Glass - silver",$177.71 USD,PHANTEKS,E-ATX,ATX,190 mm,435 mm,6,4,0,silver,TRUE,TRUE,TRUE,FALSE,240,520,520
+PHANTEKS Enthoo Luxe Big-Tower - white,,PHANTEKS,E-ATX,ATX,193 mm,472 mm,7,6,0,white,TRUE,TRUE,TRUE,FALSE,235,550,560
+"PHANTEKS Enthoo Luxe Big-Tower, Tempered Glass - anthrazit",$224.92 USD,PHANTEKS,E-ATX,ATX,193 mm,347 mm,8,6,0,anthracite,TRUE,TRUE,TRUE,FALSE,235,550,560
+"PHANTEKS Enthoo Luxe Big-Tower, Tempered Glass - black",$198.08 USD,PHANTEKS,E-ATX,ATX,193 mm,347 mm,8,6,0,black,TRUE,TRUE,TRUE,FALSE,235,550,560
+PHANTEKS Enthoo Mini XL DS Micro-ATX + Mini-ITX - black,$159.58 USD,PHANTEKS,Micro-ATX,ATX,215 mm,289 mm,10,8,0,black,TRUE,TRUE,TRUE,FALSE,343,570,625
+"PHANTEKS Enthoo Primo Big-Tower, whitee LED - white",$299.77 USD,PHANTEKS,E-ATX,ATX,207 mm,515 mm,12,6,0,white,TRUE,TRUE,TRUE,FALSE,250,600,650
+"PHANTEKS Enthoo Primo SE Big-Tower, grüne LED - black/grün",$239.24 USD,PHANTEKS,E-ATX,ATX,207 mm,515 mm,12,6,0,"green, black",TRUE,TRUE,TRUE,FALSE,250,600,650
+"PHANTEKS Enthoo Primo SE Big-Tower, orange LED - black/orange",$250.0 USD,PHANTEKS,E-ATX,ATX,207 mm,515 mm,12,6,0,"orange, black",TRUE,TRUE,TRUE,FALSE,250,600,650
+"PHANTEKS Enthoo Primo SE Big-Tower, rede LED - black/red",$239.37 USD,PHANTEKS,E-ATX,ATX,207 mm,515 mm,12,6,0,red black,TRUE,TRUE,TRUE,FALSE,250,600,650
+"PHANTEKS Enthoo Primo SE Big-Tower, whitee LED - black/white",$239.37 USD,PHANTEKS,E-ATX,ATX,207 mm,515 mm,12,6,0,black-and-white,TRUE,TRUE,TRUE,FALSE,250,600,650
+PHANTEKS Enthoo Pro M Midi-Tower - black Acrylic Window,,PHANTEKS,E-ATX,ATX,194 mm,420 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,235,500,480
+PHANTEKS Enthoo Pro M Midi-Tower - black Window,,PHANTEKS,E-ATX,ATX,194 mm,420 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,235,500,480
+"PHANTEKS Enthoo Pro M Midi-Tower, Tempered Glass - black",$98.35 USD,PHANTEKS,E-ATX,ATX,194 mm,420 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,235,500,480
+"PHANTEKS Enthoo Pro M Special Edition, Tempered Glass - black/white",$108.36 USD,PHANTEKS,E-ATX,ATX,194 mm,420 mm,3,2,0,black,TRUE,TRUE,TRUE,FALSE,235,500,480
+PHANTEKS Enthoo Pro Midi-Tower - black,$94.29 USD,PHANTEKS,E-ATX,ATX,193 mm,472 mm,7,6,0,black,FALSE,TRUE,TRUE,FALSE,235,550,535
+PHANTEKS Enthoo Pro Midi-Tower - black Window,$94.29 USD,PHANTEKS,E-ATX,ATX,193 mm,472 mm,7,6,0,black,TRUE,TRUE,TRUE,FALSE,235,550,535
+PHANTEKS Enthoo Pro Midi-Tower - titanium grün Window,,PHANTEKS,E-ATX,ATX,193 mm,472 mm,7,6,0,titanium green,TRUE,TRUE,TRUE,FALSE,235,550,535
+PHANTEKS Enthoo Pro Midi-Tower - white Window,$105.17 USD,PHANTEKS,E-ATX,ATX,193 mm,472 mm,7,6,0,white,TRUE,TRUE,TRUE,FALSE,235,550,535
+"PHANTEKS Enthoo Pro Midi-Tower, Tempered Glass - black",$107.34 USD,PHANTEKS,E-ATX,ATX,193 mm,472 mm,10,6,0,black,TRUE,TRUE,TRUE,FALSE,235,550,535
+"PHANTEKS Enthoo Pro Midi-Tower, Tempered Glass SE - black/white",$97.92 USD,PHANTEKS,E-ATX,ATX,193 mm,472 mm,10,6,0,black,TRUE,TRUE,TRUE,FALSE,235,550,535
+Raijintek Aeneas Micro-ATX Cube - black,,RAIJINTEK,Micro-ATX,ATX,180 mm,310 mm,4,4,0,black,FALSE,TRUE,TRUE,FALSE,288,380,430
+Raijintek Aeneas Micro-ATX Cube - black Window,,RAIJINTEK,Micro-ATX,ATX,180 mm,310 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,288,380,430
+Raijintek Aeneas Micro-ATX Cube - white,,RAIJINTEK,Micro-ATX,ATX,180 mm,310 mm,4,4,0,white,FALSE,TRUE,TRUE,FALSE,288,380,430
+RAIJINTEK Agos Midi-Tower - black,$79.81 USD,RAIJINTEK,ATX,ATX,160 mm,340 mm,6,6,0,black,FALSE,TRUE,TRUE,FALSE,200,460,490
+Raijintek Agos Midi-Tower - white,$62.51 USD,RAIJINTEK,ATX,ATX,160 mm,340 mm,6,6,0,white,FALSE,TRUE,TRUE,FALSE,200,460,490
+Raijintek Arcadia II Midi-Tower - black Window,,RAIJINTEK,ATX,ATX,160 mm,340 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,185,375,426
+Raijintek Arcadia Midi-Tower - black,,RAIJINTEK,ATX,ATX,160 mm,400 mm,2,4,0,black,FALSE,TRUE,TRUE,FALSE,200,455,430
+Raijintek Arcadia Midi-Tower - white,$33.41 USD,RAIJINTEK,ATX,ATX,160 mm,400 mm,2,4,0,white,FALSE,TRUE,TRUE,FALSE,200,455,430
+"Raijintek Asterion Classic Midi-Tower, Tempered Glass - black",$189.47 USD,RAIJINTEK,E-ATX,ATX,180 mm,340 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,230,464,525
+"Raijintek Asterion Classic Midi-Tower, Tempered Glass - silver",,RAIJINTEK,E-ATX,ATX,180 mm,340 mm,3,3,0,"gunmetal, silver",TRUE,TRUE,TRUE,FALSE,230,464,525
+Raijintek Asterion Plus Midi-Tower - silver Window,,RAIJINTEK,E-ATX,ATX,180 mm,340 mm,3,3,0,silver,TRUE,TRUE,TRUE,FALSE,230,491,525
+"Raijintek Coeus Elite TC Micro-ATX, Tempered Glass - black",$116.13 USD,RAIJINTEK,Micro-ATX,ATX,175 mm,350 mm,1,3,0,"black, transparent",TRUE,TRUE,TRUE,FALSE,235,444,484
+"Raijintek Coeus Evo TC Midi-Tower, Tempered Glass - black",,RAIJINTEK,E-ATX,ATX,175 mm,350 mm,0,4,0,"black, transparent",TRUE,TRUE,TRUE,FALSE,235,444,544
+Raijintek Enyo Tempered Glass Showcase,,RAIJINTEK,E-ATX,ATX,190 mm,615 mm,0,0,0,black,TRUE,FALSE,TRUE,FALSE,707,398,659
+Raijintek METIS EVO AL Mini-ITX - black,,RAIJINTEK,Mini-ITX,"ATX, SFX",135 mm,280 mm,2,0,0,black,FALSE,FALSE,TRUE,FALSE,293,290,263
+Raijintek METIS EVO AL Mini-ITX - silver,,RAIJINTEK,Mini-ITX,"ATX, SFX",135 mm,280 mm,2,0,0,silver,FALSE,FALSE,TRUE,FALSE,293,290,263
+Raijintek METIS EVO AL Mini-ITX - white,,RAIJINTEK,Mini-ITX,"ATX, SFX",135 mm,280 mm,2,0,0,white,FALSE,FALSE,TRUE,FALSE,293,290,263
+"Raijintek METIS EVO TG Mini-ITX, Tempered Glass - blue",,RAIJINTEK,Mini-ITX,"ATX, SFX",135 mm,280 mm,2,0,0,blue,TRUE,FALSE,TRUE,FALSE,293,290,263
+"Raijintek METIS EVO TG Mini-ITX, Tempered Glass - red",,RAIJINTEK,Mini-ITX,"ATX, SFX",135 mm,280 mm,2,0,0,red,TRUE,FALSE,TRUE,FALSE,293,290,260
+"Raijintek METIS EVO TG Mini-ITX, Tempered Glass - black",,RAIJINTEK,Mini-ITX,"ATX, SFX",135 mm,280 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,293,290,263
+"Raijintek METIS EVO TG Mini-ITX, Tempered Glass - silver",,RAIJINTEK,Mini-ITX,"ATX, SFX",135 mm,280 mm,2,0,0,silver,TRUE,FALSE,TRUE,FALSE,293,290,263
+"Raijintek METIS EVO TG Mini-ITX, Tempered Glass - white",,RAIJINTEK,Mini-ITX,"ATX, SFX",135 mm,280 mm,2,0,0,white,TRUE,FALSE,TRUE,FALSE,293,290,263
+Raijintek METIS Mini-ITX - blue,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,blue,FALSE,FALSE,FALSE,FALSE,190,277,254
+RAIJINTEK METIS Mini-ITX - blue Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,blue,TRUE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - gold,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,gold,FALSE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - gold Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,gold,TRUE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - grün,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,green,FALSE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - grün Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,green,TRUE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - red,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,red,FALSE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - red Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,red,TRUE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - black,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,black,FALSE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - black Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,black,TRUE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - silver,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,silver,FALSE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - silver Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,silver,TRUE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - white,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,white,FALSE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS Mini-ITX - white Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,white,TRUE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS PLUS ALS Mini-ITX - black,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,0,0,black,FALSE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS PLUS ALS Mini-ITX - silver,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,0,0,silver,FALSE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS PLUS Mini-ITX - blue Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,3,0,0,blue,TRUE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS PLUS Mini-ITX - grün Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,3,0,0,green,TRUE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS PLUS Mini-ITX - red Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,3,0,0,red,TRUE,FALSE,FALSE,FALSE,190,277,254
+Raijintek METIS PLUS Mini-ITX - black Window,$95.15 USD,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,black,TRUE,TRUE,FALSE,FALSE,190,277,254
+Raijintek METIS PLUS Mini-ITX - silver Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,silver,TRUE,TRUE,FALSE,FALSE,190,277,254
+Raijintek METIS PLUS Mini-ITX - white Window,,RAIJINTEK,Mini-ITX,ATX,160 mm,170 mm,2,1,0,white,TRUE,FALSE,FALSE,FALSE,190,277,254
+"Raijintek NYX PRO Showcase Big-Tower, Tempered Glass - yellow",,RAIJINTEK,E-ATX,ATX,75 mm,496 mm,3,1,0,yellow,TRUE,FALSE,TRUE,FALSE,265,595,658
+"Raijintek NYX PRO Showcase Big-Tower, Tempered Glass - red",,RAIJINTEK,E-ATX,ATX,75 mm,496 mm,3,1,0,red,TRUE,FALSE,TRUE,FALSE,265,595,658
+"Raijintek NYX PRO Showcase Big-Tower, Tempered Glass - white",,RAIJINTEK,E-ATX,ATX,75 mm,496 mm,3,1,0,white,TRUE,FALSE,TRUE,FALSE,265,595,658
+"Raijintek Ophion EVO Mini-ITX, Tempered Glass - black",,RAIJINTEK,Mini-ITX,"ATX, SFX",90 mm,330 mm,4,1,0,black,TRUE,TRUE,TRUE,TRUE,174,375,290
+"Raijintek Ophion EVO Mini-ITX, Tempered Glass - white",,RAIJINTEK,Mini-ITX,"ATX, SFX",90 mm,330 mm,4,1,0,white,TRUE,FALSE,TRUE,FALSE,174,375,290
+Raijintek Ophion M Evo ALS Micro-ATX - black,,RAIJINTEK,Mini-ITX,"ATX, SFX",82 mm,410 mm,5,3,0,black,FALSE,TRUE,TRUE,FALSE,231,453,365
+"Raijintek Ophion M Evo TGS Micro-ATX, Tempered Glass - black",,RAIJINTEK,Mini-ITX,"ATX, SFX",82 mm,410 mm,5,3,0,black,TRUE,TRUE,TRUE,FALSE,231,453,365
+"Raijintek Ophion Mini-ITX, Tempered Glass - black",,RAIJINTEK,Mini-ITX,"ATX, SFX",90 mm,330 mm,3,1,0,black,TRUE,TRUE,TRUE,FALSE,174,375,245
+"Raijintek Ophion Mini-ITX, Tempered Glass - white",,RAIJINTEK,Mini-ITX,"ATX, SFX",90 mm,330 mm,3,1,0,white,TRUE,FALSE,TRUE,FALSE,174,375,245
+Raijintek PAEAN Benchtable / Showcase - black Window,,RAIJINTEK,ATX,ATX,165 mm,310 mm,3,3,0,black,TRUE,FALSE,TRUE,FALSE,286,586,417
+Raijintek PAEAN Premium Midi Tower Showcase - black,,RAIJINTEK,ATX,ATX,170 mm,430 mm,0,0,0,black,TRUE,FALSE,TRUE,FALSE,310,451,648
+Raijintek PAEAN Premium Midi Tower Showcase - white,,RAIJINTEK,ATX,ATX,170 mm,430 mm,0,0,0,white,TRUE,FALSE,TRUE,FALSE,310,451,648
+Raijintek Pan Slim Mini-ITX - white,,RAIJINTEK,Mini-ITX,SFX,240 mm,340 mm,0,0,0,white,FALSE,FALSE,FALSE,FALSE,590,348,155
+"Raijintek Ponos MS Midi-Tower - Tempered Glass, Mesh, black",,RAIJINTEK,E-ATX,ATX,165 mm,390 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,210,442,485
+Raijintek PONOS MS4 - black,,RAIJINTEK,E-ATX,ATX,165 mm,390 mm,2,0,0,black,TRUE,TRUE,TRUE,TRUE,210,442,485
+"Raijintek Ponos TG Midi-Tower, Tempered Glass - black",,RAIJINTEK,E-ATX,ATX,165 mm,390 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,210,442,485
+Raijintek PONOS TG4 - black,,RAIJINTEK,E-ATX,ATX,165 mm,390 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,210,442,485
+Raijintek SILENOS Midi-Tower,,RAIJINTEK,ATX,ATX,166 mm,320 mm,6,0,0,black,TRUE,TRUE,TRUE,FALSE,215,402.5,459.5
+Raijintek SILENOS MS Midi-Tower - black,,RAIJINTEK,ATX,ATX,166 mm,320 mm,6,0,0,black,TRUE,TRUE,TRUE,FALSE,215,402.5,459.5
+Raijintek SILENOS MS Midi-Tower - white,,RAIJINTEK,ATX,,166 mm,320 mm,0,0,0,white,TRUE,FALSE,FALSE,FALSE,215,402.5,459.5
+Raijintek SILENOS MS Pro Midi-Tower - black,,RAIJINTEK,ATX,ATX,166 mm,320 mm,6,0,0,black,TRUE,TRUE,TRUE,FALSE,270,465,500
+Raijintek SILENOS MS Pro Midi-Tower - white,,RAIJINTEK,ATX,,166 mm,320 mm,0,0,0,white,FALSE,FALSE,FALSE,FALSE,0,0,0
+Raijintek Silenos Pro A-RGB Midi-Tower,,RAIJINTEK,ATX,ATX,166 mm,320 mm,6,0,0,black,TRUE,TRUE,TRUE,FALSE,270,465,500
+Raijintek STYX Micro-ATX - blue,,RAIJINTEK,Micro-ATX,ATX,180 mm,280 mm,6,3,0,blue,FALSE,FALSE,FALSE,FALSE,210,360,335
+Raijintek STYX Micro-ATX - grün,,RAIJINTEK,Micro-ATX,ATX,180 mm,280 mm,6,3,0,green,FALSE,FALSE,FALSE,FALSE,210,360,335
+Raijintek STYX Micro-ATX - grün Window,,RAIJINTEK,Micro-ATX,ATX,180 mm,280 mm,6,3,0,green,TRUE,FALSE,FALSE,FALSE,210,360,335
+Raijintek STYX Micro-ATX - red,,RAIJINTEK,Micro-ATX,ATX,180 mm,280 mm,6,3,0,red,FALSE,FALSE,FALSE,FALSE,210,360,335
+Raijintek STYX Micro-ATX - red Window,,RAIJINTEK,Micro-ATX,ATX,180 mm,280 mm,6,3,0,red,TRUE,FALSE,FALSE,FALSE,210,360,335
+Raijintek STYX Micro-ATX - black,,RAIJINTEK,Micro-ATX,ATX,180 mm,280 mm,6,3,0,black,FALSE,FALSE,FALSE,FALSE,210,360,335
+Raijintek STYX Micro-ATX - black Window,,RAIJINTEK,Micro-ATX,ATX,180 mm,280 mm,6,3,0,black,TRUE,FALSE,FALSE,FALSE,210,360,335
+Raijintek STYX Micro-ATX - silver,,RAIJINTEK,Micro-ATX,ATX,180 mm,280 mm,6,3,0,silver,FALSE,FALSE,FALSE,FALSE,210,360,335
+Raijintek STYX Micro-ATX - white Window,,RAIJINTEK,Micro-ATX,ATX,180 mm,280 mm,6,3,0,white,TRUE,FALSE,FALSE,FALSE,210,360,335
+Raijintek THETIS Midi-Tower - black,,RAIJINTEK,ATX,ATX,170 mm,280 mm,2,2,0,"gunmetal, black",FALSE,TRUE,TRUE,FALSE,210,360,366
+Raijintek THETIS Midi-Tower - black Window,,RAIJINTEK,ATX,ATX,170 mm,280 mm,2,2,0,"gunmetal, black",TRUE,TRUE,TRUE,FALSE,210,360,366
+Raijintek THETIS Midi-Tower - silver,,RAIJINTEK,ATX,ATX,170 mm,280 mm,2,2,0,"gunmetal, silver",FALSE,TRUE,TRUE,FALSE,210,360,366
+Raijintek THETIS Midi-Tower - silver Window,,RAIJINTEK,ATX,ATX,170 mm,280 mm,2,2,0,"gunmetal, silver",TRUE,TRUE,TRUE,FALSE,210,360,366
+Raijintek Zofos Evo Silent Big-Tower - black,,RAIJINTEK,E-ATX,ATX,190 mm,470 mm,13,10,0,black,FALSE,TRUE,TRUE,TRUE,224,598,617
+"Raijintek Zofos Evo Window Big-Tower - black, Tempered Glass",,RAIJINTEK,E-ATX,ATX,190 mm,470 mm,13,10,0,black,TRUE,TRUE,TRUE,FALSE,224,598,617
+Seasonic SYNCRO Q704 Midi Tower + SYNCRO DGC-650 Gold Netzteil - black,,Seasonic,E-ATX,SYNCRO DPC-650,185 mm,345 mm,3,0,0,black,FALSE,TRUE,TRUE,FALSE,234,537,493
+Seasonic SYNCRO Q704 Midi Tower + SYNCRO DGC-750 Gold Netzteil - black,,Seasonic,E-ATX,SYNCRO DPC-750,185 mm,345 mm,3,0,0,black,FALSE,TRUE,TRUE,FALSE,234,537,493
+Seasonic SYNCRO Q704 Midi Tower + SYNCRO DPC-850 Platinum Netzteil - black,,Seasonic,E-ATX,"ATX, SYNCRO DPC-850",185 mm,345 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,234,537,493
+"Silverstone Alta F1 Midi-Tower, Tempered Glass - black",,Silverstone,ATX,ATX,175 mm,334 mm,4,2,0,black,TRUE,TRUE,FALSE,FALSE,221,461,558
+"Silverstone Alta F1 Midi-Tower, Tempered Glass - silver",,Silverstone,ATX,ATX,175 mm,334 mm,4,2,0,"black, silver, white",TRUE,TRUE,FALSE,FALSE,221,461,558
+"Silverstone Fara B1 Midi-Tower, ARGB, Tempered Glass - black",,Silverstone,ATX,ATX,165322 mm,322 mm,4,1,0,black,TRUE,FALSE,TRUE,FALSE,207,401,446
+"Silverstone Fara B1 Midi-Tower, Tempered Glass - black",,Silverstone,ATX,ATX,165 mm,322 mm,4,1,0,black,TRUE,FALSE,TRUE,FALSE,207,401,446
+"Silverstone Fara B1 Pro Midi-Tower, ARGB, Tempered Glass - black",,Silverstone,ATX,ATX,165 mm,322 mm,7,1,0,black,TRUE,TRUE,FALSE,FALSE,207,401,446
+"Silverstone Fara R1 Pro Midi-Tower, ARGB, Tempered Glass - black",,Silverstone,ATX,ATX,165 mm,322 mm,7,1,0,black,TRUE,TRUE,FALSE,FALSE,207,390,446
+"SilverStone Fara R1 V2 Midi-Tower, Tempered Glas - black",,Silverstone,ATX,ATX,161 mm,340 mm,2,2,0,black,FALSE,TRUE,FALSE,FALSE,207,390,446
+"SilverStone Fara R1 V2 Midi-Tower, Tempered Glass - white",,Silverstone,ATX,ATX,161 mm,340 mm,4,0,0,white,FALSE,TRUE,FALSE,FALSE,207,390,446
+Silverstone Kublai KL06 Micro-ATX - black,,Silverstone,Micro-ATX,ATX,165 mm,368 mm,8,1,0,black,FALSE,TRUE,TRUE,FALSE,211,405,375
+Silverstone Raven Z RVZ03W-ARGB HTPC - white,,Silverstone,Mini-ITX,ATX,83 mm,330 mm,3,0,0,white,FALSE,FALSE,FALSE,FALSE,382,350,105
+"Silverstone Redline RL08 RGB Mini-Tower, TG - black/red Window",$113.81 USD,Silverstone,Micro-ATX,ATX,168 mm,369 mm,2,0,0,red black,TRUE,TRUE,TRUE,FALSE,217,433,391
+"Silverstone Redline RL08 RGB Mini-Tower, TG - black/white Window",$113.41 USD,Silverstone,Micro-ATX,ATX,168 mm,369 mm,2,0,0,black-and-white,TRUE,TRUE,TRUE,FALSE,217,433,391
+"Silverstone Seta A1 Midi-Tower, Tempered Glass - black",,Silverstone,ATX,ATX,175 mm,350 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,225,432,470
+"Silverstone Seta A1 Midi-Tower, Tempered Glass - black/silver",,Silverstone,ATX,ATX,175350180 mm,350 mm,4,0,0,black silver,TRUE,TRUE,TRUE,FALSE,225,432,470
+"Silverstone Seta A1 Midi-Tower, Tempered Glass - white/rosegold",,Silverstone,ATX,ATX,175 mm,350 mm,4,0,0,"gold, white",TRUE,TRUE,TRUE,FALSE,225,432,470
+Silverstone SST-CS380 V2 Midi-Tower - black,,Silverstone,ATX,ATX,146 mm,241 mm,0,0,0,black,FALSE,FALSE,TRUE,FALSE,215.3,487.5,426.5
+"Silverstone SST-FAR1W-PRO Fara R1 PRO ATX, ARGB - white",,Silverstone,ATX,ATX,165 mm,322 mm,4,1,0,black-and-white,TRUE,FALSE,FALSE,FALSE,207,390,446
+Silverstone SST-FT03B Fortress - black,,Silverstone,Micro-ATX,ATX,167 mm,347 mm,1,3,0,black,FALSE,FALSE,TRUE,FALSE,235,284,487
+Silverstone SST-FT03B-Mini Fortress - black,,Silverstone,Mini-ITX,SFX,78 mm,255 mm,2,1,0,black,FALSE,TRUE,FALSE,FALSE,190,235.1,397
+Silverstone SST-FT03S Fortress - silver,,Silverstone,Micro-ATX,ATX,167 mm,347 mm,1,3,0,silver,FALSE,FALSE,TRUE,FALSE,235,284,487
+Silverstone SST-FT03S-Mini Fortress - silver,,Silverstone,Mini-ITX,SFX,78 mm,255 mm,2,1,0,silver,FALSE,TRUE,FALSE,FALSE,190,235.1,397
+Silverstone SST-FT04B-W Fortress Midi-Tower - black Window,,Silverstone,E-ATX,ATX,165 mm,337 mm,4,7,0,black,TRUE,TRUE,TRUE,FALSE,219,482,546
+Silverstone SST-FT05B Fortress Midi-Tower - black,,Silverstone,ATX,ATX,162 mm,310 mm,2,2,0,black,FALSE,TRUE,TRUE,TRUE,221,427,483
+Silverstone SST-FT05B-W Fortress Midi-Tower - black Window,,Silverstone,ATX,ATX,162 mm,310 mm,2,2,0,black,TRUE,TRUE,TRUE,TRUE,221,427,483
+Silverstone SST-FT05S Fortress Midi-Tower - silver,,Silverstone,ATX,ATX,162 mm,310 mm,2,2,0,silver,FALSE,TRUE,TRUE,TRUE,221,427,483
+Silverstone SST-FT05S-W Fortress Midi-Tower - silver Window,,Silverstone,ATX,ATX,162 mm,310 mm,2,2,0,silver,TRUE,TRUE,TRUE,TRUE,221,427,483
+Silverstone SST-FTZ01B Fortress Mini-ITX - black,,Silverstone,Mini-ITX,SFX,83 mm,330 mm,3,1,0,black,FALSE,TRUE,FALSE,FALSE,376,351,107
+Silverstone SST-FTZ01B-E - Fortress Mini-ITX - black,,Silverstone,Mini-ITX,ATX,83 mm,330 mm,4,0,0,black,FALSE,TRUE,FALSE,FALSE,376,351,107
+Silverstone SST-FTZ01S Fortress Mini-ITX - silver,$178.01 USD,Silverstone,Mini-ITX,SFX,83 mm,330 mm,3,1,0,silver,FALSE,TRUE,FALSE,FALSE,376,351,107
+Silverstone SST-FTZ01S-E - Fortress High End Mini-ITX - silver,,Silverstone,Mini-ITX,ATX,83 mm,330 mm,4,0,0,silver,FALSE,FALSE,FALSE,FALSE,376,351,107
+Silverstone SST-GD09-C USB 3.0 Grandia Desktop - black,,Silverstone,ATX,ATX,138 mm,309 mm,1,2,0,black,FALSE,TRUE,FALSE,FALSE,440,358,170
+Silverstone SST-GD10B Grandia Desktop - black,,Silverstone,ATX,ATX,138 mm,309 mm,2,2,0,black,FALSE,TRUE,FALSE,FALSE,442,362,171
+"Silverstone SST-KL05B-Q Kublai Midi-Tower - black, schallgedämmt",,Silverstone,ATX,ATX,165 mm,279 mm,4,6,0,black,FALSE,TRUE,TRUE,TRUE,200,494,525
+Silverstone SST-KL05B-W Kublai Window Midi-Tower - black,,Silverstone,ATX,ATX,165 mm,279 mm,4,6,0,black,TRUE,TRUE,TRUE,FALSE,200,494,525
+Silverstone SST-KL07B Kublai Midi-Tower - black,,Silverstone,ATX,ATX,172 mm,388 mm,6,3,0,black,FALSE,TRUE,TRUE,FALSE,222,467,510
+"Silverstone SST-LD01B Lucid Micro ATX Tower, TG - white/black",$138.23 USD,Silverstone,Micro-ATX,ATX,168 mm,370 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,218,431,390
+Silverstone SST-LD03B Lucid Mini-ITX - black,$123.36 USD,Silverstone,Mini-ITX,"SFX, SFX-L",190 mm,309 mm,1,0,0,black,TRUE,FALSE,TRUE,FALSE,265,230,414
+Silverstone SST-MM01B Mammoth Midi-Tower - black,,Silverstone,E-ATX,ATX,183 mm,338 mm,11,7,0,black,FALSE,TRUE,TRUE,FALSE,271,597,542
+"Silverstone SST-PM01B-FX, Primera Midi-Tower - black",,Silverstone,ATX,ATX,180 mm,419 mm,5,4,0,black,TRUE,TRUE,TRUE,FALSE,220,560,571
+"Silverstone SST-PM01B-RGB Primera Midi-Tower, Tempered Glass - black",,Silverstone,ATX,ATX,180 mm,419 mm,9,4,0,black,TRUE,TRUE,TRUE,FALSE,220,560,571
+Silverstone SST-PM01BR-W Primera Midi-Tower - black Window,,Silverstone,ATX,ATX,180 mm,419 mm,9,4,0,black,TRUE,TRUE,TRUE,FALSE,220,560,571
+"Silverstone SST-PM01C-RGB Primera Midi-Tower, Tempered Glass - matt black",,Silverstone,ATX,ATX,180 mm,419 mm,9,4,0,black,TRUE,TRUE,TRUE,FALSE,220,560,571
+Silverstone SST-PM01CR-W Primera Midi-Tower - mattschwarz Window,,Silverstone,ATX,ATX,180 mm,419 mm,9,4,0,black,TRUE,TRUE,TRUE,FALSE,220,560,571
+Silverstone SST-PM01TR-W Primera Midi-Tower - anthrazit Window,,Silverstone,ATX,ATX,180 mm,419 mm,9,4,0,anthracite,TRUE,TRUE,TRUE,FALSE,220,560,571
+"Silverstone SST-PM01W-FX, Primera Midi-Tower - white",,Silverstone,ATX,ATX,180 mm,419 mm,5,4,0,white,TRUE,TRUE,TRUE,FALSE,220,560,571
+"Silverstone SST-PM01W-RGB Primera Midi-Tower, Tempered Glass - white",,Silverstone,ATX,ATX,180 mm,419 mm,9,4,0,white,TRUE,TRUE,TRUE,FALSE,220,560,571
+Silverstone SST-PM01WA-W Primera Midi-Tower - white Window,,Silverstone,ATX,ATX,180 mm,419 mm,9,4,0,white,TRUE,TRUE,TRUE,FALSE,220,560,571
+"Silverstone SST-PM02B-G Primera Midi-Tower, Tempered Glass - black",$163.51 USD,Silverstone,ATX,ATX,167 mm,415 mm,6,3,0,black,TRUE,TRUE,TRUE,FALSE,220,456,491
+"Silverstone SST-PM02W-G Primera Midi-Tower, Tempered Glass - white",$132.21 USD,Silverstone,ATX,ATX,167 mm,415 mm,6,3,0,white,TRUE,TRUE,TRUE,FALSE,220,456,491
+Silverstone SST-PS08B Precision Midi-Tower - black,,Silverstone,Micro-ATX,ATX,140 mm,358 mm,1,4,0,black,FALSE,TRUE,FALSE,FALSE,168,400,355
+Silverstone SST-PS09B Precision Midi-Tower - black,,Silverstone,Micro-ATX,ATX,140 mm,358 mm,1,4,0,black,FALSE,TRUE,FALSE,TRUE,170,406.6,359.8
+Silverstone SST-PS11B-Q Precision Midi-Tower - black,,Silverstone,ATX,ATX,161 mm,410 mm,2,3,0,black,FALSE,TRUE,TRUE,TRUE,215.3,481.5,426.5
+Silverstone SST-PS11B-W Precision Midi-Tower - black Window,,Silverstone,ATX,ATX,161 mm,410 mm,2,3,0,black,TRUE,TRUE,TRUE,FALSE,215.3,481.5,426.5
+Silverstone SST-PS12B - Precision Mini-Tower - black,,Silverstone,Micro-ATX,ATX,140 mm,358 mm,1,0,0,black,FALSE,FALSE,FALSE,FALSE,170,405,360
+Silverstone SST-PS13B Precision Midi-Tower - black,,Silverstone,ATX,ATX,162 mm,347 mm,2,3,0,black,FALSE,TRUE,FALSE,FALSE,182,400,426
+Silverstone SST-PS14B Midi-Tower - black,,Silverstone,ATX,ATX,165 mm,401 mm,2,2,0,black,FALSE,TRUE,TRUE,FALSE,210,458.6,465
+"Silverstone SST-PS15B-G - Precision Mini-Tower, TG - black",$87.31 USD,Silverstone,Micro-ATX,ATX,154 mm,314 mm,3,0,0,black,TRUE,FALSE,TRUE,FALSE,192,351,381
+"Silverstone SST-PS15B-RGB - Precision Mini-Tower, TG RGB - black",$88.52 USD,Silverstone,Micro-ATX,ATX,154 mm,314 mm,3,0,0,black,TRUE,FALSE,TRUE,FALSE,192,351,381
+Silverstone SST-RL05BR-W 3.0 Redline Midi-Tower - black/red,,Silverstone,ATX,ATX,165 mm,374 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,210,450,465
+"Silverstone SST-RL06BR-GP Redline Midi-Tower, TG - black/red",$97.77 USD,Silverstone,ATX,ATX,158 mm,348 mm,5,3,0,"pink, black",TRUE,TRUE,TRUE,FALSE,200,455,477
+Silverstone SST-RL06BR-PRO Redline Midi-Tower - black/red Window,,Silverstone,ATX,ATX,158 mm,348 mm,5,3,0,black,TRUE,TRUE,TRUE,FALSE,200,455,477
+"Silverstone SST-RL06WS-GP Redline Midi-Tower, TG - white/silver",$111.34 USD,Silverstone,ATX,ATX,158 mm,348 mm,5,3,0,"black, silver, white",TRUE,TRUE,TRUE,FALSE,200,455,477
+"Silverstone SST-RL07B-G Redline Midi-Tower, Tempered Glass - black",$113.01 USD,Silverstone,ATX,ATX,167 mm,415 mm,6,3,0,black,TRUE,TRUE,TRUE,FALSE,226,465,488
+"Silverstone SST-RL07W-G Redline Midi-Tower, Tempered Glass - white",$154.46 USD,Silverstone,ATX,ATX,167 mm,415 mm,6,3,0,white,TRUE,TRUE,TRUE,FALSE,226,465,488
+Silverstone SST-RV03B-W Raven 3 Big-Tower - black/gold,,Silverstone,E-ATX,ATX,163 mm,340 mm,2,10,0,"gold, black",FALSE,TRUE,TRUE,FALSE,235,570,522
+Silverstone SST-RV03B-WA Raven 3 Big-Tower - black/grey,,Silverstone,E-ATX,ATX,163 mm,340 mm,2,10,0,grey black,FALSE,TRUE,TRUE,FALSE,235,570,522
+Silverstone SST-RV04B-W USB 3.0 Raven Big-Tower - black,,Silverstone,E-ATX,ATX,163 mm,338 mm,4,7,0,black,TRUE,TRUE,TRUE,FALSE,219,581,497
+Silverstone SST-RV05B-W Raven Midi-Tower - black Window,,Silverstone,ATX,ATX,162 mm,310 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,242,498,529
+Silverstone SST-RVX01BA-W Raven Midi-Tower - black/blue Window,,Silverstone,ATX,ATX,159 mm,345 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,215,500,485
+Silverstone SST-RVX01BR Raven Midi-Tower - black/red,,Silverstone,ATX,ATX,162 mm,345 mm,4,4,0,black,FALSE,TRUE,TRUE,FALSE,215,500,485
+Silverstone SST-RVX01BR-W Raven Midi-Tower - black/red Window,,Silverstone,ATX,ATX,159 mm,345 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,215,500,485
+Silverstone SST-RVX01BV-W Raven Midi-Tower - black/grün Window,,Silverstone,ATX,ATX,159 mm,345 mm,4,4,0,black,TRUE,TRUE,TRUE,FALSE,215,500,485
+Silverstone SST-RVZ01B-E Raven Z Mini-ITX - black,,Silverstone,Mini-ITX,ATX,83 mm,330 mm,4,0,0,black,FALSE,FALSE,FALSE,FALSE,382,350,105
+Silverstone SST-RVZ02B Raven HTPC - black,,Silverstone,Mini-ITX,"SFX, SFX-L",58 mm,330 mm,3,1,0,black,FALSE,FALSE,FALSE,FALSE,380,370,87
+Silverstone SST-RVZ02B-W Raven HTPC - black,,Silverstone,Mini-ITX,"SFX, SFX-L",58 mm,330 mm,3,1,0,black,FALSE,FALSE,FALSE,FALSE,380,370,87
+Silverstone SST-RVZ03B Raven HTPC - black,,Silverstone,Mini-ITX,ATX,83 mm,330 mm,4,0,0,black,FALSE,FALSE,FALSE,FALSE,382,350,105
+Silverstone SST-RVZ03B-ARGB Raven HTPC - black,$120.96 USD,Silverstone,Mini-ITX,ATX,83 mm,330 mm,3,0,0,black,FALSE,FALSE,FALSE,FALSE,382,350,105
+"SilverStone SST-SEH1B-G - SETA H1 Midi-Tower, Tempered Glass - black",,Silverstone,E-ATX,ATX,182 mm,394 mm,2,2,0,black,FALSE,TRUE,FALSE,FALSE,232,480,494
+Silverstone SST-SEQ1B SETA Q1 Midi-Tower - black,$271.13 USD,Silverstone,E-ATX,,182 mm,394 mm,4,2,0,grey black,FALSE,TRUE,FALSE,TRUE,232,493.5,490.7
+Silverstone SST-SG06S USB 3.0 Sugo inkl. 300W Netzteil - silver,,Silverstone,Mini-ITX,SFX,82 mm,254 mm,1,1,0,silver,FALSE,FALSE,FALSE,FALSE,220,286,177
+Silverstone SST-SG07B-W Sugo Window inkl. 600W Netzteil - black,,Silverstone,Mini-ITX,ATX,117 mm,30 mm,2,1,0,black,FALSE,TRUE,FALSE,FALSE,222,350,190
+Silverstone SST-SG13B Sugo USB3.0 - black,,Silverstone,Mini-ITX,ATX,60 mm,267 mm,3,1,0,black,FALSE,TRUE,FALSE,FALSE,222,285,181
+Silverstone SST-SG13B-Q Sugo USB3.0 - black,$43.51 USD,Silverstone,Mini-ITX,ATX,60 mm,267 mm,3,1,0,black,FALSE,FALSE,FALSE,FALSE,222,285,181
+Silverstone SST-SG13WB Sugo USB3.0 - white,,Silverstone,Mini-ITX,ATX,60 mm,267 mm,3,1,0,white,FALSE,TRUE,FALSE,FALSE,222,285,181
+Silverstone SST-SG13WB-Q Sugo USB3.0 - white,,Silverstone,Mini-ITX,ATX,60 mm,267 mm,3,1,0,white,FALSE,FALSE,FALSE,FALSE,222,285,181
+Silverstone SST-TJ08B-E TemJin Midi-Tower - black,,Silverstone,Micro-ATX,ATX,165 mm,336 mm,1,5,0,black,FALSE,TRUE,TRUE,FALSE,210,385,374
+Singularity Computers Spectre 2.0 Showcase - black,,Singularity Computers,E-ATX,ATX,155 mm,500 mm,3,0,0,black,TRUE,FALSE,TRUE,FALSE,303,533,575
+Singularity Computers Spectre 2.0 Showcase - white,,Singularity Computers,E-ATX,ATX,155 mm,500 mm,3,0,0,white,TRUE,FALSE,TRUE,FALSE,303,533,575
+Singularity Computers Wraith Mini-ITX - black,,Singularity Computers,Mini-ITX,SFX,130 mm,300 mm,3,1,0,black,TRUE,FALSE,TRUE,FALSE,170,407,407
+Streacom DA2 Mini-ITX - black,,Streacom,Mini-ITX,"ATX, SFX, SFX-L",145 mm,330 mm,6,3,0,black,FALSE,FALSE,FALSE,FALSE,50,330,150
+Streacom DA2 Mini-ITX - silver,,Streacom,Mini-ITX,"ATX, SFX, SFX-L",145 mm,330 mm,6,3,0,silver,FALSE,FALSE,FALSE,FALSE,50,330,150
+"Thermaltake A500 TG Aluminum Midi-Tower, Tempered Glass - space grey",$268.38 USD,Thermaltake,ATX,ATX,160 mm,420 mm,0,1,0,"grey, silver",TRUE,TRUE,TRUE,FALSE,236,510,560
+"Thermaltake AH T600 Snow Edition Showcase, Tempered Glass - white",,Thermaltake,E-ATX,ATX,195 mm,440 mm,3,2,0,white,TRUE,FALSE,TRUE,FALSE,337,763,628.3
+"Thermaltake AH T600 TG Showcase, Tempered Glass - black",,Thermaltake,E-ATX,ATX,195 mm,440 mm,2,3,0,black,TRUE,FALSE,TRUE,FALSE,337,763,628.3
+Thermaltake Commander C31 TG ARGB Tempered Glass Midi-Tower - black,$111.7 USD,Thermaltake,ATX,ATX,180 mm,410 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,233,507,462
+Thermaltake Commander C33 TG ARGB Tempered Glass Midi-Tower - black,,Thermaltake,ATX,ATX,180 mm,410 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,233,518,462
+Thermaltake Commander MS-I Snow Edition Midi-Tower - white/black,$76.04 USD,Thermaltake,ATX,ATX,170 mm,320 mm,1,5,0,black-and-white,FALSE,TRUE,TRUE,FALSE,202,484,426
+Thermaltake Commander MS-I USB 3.0 Midi-Tower - black,,Thermaltake,ATX,ATX,170 mm,320 mm,1,5,0,black,FALSE,TRUE,TRUE,FALSE,202,484,426
+"Thermaltake Core P1, Tempered Glass - black",$152.11 USD,Thermaltake,Mini-ITX,ATX,170 mm,380 mm,4,1,0,black,TRUE,FALSE,TRUE,FALSE,332,380,422
+Thermaltake Core P3 - black Window,,Thermaltake,ATX,ATX,180 mm,280 mm,4,4,0,black,TRUE,FALSE,TRUE,FALSE,470,333,512
+Thermaltake Core P3 - white Window,,Thermaltake,ATX,ATX,180 mm,280 mm,4,4,0,white,TRUE,FALSE,TRUE,FALSE,470,333,512
+"Thermaltake Core P3 TG Curved Edition, Tempered Glass - black",,Thermaltake,ATX,ATX,180 mm,280 mm,5,4,0,black,TRUE,FALSE,TRUE,FALSE,470,333,512
+Thermaltake Core P3 TG Showcase - black,$119.68 USD,Thermaltake,ATX,ATX,180 mm,280 mm,5,4,0,black,TRUE,FALSE,TRUE,FALSE,470,333,512
+"Thermaltake Core P3 TG Snow Edition, Tempered Glass - white",$119.68 USD,Thermaltake,ATX,ATX,180 mm,280 mm,5,4,0,white,TRUE,FALSE,TRUE,FALSE,470,333,512
+Thermaltake Core P5 - Green Edition Window,$162.48 USD,Thermaltake,ATX,ATX,180 mm,280 mm,4,4,0,green,TRUE,TRUE,TRUE,FALSE,570,333,608
+Thermaltake Core P5 - black Window,$154.06 USD,Thermaltake,ATX,ATX,180 mm,280 mm,4,4,0,black,TRUE,FALSE,TRUE,FALSE,570,333,608
+"Thermaltake Core P5 Ti, Tempered Glass - Space Grey",$175.53 USD,Thermaltake,ATX,ATX,180 mm,280 mm,6,6,0,gray,TRUE,FALSE,TRUE,FALSE,570,333,608
+"Thermaltake Core P5, Tempered Glass - black",$257.66 USD,Thermaltake,ATX,ATX,180 mm,280 mm,4,4,0,black,TRUE,FALSE,TRUE,FALSE,570,333,608
+"Thermaltake Core P5, Tempered Glass - Snow Edition",$268.38 USD,Thermaltake,ATX,ATX,180 mm,280 mm,4,4,0,white,TRUE,FALSE,TRUE,FALSE,570,333,608
+Thermaltake Core P90 TG Tempered Glass Showcase - black,$182.9 USD,Thermaltake,ATX,ATX,180 mm,320 mm,7,4,0,black,TRUE,FALSE,TRUE,FALSE,470,470,615
+Thermaltake Core V1 Mini-ITX - black Window,$54.4 USD,Thermaltake,Mini-ITX,ATX,140 mm,285 mm,2,2,0,black,FALSE,TRUE,TRUE,FALSE,260,316,276
+Thermaltake Core V1 Snow Edition Mini-ITX - white Window,$54.4 USD,Thermaltake,Mini-ITX,ATX,140 mm,285 mm,2,2,0,white,FALSE,TRUE,FALSE,FALSE,260,316,276
+Thermaltake Core V21 Micro-ATX - black,$65.28 USD,Thermaltake,Micro-ATX,ATX,185 mm,350 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,320,424,336
+Thermaltake Core V31 Window Midi-Tower - black,$72.53 USD,Thermaltake,ATX,ATX,155 mm,420 mm,5,3,0,black,TRUE,TRUE,TRUE,FALSE,208,506,470
+Thermaltake Core V51 Midi-Tower - black,,Thermaltake,E-ATX,ATX,185 mm,480 mm,5,5,0,black,TRUE,TRUE,TRUE,FALSE,236,560,540
+Thermaltake Core V71 Big-Tower - black,,Thermaltake,E-ATX,ATX,185 mm,400 mm,8,8,0,black,TRUE,TRUE,TRUE,FALSE,230,560,538
+Thermaltake Core V71 TG Big-Tower - black,$180.22 USD,Thermaltake,E-ATX,ATX,185 mm,480 mm,8,8,0,black,TRUE,TRUE,TRUE,FALSE,230,560,538
+Thermaltake Core X31 TG Tempered Glass Midi-Tower - black,$119.22 USD,Thermaltake,ATX,ATX,180 mm,420 mm,7,5,0,black,TRUE,TRUE,TRUE,FALSE,250,511,497
+"Thermaltake Core X5 ATX-Cube, Tempered Glass - black",$194.76 USD,Thermaltake,E-ATX,ATX,230 mm,480 mm,7,4,0,black,TRUE,TRUE,TRUE,FALSE,371,540,463
+"Thermaltake Core X5 ATX-Cube, Tempered Glass - white",$181.34 USD,Thermaltake,E-ATX,ATX,230 mm,480 mm,7,4,0,white,TRUE,TRUE,TRUE,FALSE,371,540,463
+Thermaltake Core X71 TG Tempered Glass Big-Tower - black,$208.16 USD,Thermaltake,ATX,ATX,180 mm,420 mm,9,8,0,black,TRUE,TRUE,TRUE,FALSE,250,511,677
+"Thermaltake DistroCase 350P, Tempered Glass - black",,Thermaltake,ATX,ATX,130 mm,320 mm,2,0,0,black,TRUE,FALSE,TRUE,FALSE,567,333,490
+Thermaltake Level 10 GT Snow Edition Big-Tower - white/black,$196.48 USD,Thermaltake,E-ATX,ATX,190 mm,360 mm,5,5,0,black-and-white,FALSE,TRUE,TRUE,FALSE,282,590,584
+"Thermaltake Level 20 GT ARGB Big-Tower, Tempered Glass - black",,Thermaltake,E-ATX,ATX,200 mm,310 mm,10,7,0,black silver,TRUE,TRUE,TRUE,FALSE,294,592,580
+"Thermaltake Level 20 GT ARGB Black Edition Big-Tower, Tempered Glass - black",,Thermaltake,E-ATX,ATX,200 mm,310 mm,10,7,0,black,TRUE,TRUE,TRUE,FALSE,294,592,580
+"Thermaltake Level 20 GT Big-Tower, Tempered Glass - black",$145.07 USD,Thermaltake,E-ATX,ATX,200 mm,310 mm,10,7,0,black,TRUE,TRUE,TRUE,FALSE,294,592,580
+"Thermaltake Level 20 GT RGB Plus Big-Tower, Tempered Glass - black",$217.61 USD,Thermaltake,E-ATX,ATX,200 mm,310 mm,10,7,0,black,TRUE,TRUE,TRUE,FALSE,294,592,580
+"Thermaltake Level 20 HT Big-Tower, Tempered Glass - black",,Thermaltake,E-ATX,ATX,260 mm,400 mm,1,0,0,black,TRUE,TRUE,TRUE,FALSE,613,503,468
+"Thermaltake Level 20 HT Snow Edition Big-Tower, Tempered Glass - white",,Thermaltake,E-ATX,ATX,260 mm,400 mm,1,0,0,white,TRUE,TRUE,TRUE,FALSE,613,503,468
+"Thermaltake Level 20 MT ARGB Midi-Tower, Tempered Glass - black",$76.16 USD,Thermaltake,ATX,ATX,170 mm,366 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,204,471,455
+"Thermaltake Level 20 RS ARGB, Midi-Tower - black",,Thermaltake,ATX,ATX,172 mm,282 mm,1,0,0,black,TRUE,TRUE,TRUE,FALSE,240.8,553,524
+Thermaltake Level 20 Showcase - black,,Thermaltake,E-ATX,ATX,200 mm,260 mm,0,0,0,black silver,TRUE,TRUE,TRUE,FALSE,280,732,688
+Thermaltake Level 20 VT Micro-ATX - black,$87.04 USD,Thermaltake,Micro-ATX,ATX,185 mm,350 mm,6,3,0,black silver,TRUE,TRUE,TRUE,FALSE,348,430,330
+Thermaltake Level 20 XT E-ATX Cube - black,$211.06 USD,Thermaltake,E-ATX,ATX,250 mm,400 mm,8,7,0,black silver,TRUE,TRUE,TRUE,FALSE,515,623,394
+Thermaltake Overseer RX-I Big-Tower Window - black,,Thermaltake,E-ATX,ATX,177 mm,344 mm,5,5,0,black,TRUE,TRUE,TRUE,FALSE,220,580,535
+"Thermaltake S500 TG Snow Edition Midi-Tower, Tempered Glass - white",,Thermaltake,ATX,ATX,172 mm,282 mm,1,0,0,white,TRUE,FALSE,TRUE,FALSE,240,500,565
+Thermaltake Suppressor F1 Mini-ITX - black Window,$79.79 USD,Thermaltake,Mini-ITX,ATX,140 mm,285 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,260,319,276
+Thermaltake Suppressor F31 Midi-Tower - black,,Thermaltake,ATX,ATX,180 mm,420 mm,3,3,0,black,FALSE,TRUE,TRUE,TRUE,250,577,515
+Thermaltake Suppressor F31 Midi-Tower - black Window,,Thermaltake,ATX,ATX,180 mm,420 mm,3,3,0,black,TRUE,TRUE,TRUE,TRUE,250,577,515
+Thermaltake V200 TG RGB Edition Midi-Tower - black,,Thermaltake,ATX,ATX,160 mm,380 mm,3,2,0,black,TRUE,FALSE,FALSE,FALSE,204,439,446
+"Thermaltake V250 TG ARGB Midi-Tower, Tempered Glass - black",,Thermaltake,ATX,,160 mm,320 mm,0,0,0,black,FALSE,FALSE,FALSE,FALSE,0,0,0
+Thermaltake Versa C21 RGB Midi-Tower - black Window,$70.92 USD,Thermaltake,ATX,ATX,160 mm,390 mm,3,2,0,black,TRUE,TRUE,FALSE,FALSE,216,469,521
+Thermaltake Versa C22 RGB Midi-Tower - black Window,$74.37 USD,Thermaltake,ATX,ATX,160 mm,390 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,198,480,538
+"Thermaltake Versa C23 TG RGB Midi-Tower, Tempered Glass - black",$93.22 USD,Thermaltake,ATX,ATX,155 mm,400 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,200,508,510
+"Thermaltake Versa G2 Midi Tower, Seitenfenster - black",,Thermaltake,ATX,ATX,165 mm,320 mm,1,5,0,black,FALSE,TRUE,TRUE,FALSE,196,481,429
+Thermaltake Versa H15 Micro-ATX Tower - black,$36.26 USD,Thermaltake,Micro-ATX,ATX,155 mm,315 mm,3,3,0,black,FALSE,TRUE,TRUE,FALSE,198,411,378
+Thermaltake Versa H21 Midi-Tower - black,$47.14 USD,Thermaltake,ATX,ATX,155 mm,315 mm,3,3,0,black,FALSE,TRUE,TRUE,FALSE,209,480,429
+Thermaltake Versa H22 Midi-Tower - black,$43.52 USD,Thermaltake,ATX,ATX,155 mm,315 mm,3,3,0,black,FALSE,TRUE,TRUE,FALSE,209,480,429
+Thermaltake Versa H23 Midi-Tower - black,,Thermaltake,ATX,ATX,155 mm,315 mm,3,3,0,black,FALSE,TRUE,TRUE,FALSE,209,491,429
+Thermaltake Versa H34 Midi-Tower - black Window,$91.41 USD,Thermaltake,ATX,ATX,155 mm,420 mm,5,3,0,black,TRUE,TRUE,TRUE,FALSE,209,478,429
+Thermaltake Versa J21 TG Midi-Tower - black,$56.27 USD,Thermaltake,ATX,ATX,160 mm,310 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,205,447,465
+Thermaltake Versa N23 Midi-Tower - black Window,$85.17 USD,Thermaltake,ATX,ATX,160 mm,360 mm,4,3,0,black,TRUE,FALSE,TRUE,FALSE,194,503,455
+Thermaltake Versa N27 Midi-Tower - black Window,,Thermaltake,ATX,ATX,160 mm,360 mm,5,4,0,black,TRUE,FALSE,TRUE,FALSE,201,473,502
+Thermaltake Versa N27 Snow Midi-Tower - white Window,,Thermaltake,ATX,ATX,160 mm,360 mm,5,4,0,white,TRUE,FALSE,TRUE,FALSE,201,473,502
+Thermaltake View 21 Tempered Glass Edition Midi-Tower - black,$94.29 USD,Thermaltake,ATX,ATX,160 mm,410 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,208,492,471
+Thermaltake View 22 TG Tempered Glass Midi-Tower - black,$76.74 USD,Thermaltake,ATX,ATX,160 mm,400 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,223,467,491
+"Thermaltake View 23 TG ARGB Sync Midi-Tower - black, Window",,Thermaltake,ATX,ATX,170 mm,366 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,203,466,441
+Thermaltake View 27 Midi-Tower - black Window,,Thermaltake,ATX,ATX,155 mm,410 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,201,479,508
+Thermaltake View 28 RGB Midi-Tower - black Window,,Thermaltake,ATX,ATX,155 mm,410 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,200,505,493
+Thermaltake View 28 RGB Riing Edition Midi-Tower - black Window,,Thermaltake,ATX,ATX,155 mm,410 mm,6,2,0,black,TRUE,TRUE,TRUE,FALSE,200,505,493
+"Thermaltake View 31 Midi-Tower, Tempered Glass - black",$89.9 USD,Thermaltake,ATX,ATX,180 mm,420 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,250,511,497
+"Thermaltake View 31 RGB Midi-Tower, Tempered Glass - black",$137.09 USD,Thermaltake,ATX,ATX,180 mm,420 mm,3,3,0,black,TRUE,TRUE,TRUE,FALSE,250,511,497
+Thermaltake View 31 TG ARGB Midi-Tower - black,,Thermaltake,ATX,ATX,180 mm,420 mm,0,0,0,black,TRUE,TRUE,TRUE,FALSE,250,511,497
+Thermaltake View 32 TG RGB Midi-Tower - black,$145.42 USD,Thermaltake,ATX,ATX,160 mm,400 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,227,524,480
+Thermaltake View 37 RGB Plus Midi-Tower - black Window,$178.25 USD,Thermaltake,E-ATX,ATX,180 mm,410 mm,11,7,0,"black, transparent",TRUE,TRUE,TRUE,FALSE,261,525,538
+"Thermaltake View 51 TG ARGB Midi-Tower, Tempered Glass - black",,Thermaltake,ATX,ATX,175 mm,300 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,315,525,550
+"Thermaltake View 51 TG ARGB Midi-Tower, Tempered Glass - white",,Thermaltake,ATX,ATX,175 mm,300 mm,2,0,0,white,TRUE,TRUE,TRUE,FALSE,315,525,550
+"Thermaltake View 71 TG Big-Tower, Tempered Glass - black",$188.99 USD,Thermaltake,E-ATX,ATX,190 mm,410 mm,6,4,0,black,TRUE,TRUE,TRUE,FALSE,274,577,592
+"Thermaltake View 71 TG RGB Big-Tower, Tempered Glass - black",$230.62 USD,Thermaltake,E-ATX,ATX,190 mm,410 mm,12,7,0,black,TRUE,TRUE,TRUE,FALSE,274,577,592
+"Thermaltake View 71 TG RGB Plus Big-Tower, Tempered Glass - black",$290.46 USD,Thermaltake,E-ATX,ATX,190 mm,410 mm,10,7,0,black,TRUE,TRUE,TRUE,FALSE,274,577,592
+"Thermaltake View 71 TG Snow Big-Tower, Tempered Glass - white",$195.84 USD,Thermaltake,E-ATX,ATX,190 mm,410 mm,12,7,0,white,TRUE,TRUE,TRUE,FALSE,274,577,592
+Thermaltake View 91 TG RGB Super Tower - black,$389.55 USD,Thermaltake,E-ATX,ATX,200 mm,470 mm,12,12,0,black,TRUE,TRUE,TRUE,FALSE,344,645,691
+Zalman i3 Midi-Tower - black,,Zalman,ATX,,175 mm,360 mm,3,0,0,black,TRUE,FALSE,TRUE,FALSE,204,445,479
+Zalman K1 Midi-Tower - black,,Zalman,ATX,ATX,190 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,210,450,458
+Zalman K1 Rev. A Midi-Tower - black,,Zalman,ATX,ATX,178 mm,380 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,212,398,465
+Zalman K1 Rev. B Midi-Tower - black,,Zalman,ATX,ATX,178 mm,380 mm,2,0,0,black,TRUE,TRUE,FALSE,FALSE,210,450,458
+Zalman M2 Mini Mini-ITX - grey,,Zalman,Mini-ITX,"SFX-L, SFX",60 mm,295 mm,2,0,0,grey black,TRUE,TRUE,FALSE,FALSE,150,328,235
+Zalman M2 Mini Mini-ITX - silver,,Zalman,Mini-ITX,"SFX-L, SFX",60 mm,295 mm,2,0,0,silver,TRUE,TRUE,FALSE,FALSE,150,328,235
+Zalman M3 Micro-ATX - black,,Zalman,Micro-ATX,ATX,165 mm,330 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,210,407,457
+Zalman M3 Plus Micro-ATX - black,,Zalman,Micro-ATX,ATX,165 mm,330 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,210,407,457
+Zalman M3 Plus RGB Micro-ATX - black,,Zalman,Micro-ATX,ATX,165 mm,330 mm,4,2,0,black,TRUE,FALSE,TRUE,FALSE,210,407,457
+Zalman R1 Midi-Tower - black,$73.2 USD,Zalman,ATX,ATX,160 mm,360 mm,1,4,0,black,TRUE,TRUE,TRUE,FALSE,192,450,465
+Zalman R1 Midi-Tower - white,,Zalman,ATX,ATX,160 mm,360 mm,1,4,0,"silver, white",TRUE,TRUE,TRUE,FALSE,192,450,465
+Zalman R2 Midi-Tower - black,,Zalman,E-ATX,ATX,162 mm,350 mm,2,2,0,black,TRUE,TRUE,TRUE,FALSE,207,420,457
+Zalman R2 Midi-Tower - white,,Zalman,E-ATX,ATX,162 mm,350 mm,2,2,0,white,TRUE,TRUE,TRUE,FALSE,207,420,457
+Zalman S2 Midi-Tower - black,,Zalman,ATX,ATX,156 mm,330 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,189,412,451
+Zalman S2 TG Midi-Tower - black,,Zalman,ATX,ATX,156 mm,330 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,196,424,462
+Zalman S3 Midi-Tower - black,,Zalman,ATX,ATX,156 mm,330 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,189,412,451
+Zalman S3 TG Midi-Tower - black,,Zalman,ATX,ATX,156 mm,330 mm,2,0,0,black,TRUE,TRUE,TRUE,FALSE,196,424,462
+Zalman S4 Midi-Tower - black,,Zalman,ATX,ATX,160 mm,315 mm,1,1,0,black,TRUE,TRUE,TRUE,FALSE,206,380,458
+Zalman S4 Plus Midi-Tower - black,,Zalman,ATX,ATX,160 mm,315 mm,1,0,0,grey black,TRUE,TRUE,TRUE,FALSE,206,400,458
+Zalman S5 Midi-Tower - white,,Zalman,ATX,ATX,163 mm,340 mm,4,0,0,white,TRUE,FALSE,TRUE,FALSE,212,398,465
+"Zalman S5 Midi-Tower, Tempered Glass - black",,Zalman,ATX,ATX,163 mm,340 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,212,398,465
+Zalman T6 Midi-Tower - black,,Zalman,ATX,ATX,165 mm,280 mm,2,0,0,black,FALSE,FALSE,TRUE,FALSE,200,377,430
+Zalman T7 Midi-Tower - black,,Zalman,ATX,ATX,160 mm,305 mm,4,0,0,black,TRUE,FALSE,TRUE,FALSE,202,384,438
+"Zalman T8 Midi-Tower, RGB - black",,Zalman,ATX,ATX,160 mm,295 mm,4,0,0,black,FALSE,FALSE,TRUE,FALSE,200,394.5,423
+"Zalman X3 Midi-Tower - Tempered Glass, ARGB, black",,Zalman,ATX,ATX,175 mm,350 mm,3,0,0,black,TRUE,TRUE,TRUE,FALSE,210,430,459
+"Zalman X3 Midi-Tower - Tempered Glass, ARGB, white",,Zalman,ATX,ATX,175 mm,350 mm,3,0,0,white,TRUE,TRUE,TRUE,FALSE,210,430,459
+Zalman Z-Machine 300 Mini-ITX - grey,,Zalman,Mini-ITX,"SFX, SFX-L",72 mm,310 mm,3,0,0,gray,TRUE,FALSE,TRUE,FALSE,160,330,310
+Zalman Z-Machine 300 Mini-ITX - silver,,Zalman,Mini-ITX,"SFX, SFX-L",72 mm,310 mm,3,0,0,silver,TRUE,FALSE,TRUE,FALSE,160,330,310
+Zalman Z1 Neo Midi-Tower - black,,Zalman,ATX,ATX,160 mm,375 mm,5,4,0,black,TRUE,TRUE,TRUE,FALSE,203,464,445
+Zalman Z1 Plus Midi-Tower - black,,Zalman,ATX,ATX,163 mm,385 mm,3,2,0,black,TRUE,TRUE,FALSE,FALSE,209,463,485
+Zalman Z11 Neo Midi-Tower - black,,Zalman,ATX,ATX,175 mm,400 mm,8,6,0,black,TRUE,TRUE,TRUE,FALSE,205,515,465
+Zalman Z3 Iceberg Midi-Tower - black,,Zalman,E-ATX,ATX,163 mm,315 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,210,410,480
+Zalman Z3 Midi-Tower - black,,Zalman,ATX,ATX,165 mm,360 mm,5,4,0,black,FALSE,TRUE,TRUE,FALSE,192,430,465
+Zalman Z3 Neo Midi-Tower - black,,Zalman,E-ATX,ATX,165 mm,340 mm,4,0,0,black,TRUE,TRUE,TRUE,FALSE,210,410,480
+Zalman Z7 Neo Midi-Tower - black,,Zalman,ATX,ATX,165 mm,355 mm,0,0,0,black,TRUE,FALSE,TRUE,FALSE,213,420,460
+Zalman Z9 Iceberg Midi-Tower - white,,Zalman,E-ATX,ATX,185 mm,390 mm,3,2,0,black-and-white,TRUE,TRUE,TRUE,FALSE,245,473,496
+Zalman Z9 Neo Midi-Tower - black,,Zalman,ATX,ATX,160 mm,420 mm,4,2,0,black,TRUE,TRUE,TRUE,TRUE,205,482,490
+Zalman Z9 Neo Midi-Tower - white,,Zalman,ATX,ATX,160 mm,420 mm,4,2,0,white,TRUE,TRUE,TRUE,TRUE,205,482,490
+Zalman Z9 Neo Plus Midi-Tower - black,,Zalman,ATX,ATX,160 mm,400 mm,4,2,0,black,TRUE,TRUE,TRUE,FALSE,205,482,490
+Zalman Z9 Neo Plus Midi-Tower - white,,Zalman,ATX,ATX,160 mm,400 mm,4,2,0,black-and-white,TRUE,TRUE,TRUE,FALSE,205,482,490
