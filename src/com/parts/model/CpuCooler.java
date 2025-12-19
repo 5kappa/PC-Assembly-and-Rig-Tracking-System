@@ -8,6 +8,7 @@ import java.util.List;
 public class CpuCooler extends Component {
     // Properties for compatibility checking
     private int heightMm;
+    private int radiatorSizeMm;
     private List<String> supportedSockets;
 
     private boolean supportsAdditionalFans;
@@ -19,13 +20,15 @@ public class CpuCooler extends Component {
     private boolean isFanless;
 
     public CpuCooler(String id, String name, String manufacturer, double price,
-                     int heightMm, String supportedSockets, boolean supportsAdditionalFans,
-                     String fanRPM, String noiseLevelDb, int noiseLevelAverageDb,
-                     String color, boolean isWaterCooled, boolean isFanless) {
+                     int heightMm, int radiatorSizeMm, String supportedSockets,
+                     boolean supportsAdditionalFans, String fanRPM, String noiseLevelDb,
+                     int noiseLevelAverageDb, String color, boolean isWaterCooled,
+                     boolean isFanless) {
        
         super(id, name, manufacturer, price);
 
         this.heightMm = heightMm;
+        this.radiatorSizeMm = radiatorSizeMm;
         this.supportsAdditionalFans = supportsAdditionalFans;
         this.fanRPM = fanRPM;
         this.noiseLevelDb = noiseLevelDb;
@@ -38,6 +41,7 @@ public class CpuCooler extends Component {
     }
 
     public int getHeightMm() { return heightMm; }
+    public int getRadiatorSizeMm() { return radiatorSizeMm; }
     public List<String> getSupportedSockets() { return new ArrayList<>(supportedSockets); }
 
     public boolean supportsAdditionalFans() { return supportsAdditionalFans; }
