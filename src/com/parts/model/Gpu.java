@@ -9,6 +9,7 @@ public class Gpu extends Component {
     private List<String> requiredPowerConnectors;
     private int lengthMm;
     private int caseExpansionSlotWidth;
+    private String profile;
 
     // GPU-specific properties
     private String graphicsProcessor;
@@ -26,8 +27,8 @@ public class Gpu extends Component {
 
     public Gpu(String id, String name, String manufacturer, double price, String interfaceType,
                String requiredPowerConnectorsCsv, int lengthMm, int caseExpansionSlotWidth,
-               String graphicsProcessor, int vramGBs, String memoryType, int coreClockMHz,
-               int boostClockMHz, int tdpWatts, String color, String coolingType,
+               String profile, String graphicsProcessor, int vramGBs, String memoryType,
+               int coreClockMHz, int boostClockMHz, int tdpWatts, String color, String coolingType,
                int hdmiPortCount, int displayPortCount) {
 
         super(id, name, manufacturer, price);
@@ -35,6 +36,7 @@ public class Gpu extends Component {
         this.interfaceType = interfaceType;
         this.lengthMm = lengthMm;
         this.caseExpansionSlotWidth = caseExpansionSlotWidth;
+        this.profile = profile;
 
         this.graphicsProcessor = graphicsProcessor;
         this.vramGBs = vramGBs;
@@ -55,6 +57,7 @@ public class Gpu extends Component {
     public List<String> getRequiredPowerConnectors() { return new ArrayList<>(requiredPowerConnectors); }
     public int getLengthMm() { return lengthMm; }
     public int getCaseExpansionSlotWidth() { return caseExpansionSlotWidth; }
+    public String getProfile() { return profile; }
 
     public String getGraphicsProcessor() { return graphicsProcessor; }
     public int getVramGBs() { return vramGBs; }
