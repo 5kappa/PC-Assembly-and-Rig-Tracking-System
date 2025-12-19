@@ -11,7 +11,6 @@ public class CpuCooler extends Component {
     private int radiatorSizeMm;
     private List<String> supportedSockets;
 
-    private boolean supportsAdditionalFans;
     private String fanRPM;
     private String noiseLevelDb;
     private int noiseLevelAverageDb;
@@ -21,15 +20,13 @@ public class CpuCooler extends Component {
 
     public CpuCooler(String id, String name, String manufacturer, double price,
                      int heightMm, int radiatorSizeMm, String supportedSockets,
-                     boolean supportsAdditionalFans, String fanRPM, String noiseLevelDb,
-                     int noiseLevelAverageDb, String color, boolean isWaterCooled,
-                     boolean isFanless) {
+                     String fanRPM, String noiseLevelDb, int noiseLevelAverageDb,
+                     String color, boolean isWaterCooled, boolean isFanless) {
        
         super(id, name, manufacturer, price);
 
         this.heightMm = heightMm;
         this.radiatorSizeMm = radiatorSizeMm;
-        this.supportsAdditionalFans = supportsAdditionalFans;
         this.fanRPM = fanRPM;
         this.noiseLevelDb = noiseLevelDb;
         this.noiseLevelAverageDb = noiseLevelAverageDb;
@@ -44,7 +41,6 @@ public class CpuCooler extends Component {
     public int getRadiatorSizeMm() { return radiatorSizeMm; }
     public List<String> getSupportedSockets() { return new ArrayList<>(supportedSockets); }
 
-    public boolean supportsAdditionalFans() { return supportsAdditionalFans; }
     public String getFanRPM() { return fanRPM; }
     public String getNoiseLevelDb() { return noiseLevelDb; }
     public int getNoiseLevelAverageDb() { return noiseLevelAverageDb; }
