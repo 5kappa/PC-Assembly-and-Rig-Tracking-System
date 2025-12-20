@@ -2,7 +2,6 @@ package com.parts.model;
 
 /**
  * Limitations:
- * Infer supportedPsuSizes using caseType, then user does a manual check
  * maxPossibleCpuCoolerHeightMm = widthMm - 50 mm, then user does a manual check
  * Once user verifies compatibility, allow saves
  */
@@ -17,7 +16,7 @@ public class Case extends Component {
     private int maxGpuLengthMm;
     private int includedPsuWatts;
     private List<MotherboardFormFactor> supportedMotherboards;
-    private List<IncludedFanGroup> includedFans;
+    private List<String> supportedPsuSizes;
         // Drives
     private int external525BayCount;
     private int external35BayCount;
@@ -36,7 +35,7 @@ public class Case extends Component {
     private String color;
     private String sidePanel;
     private boolean hasPsuShroud;
-    private Map<String, Integer> frontPanelPorts;
+    private List<IncludedFanGroup> includedFans;
 
     // Dimensions
     private int heightMm;
@@ -47,20 +46,21 @@ public class Case extends Component {
     // Constructor
     public Case(String id, String name, String manufacturer, double price, int maxGpuLengthMm,
                 int includedPsuWatts, List<MotherboardFormFactor> supportedMotherboards,
-                List<IncludedFanGroup> includedFans, int external525BayCount,
+                List<String> supportedPsuSizes, List<IncludedFanGroup> includedFans, int external525BayCount,
                 int external35BayCount, int internal35BayCount, int internal25BayCount,
                 int fullHeightExpansionSlotCount, int halfHeightExpansionSlotCount,
                 int verticalExpansionSlotCount, Map<String, List<FanConfiguration>> fanSupport,
                 Map<String, List<Integer>> radiatorSupport, String caseType, String color,
-                String sidePanel, boolean hasPsuShroud, Map<String, Integer> frontPanelPorts,
-                int heightMm, int widthMm, int depthMm, float volumeLiters) {
+                String sidePanel, boolean hasPsuShroud, int heightMm, int widthMm, int depthMm,
+                float volumeLiters) {
 
         super(id, name, manufacturer, price);
         
         this.maxGpuLengthMm = maxGpuLengthMm;
         this.includedPsuWatts = includedPsuWatts;
-        this.supportedMotherboards = new ArrayList<>();
-        this.includedFans = new ArrayList<>();
+        this.supportedMotherboards = supportedMotherboards != null ? new ArrayList<>(supportedMotherboards) : new ArrayList<>();
+        this.supportedPsuSizes = supportedPsuSizes != null ? new ArrayList<>(supportedPsuSizes) : new ArrayList<>();
+        this.includedFans = includedFans != null ? new ArrayList<>(includedFans) : new ArrayList<>();
 
         this.external525BayCount = external525BayCount;
         this.external35BayCount = external35BayCount;
@@ -72,13 +72,19 @@ public class Case extends Component {
         this.verticalExpansionSlotCount = verticalExpansionSlotCount;
 
         this.fanSupport = new LinkedHashMap<>();
+        if (fanSupport != null) {
+            fanSupport.forEach((k, v) -> this.fanSupport.put(k, new ArrayList<>(v)));
+        }
+        
         this.radiatorSupport = new LinkedHashMap<>();
+        if (radiatorSupport != null) {
+            radiatorSupport.forEach((k, v) -> this.radiatorSupport.put(k, new ArrayList<>(v)));
+        }
 
         this.caseType = caseType;
         this.color = color;
         this.sidePanel = sidePanel;
         this.hasPsuShroud = hasPsuShroud;
-        this.frontPanelPorts = new LinkedHashMap<>();
         
         this.heightMm = heightMm;
         this.widthMm = widthMm;
@@ -98,8 +104,9 @@ public class Case extends Component {
 
     public int getMaxGpuLengthMm() { return maxGpuLengthMm; }
     public int getIncludedPsuWatts() { return includedPsuWatts; }
-    public List<MotherboardFormFactor> getSupportedMotherboards() { return supportedMotherboards; }
-    public List<IncludedFanGroup> getIncludedFans() { return includedFans; }
+    public List<MotherboardFormFactor> getSupportedMotherboards() { return new ArrayList<>(supportedMotherboards); }
+    public List<String> getSupportedPsuSizes() { return new ArrayList<>(supportedPsuSizes); }
+    public List<IncludedFanGroup> getIncludedFans() { return new ArrayList<>(includedFans); }
 
     public int getExternal525BayCount() { return external525BayCount; }
     public int getExternal35BayCount() { return external35BayCount; }
@@ -110,15 +117,22 @@ public class Case extends Component {
     public int getHalfHeightExpansionSlotCount() { return halfHeightExpansionSlotCount; }
     public int getVerticalExpansionSlotCount() { return verticalExpansionSlotCount; }
 
-    public Map<String, List<FanConfiguration>> getFanSupport() { return fanSupport; }
-    public Map<String, List<Integer>> getRadiatorSupport() { return radiatorSupport; }
+    public Map<String, List<FanConfiguration>> getFanSupport() { 
+        Map<String, List<FanConfiguration>> copy = new LinkedHashMap<>();
+        fanSupport.forEach((k, v) -> copy.put(k, new ArrayList<>(v)));
+        return copy;
+    }
+    public Map<String, List<Integer>> getRadiatorSupport() { 
+        Map<String, List<Integer>> copy = new LinkedHashMap<>();
+        radiatorSupport.forEach((k, v) -> copy.put(k, new ArrayList<>(v)));
+        return copy;
+    }
     
     public String getCaseType() { return caseType; }
     public String getColor() { return color; }
     public String getSidePanel() { return sidePanel; }
     public boolean hasPsuShroud() { return hasPsuShroud; }
-    public Map<String, Integer> getFrontPanelPorts() { return frontPanelPorts; }
-
+   
     public int getHeightMm() { return heightMm; }
     public int getWidthMm() { return widthMm; }
     public int depthMm() { return depthMm; }
